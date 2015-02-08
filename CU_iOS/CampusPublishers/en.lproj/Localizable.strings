@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  CampusPublishers
+
+  Created by V2Solutions on 30/03/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+
+"MenuTitle"= "Menu";
+"AlertTitle" = "Campus Publishers";
+"AlertMessage" = "Data not found";
+"cancelButton" = "OK";
+"NetworkError" = "Network fail Error!!";
+"URLNotFound" = "URL not found!!";
+
+
+// SERVER_URL
+// bundle id
+// bundle name
+
+// IPAD_ADMOB_ID 

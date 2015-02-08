@@ -1,0 +1,8 @@
+
+
+
+// For OpenFlow
+#define COVER_SPACING 40
+#define CENTER_COVER_OFFSET 200
+#define SIDE_COVER_ANGLE .79
+#define SIDE_COVER_ZPOSITION -80
