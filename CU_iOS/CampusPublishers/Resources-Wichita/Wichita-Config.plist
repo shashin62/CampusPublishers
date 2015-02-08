@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UniversityID</key>
+	<integer>16</integer>
+	<key>AdMobID</key>
+	<string>ca-app-pub-7903757883844902/8699502989</string>
+	<key>isLiveMode</key>
+	<true/>
+	<key>GAnalyticsID</key>
+	<string>UA-55112261-20</string>
+</dict>
+</plist>
