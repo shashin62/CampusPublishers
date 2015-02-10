@@ -386,7 +386,7 @@ RKL_STATIC_INLINE id    rkl_ReleaseObject             (id obj)                  
 
 RKL_STATIC_INLINE void *rkl_realloc                   (void **ptr, size_t size, NSUInteger flags RKL_UNUSED_ARG) { return((*ptr = reallocf(*ptr, size))); }
 RKL_STATIC_INLINE void *rkl_free                      (void **ptr)                                               { if(*ptr != NULL) { free(*ptr); *ptr = NULL; } return(NULL); }
-RKL_STATIC_INLINE id    rkl_CFAutorelease             (CFTypeRef obj)                                            { return([(id)obj autorelease]); }
+RKL_STATIC_INLINE id    rkl_CFAutorelease             (CFTypeRef obj)                                            { return([(__bridge id)obj autorelease]); }
 RKL_STATIC_INLINE id    rkl_CreateArrayWithObjects    (void **objects, NSUInteger count)                         { return((id)CFArrayCreate(NULL, (const void **)objects, (CFIndex)count, &rkl_transferOwnershipArrayCallBacks)); }
 RKL_STATIC_INLINE id    rkl_CreateAutoreleasedArray   (void **objects, NSUInteger count)                         { return(rkl_CFAutorelease(rkl_CreateArrayWithObjects(objects, count))); }
 RKL_STATIC_INLINE id    rkl_CreateStringWithSubstring (id string, NSRange range)                                 { return((id)CFStringCreateWithSubstring(NULL, (CFStringRef)string, CFMakeRange((CFIndex)range.location, (CFIndex)range.length))); }

@@ -3,12 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>UniversityID</key>
-	<integer>5</integer>
-	<key>AdMobID</key>
-	<string>ca-app-pub-7903757883844902/2102658984</string>
-	<key>isLiveMode</key>
-	<true/>
-	<key>GAnalyticsID</key>
-	<string>UA-55112261-11</string>
+	<integer>0</integer>
 </dict>
 </plist>
