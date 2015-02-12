@@ -4208,6 +4208,12 @@
 		97E9573719D1D1D600CF563A /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
 		97EF1E0C18B66CCD00F79508 /* CPAdmob.m in Sources */ = {isa = PBXBuildFile; fileRef = 9749BFC018AD92590055A0A1 /* CPAdmob.m */; };
 		97EF1E0D18B66CCE00F79508 /* CPAdmob.m in Sources */ = {isa = PBXBuildFile; fileRef = 9749BFC018AD92590055A0A1 /* CPAdmob.m */; };
+		B92209621A8C920900AC1CAC /* CategoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C4D1A89D34B00C760B3 /* CategoryViewController.m */; };
+		B92209631A8C92D900AC1CAC /* CustomMacroHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C891A89D34B00C760B3 /* CustomMacroHandler.m */; };
+		B92209641A8C936200AC1CAC /* CustomTagHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C8B1A89D34B00C760B3 /* CustomTagHandler.m */; };
+		B92209651A8C94DE00AC1CAC /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401CB71A89D34C00C760B3 /* Utils.m */; };
+		B92209661A8C952700AC1CAC /* ImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C691A89D34B00C760B3 /* ImageViewController.m */; };
+		B92209671A8C955600AC1CAC /* NavController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C6C1A89D34B00C760B3 /* NavController.m */; };
 		B9401C381A89BC7D00C760B3 /* libzbar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BB0D5F01174369150058D839 /* libzbar.a */; };
 		B9401C3B1A89CD0A00C760B3 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0D8FF9E154930A000BA8ED1 /* CoreLocation.framework */; };
 		B9401C3C1A89CDF600C760B3 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
@@ -4322,8 +4328,8 @@
 		B9401D3B1A89E02800C760B3 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		B9401D3C1A89E02800C760B3 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		B9401D3F1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		B9401D401A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D411A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
+		B9401D401A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D411A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		B9401D421A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
 		B9401D431A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
 		B9401D441A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
@@ -4352,6 +4358,116 @@
 		B9401D5B1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
 		B9401D601A89F8E700C760B3 /* CampusPublishers-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9401D5F1A89F8C600C760B3 /* CampusPublishers-Info.plist */; };
 		B9401D611A89F8ED00C760B3 /* CampusPublishers-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9401D5E1A89F8C600C760B3 /* CampusPublishers-Config.plist */; };
+		B950FACC1A8C8EF900F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FACD1A8C8EF900F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FACE1A8C8EFA00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FACF1A8C8EFA00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD01A8C8EFB00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD11A8C8EFC00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD21A8C8EFC00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD31A8C8EFC00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD41A8C8EFD00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD51A8C8EFD00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD61A8C8EFF00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD71A8C8EFF00F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD81A8C8F0000F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAD91A8C8F0100F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FADA1A8C8F0100F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FADB1A8C8F0200F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FADC1A8C8F0200F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FADD1A8C8F0300F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FADE1A8C8F0300F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FADF1A8C8F0400F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE01A8C8F0400F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE11A8C8F0500F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE21A8C8F0500F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE31A8C8F0700F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE41A8C8F0700F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE51A8C8F0800F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE61A8C8F0800F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE71A8C8F0900F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
+		B950FAE81A8C909E00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAE91A8C90A200F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAEA1A8C90A300F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAEB1A8C90A300F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAEC1A8C90A400F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAED1A8C90A400F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAEE1A8C90A400F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAEF1A8C90A500F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF01A8C90A500F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF11A8C90A600F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF21A8C90A700F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF31A8C90A700F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF41A8C90A800F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF51A8C90A900F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF61A8C90A900F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF71A8C90AB00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF81A8C90AB00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAF91A8C90AB00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAFA1A8C90AC00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAFB1A8C90AC00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAFC1A8C90AC00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAFD1A8C90AE00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAFE1A8C90AE00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FAFF1A8C90AF00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FB001A8C90AF00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FB011A8C90AF00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FB021A8C90B000F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FB031A8C90B000F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
+		B950FB041A8C90D100F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB051A8C90D200F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB061A8C90D300F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB071A8C90D300F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB081A8C90D400F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB091A8C90D500F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB0A1A8C90D500F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB0B1A8C90D600F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB0C1A8C90D600F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB0D1A8C90D800F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB0E1A8C90D800F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB0F1A8C90D900F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB101A8C90DA00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB111A8C90DB00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB121A8C90DB00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB131A8C90DC00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB141A8C90DE00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB151A8C90DE00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB161A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB171A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB181A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB191A8C90E000F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB1A1A8C90E000F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB1B1A8C90E100F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB1C1A8C90E300F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
+		B950FB1D1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB1E1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB1F1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB201A8C910900F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB211A8C910900F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB221A8C910A00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB231A8C910A00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB241A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB251A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB261A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB271A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB281A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB291A8C910D00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB2A1A8C910E00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB2B1A8C910F00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB2C1A8C911000F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB2D1A8C911100F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB2E1A8C911100F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB2F1A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB301A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB311A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB321A8C911300F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB331A8C911300F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB341A8C911400F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB351A8C911400F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB361A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB371A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B950FB381A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
+		B9AB4FB71A8C97F500F01DCB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C4B1A89D34B00C760B3 /* AppDelegate.m */; };
 		BB0D5F09174369160058D839 /* zbar-back.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0D5F03174369150058D839 /* zbar-back.png */; };
 		BB0D5F0B174369160058D839 /* zbar-help.html in Resources */ = {isa = PBXBuildFile; fileRef = BB0D5F04174369150058D839 /* zbar-help.html */; };
 		BB0D5F0D174369160058D839 /* zbar-helpicons.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0D5F05174369150058D839 /* zbar-helpicons.png */; };
@@ -5777,11 +5893,13 @@
 				9717E87018CA4A2A0074C2F0 /* CoreLocation.framework in Frameworks */,
 				9717E87118CA4A2A0074C2F0 /* CFNetwork.framework in Frameworks */,
 				9717E87218CA4A2A0074C2F0 /* SystemConfiguration.framework in Frameworks */,
+				B950FB201A8C910900F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA1B1A08297F002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA341A0829B6002222DA /* libz.dylib in Frameworks */,
 				9717E87318CA4A2A0074C2F0 /* UIKit.framework in Frameworks */,
 				9717E87418CA4A2A0074C2F0 /* Foundation.framework in Frameworks */,
 				9717E87518CA4A2A0074C2F0 /* CoreGraphics.framework in Frameworks */,
+				B950FAEB1A8C90A300F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA071A08296B002222DA /* EventKit.framework in Frameworks */,
 				9717E87618CA4A2A0074C2F0 /* Security.framework in Frameworks */,
 				9717E87718CA4A2A0074C2F0 /* MediaPlayer.framework in Frameworks */,
@@ -5793,6 +5911,7 @@
 				97B9BA1E1A08298F002222DA /* libsqlite3.0.dylib in Frameworks */,
 				9717E87C18CA4A2A0074C2F0 /* CoreVideo.framework in Frameworks */,
 				9717E87D18CA4A2A0074C2F0 /* libiconv.dylib in Frameworks */,
+				B950FB051A8C90D200F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9717E87E18CA4A2A0074C2F0 /* libzbar.a in Frameworks */,
 				979FD47419DF56380070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -5810,11 +5929,13 @@
 				97367B111948B5140024AA22 /* CoreLocation.framework in Frameworks */,
 				97367B121948B5140024AA22 /* CFNetwork.framework in Frameworks */,
 				97367B131948B5140024AA22 /* SystemConfiguration.framework in Frameworks */,
+				B950FB2E1A8C911100F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA0E1A082974002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA371A0829BB002222DA /* libz.dylib in Frameworks */,
 				97367B141948B5140024AA22 /* UIKit.framework in Frameworks */,
 				97367B151948B5140024AA22 /* Foundation.framework in Frameworks */,
 				97367B161948B5140024AA22 /* CoreGraphics.framework in Frameworks */,
+				B950FAF91A8C90AB00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9B9FD1A082962002222DA /* EventKit.framework in Frameworks */,
 				97367B171948B5140024AA22 /* Security.framework in Frameworks */,
 				97367B181948B5140024AA22 /* MediaPlayer.framework in Frameworks */,
@@ -5826,6 +5947,7 @@
 				97B9BA261A082996002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97367B1D1948B5140024AA22 /* CoreVideo.framework in Frameworks */,
 				97367B1E1948B5140024AA22 /* libiconv.dylib in Frameworks */,
+				B950FB121A8C90DB00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97367B1F1948B5140024AA22 /* libzbar.a in Frameworks */,
 				979FD48219DF56440070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -5843,11 +5965,13 @@
 				97367B8E1948FC1E0024AA22 /* StoreKit.framework in Frameworks */,
 				97367B8F1948FC1E0024AA22 /* AdSupport.framework in Frameworks */,
 				97367B901948FC1E0024AA22 /* MessageUI.framework in Frameworks */,
+				B950FB2F1A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97367B911948FC1E0024AA22 /* iAd.framework in Frameworks */,
 				97367B921948FC1E0024AA22 /* MapKit.framework in Frameworks */,
 				97367B931948FC1E0024AA22 /* CoreLocation.framework in Frameworks */,
 				97367B941948FC1E0024AA22 /* CFNetwork.framework in Frameworks */,
 				97367B951948FC1E0024AA22 /* SystemConfiguration.framework in Frameworks */,
+				B950FAFA1A8C90AC00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97367B961948FC1E0024AA22 /* UIKit.framework in Frameworks */,
 				97367B971948FC1E0024AA22 /* Foundation.framework in Frameworks */,
 				97367B981948FC1E0024AA22 /* CoreGraphics.framework in Frameworks */,
@@ -5859,6 +5983,7 @@
 				97367B9E1948FC1E0024AA22 /* CoreMedia.framework in Frameworks */,
 				97367B9F1948FC1E0024AA22 /* CoreVideo.framework in Frameworks */,
 				97367BA01948FC1E0024AA22 /* libiconv.dylib in Frameworks */,
+				B950FB131A8C90DC00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97367BA11948FC1E0024AA22 /* libzbar.a in Frameworks */,
 				979FD48319DF56440070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -5876,11 +6001,13 @@
 				9743A76118F5D7460025FA2E /* StoreKit.framework in Frameworks */,
 				9743A76218F5D7460025FA2E /* AdSupport.framework in Frameworks */,
 				9743A76318F5D7460025FA2E /* MessageUI.framework in Frameworks */,
+				B950FB2C1A8C911000F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9743A76418F5D7460025FA2E /* iAd.framework in Frameworks */,
 				9743A76518F5D7460025FA2E /* MapKit.framework in Frameworks */,
 				9743A76618F5D7460025FA2E /* CoreLocation.framework in Frameworks */,
 				9743A76718F5D7460025FA2E /* CFNetwork.framework in Frameworks */,
 				9743A76818F5D7460025FA2E /* SystemConfiguration.framework in Frameworks */,
+				B950FAF71A8C90AB00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				9743A76918F5D7460025FA2E /* UIKit.framework in Frameworks */,
 				9743A76A18F5D7460025FA2E /* Foundation.framework in Frameworks */,
 				9743A76B18F5D7460025FA2E /* CoreGraphics.framework in Frameworks */,
@@ -5892,6 +6019,7 @@
 				9743A77118F5D7460025FA2E /* CoreMedia.framework in Frameworks */,
 				9743A77218F5D7460025FA2E /* CoreVideo.framework in Frameworks */,
 				9743A77318F5D7460025FA2E /* libiconv.dylib in Frameworks */,
+				B950FB0F1A8C90D900F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9743A77418F5D7460025FA2E /* libzbar.a in Frameworks */,
 				979FD48019DF56430070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -5902,12 +6030,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				97D200FB19F6D58000C59762 /* libz.dylib in Frameworks */,
+				B950FAEA1A8C90A300F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9B9DA1A07E201002222DA /* EventKit.framework in Frameworks */,
 				97B9B9DB1A07E201002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9D91A07E1EF002222DA /* CoreTelephony.framework in Frameworks */,
 				97D200FA19F6D56E00C59762 /* libsqlite3.0.dylib in Frameworks */,
 				97D200F819F6D06F00C59762 /* libzbar.a in Frameworks */,
 				975040D318C7D5EA002EE0E3 /* StoreKit.framework in Frameworks */,
+				B950FB1F1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				975040D418C7D5EA002EE0E3 /* AdSupport.framework in Frameworks */,
 				975040D518C7D5EA002EE0E3 /* MessageUI.framework in Frameworks */,
 				975040D618C7D5EA002EE0E3 /* iAd.framework in Frameworks */,
@@ -5943,11 +6073,13 @@
 				9754259418E5649100219CAA /* StoreKit.framework in Frameworks */,
 				9754259518E5649100219CAA /* AdSupport.framework in Frameworks */,
 				9754259618E5649100219CAA /* MessageUI.framework in Frameworks */,
+				B950FB261A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9754259718E5649100219CAA /* iAd.framework in Frameworks */,
 				9754259818E5649100219CAA /* MapKit.framework in Frameworks */,
 				9754259918E5649100219CAA /* CoreLocation.framework in Frameworks */,
 				9754259A18E5649100219CAA /* CFNetwork.framework in Frameworks */,
 				9754259B18E5649100219CAA /* SystemConfiguration.framework in Frameworks */,
+				B950FAF11A8C90A600F6C0DF /* libAdIdAccess.a in Frameworks */,
 				9754259C18E5649100219CAA /* UIKit.framework in Frameworks */,
 				9754259D18E5649100219CAA /* Foundation.framework in Frameworks */,
 				9754259E18E5649100219CAA /* CoreGraphics.framework in Frameworks */,
@@ -5959,6 +6091,7 @@
 				975425A418E5649100219CAA /* CoreMedia.framework in Frameworks */,
 				975425A518E5649100219CAA /* CoreVideo.framework in Frameworks */,
 				975425A618E5649100219CAA /* libiconv.dylib in Frameworks */,
+				B950FB0B1A8C90D600F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				975425A718E5649100219CAA /* libzbar.a in Frameworks */,
 				979FD47A19DF563B0070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -5976,11 +6109,13 @@
 				9754267B18E56AB000219CAA /* CoreLocation.framework in Frameworks */,
 				9754267C18E56AB000219CAA /* CFNetwork.framework in Frameworks */,
 				9754267D18E56AB000219CAA /* SystemConfiguration.framework in Frameworks */,
+				B950FB271A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA161A082979002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA301A0829B4002222DA /* libz.dylib in Frameworks */,
 				9754267E18E56AB000219CAA /* UIKit.framework in Frameworks */,
 				9754267F18E56AB000219CAA /* Foundation.framework in Frameworks */,
 				9754268018E56AB000219CAA /* CoreGraphics.framework in Frameworks */,
+				B950FAF21A8C90A700F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA0C1A08296F002222DA /* EventKit.framework in Frameworks */,
 				9754268118E56AB000219CAA /* Security.framework in Frameworks */,
 				9754268218E56AB000219CAA /* MediaPlayer.framework in Frameworks */,
@@ -5992,6 +6127,7 @@
 				97B9BA241A082994002222DA /* libsqlite3.0.dylib in Frameworks */,
 				9754268718E56AB000219CAA /* CoreVideo.framework in Frameworks */,
 				9754268818E56AB000219CAA /* libiconv.dylib in Frameworks */,
+				B950FB0C1A8C90D600F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9754268918E56AB000219CAA /* libzbar.a in Frameworks */,
 				979FD47B19DF563C0070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6002,12 +6138,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				979FD49719DF5D390070EB3F /* EventKitUI.framework in Frameworks */,
+				B950FAF31A8C90A700F6C0DF /* libAdIdAccess.a in Frameworks */,
 				979FD49519DF5D170070EB3F /* EventKit.framework in Frameworks */,
 				979FD49319DF5CCE0070EB3F /* CoreTelephony.framework in Frameworks */,
 				979FD49119DF5A5F0070EB3F /* libz.dylib in Frameworks */,
 				979FD49019DF59C50070EB3F /* libsqlite3.0.dylib in Frameworks */,
 				979FD48F19DF59450070EB3F /* libzbar.a in Frameworks */,
 				979FD48E19DF58E60070EB3F /* libGoogleAdMobAds.a in Frameworks */,
+				B950FB281A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9754275818E626E100219CAA /* StoreKit.framework in Frameworks */,
 				9754275918E626E100219CAA /* AdSupport.framework in Frameworks */,
 				9754275A18E626E100219CAA /* MessageUI.framework in Frameworks */,
@@ -6043,11 +6181,13 @@
 				97B9B9E51A08285B002222DA /* libz.dylib in Frameworks */,
 				9754283A18E62D8300219CAA /* StoreKit.framework in Frameworks */,
 				9754283B18E62D8300219CAA /* AdSupport.framework in Frameworks */,
+				B950FB291A8C910D00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9754283C18E62D8300219CAA /* MessageUI.framework in Frameworks */,
 				9754283D18E62D8300219CAA /* iAd.framework in Frameworks */,
 				9754283E18E62D8300219CAA /* MapKit.framework in Frameworks */,
 				9754283F18E62D8300219CAA /* CoreLocation.framework in Frameworks */,
 				9754284018E62D8300219CAA /* CFNetwork.framework in Frameworks */,
+				B950FAF41A8C90A800F6C0DF /* libAdIdAccess.a in Frameworks */,
 				9754284118E62D8300219CAA /* SystemConfiguration.framework in Frameworks */,
 				9754284218E62D8300219CAA /* UIKit.framework in Frameworks */,
 				9754284318E62D8300219CAA /* Foundation.framework in Frameworks */,
@@ -6059,6 +6199,7 @@
 				9754284918E62D8300219CAA /* AVFoundation.framework in Frameworks */,
 				9754284A18E62D8300219CAA /* CoreMedia.framework in Frameworks */,
 				9754284B18E62D8300219CAA /* CoreVideo.framework in Frameworks */,
+				B950FB0D1A8C90D800F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9754284C18E62D8300219CAA /* libiconv.dylib in Frameworks */,
 				9754284D18E62D8300219CAA /* libzbar.a in Frameworks */,
 			);
@@ -6076,11 +6217,13 @@
 				97B9B9DC1A07E408002222DA /* libz.dylib in Frameworks */,
 				9754291C18E6338E00219CAA /* StoreKit.framework in Frameworks */,
 				9754291D18E6338E00219CAA /* AdSupport.framework in Frameworks */,
+				B950FB2A1A8C910E00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9754291E18E6338E00219CAA /* MessageUI.framework in Frameworks */,
 				9754291F18E6338E00219CAA /* iAd.framework in Frameworks */,
 				9754292018E6338E00219CAA /* MapKit.framework in Frameworks */,
 				9754292118E6338E00219CAA /* CoreLocation.framework in Frameworks */,
 				9754292218E6338E00219CAA /* CFNetwork.framework in Frameworks */,
+				B950FAF51A8C90A900F6C0DF /* libAdIdAccess.a in Frameworks */,
 				9754292318E6338E00219CAA /* SystemConfiguration.framework in Frameworks */,
 				9754292418E6338E00219CAA /* UIKit.framework in Frameworks */,
 				9754292518E6338E00219CAA /* Foundation.framework in Frameworks */,
@@ -6092,6 +6235,7 @@
 				9754292B18E6338E00219CAA /* AVFoundation.framework in Frameworks */,
 				9754292C18E6338E00219CAA /* CoreMedia.framework in Frameworks */,
 				9754292D18E6338E00219CAA /* CoreVideo.framework in Frameworks */,
+				B950FB0E1A8C90D800F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9754292E18E6338E00219CAA /* libiconv.dylib in Frameworks */,
 				9754292F18E6338E00219CAA /* libzbar.a in Frameworks */,
 			);
@@ -6109,11 +6253,13 @@
 				975429FE18E6399800219CAA /* StoreKit.framework in Frameworks */,
 				975429FF18E6399800219CAA /* AdSupport.framework in Frameworks */,
 				97542A0018E6399800219CAA /* MessageUI.framework in Frameworks */,
+				B950FB2B1A8C910F00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97542A0118E6399800219CAA /* iAd.framework in Frameworks */,
 				97542A0218E6399800219CAA /* MapKit.framework in Frameworks */,
 				97542A0318E6399800219CAA /* CoreLocation.framework in Frameworks */,
 				97542A0418E6399800219CAA /* CFNetwork.framework in Frameworks */,
 				97542A0518E6399800219CAA /* SystemConfiguration.framework in Frameworks */,
+				B950FAF61A8C90A900F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97542A0618E6399800219CAA /* UIKit.framework in Frameworks */,
 				97542A0718E6399800219CAA /* Foundation.framework in Frameworks */,
 				97542A0818E6399800219CAA /* CoreGraphics.framework in Frameworks */,
@@ -6125,6 +6271,7 @@
 				97542A0E18E6399800219CAA /* CoreMedia.framework in Frameworks */,
 				97542A0F18E6399800219CAA /* CoreVideo.framework in Frameworks */,
 				97542A1018E6399800219CAA /* libiconv.dylib in Frameworks */,
+				B950FB101A8C90DA00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97542A1118E6399800219CAA /* libzbar.a in Frameworks */,
 				979FD47F19DF56420070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6142,11 +6289,13 @@
 				976BBC8818DAA6FA00929FF6 /* CoreLocation.framework in Frameworks */,
 				976BBC8918DAA6FA00929FF6 /* CFNetwork.framework in Frameworks */,
 				976BBC8A18DAA6FA00929FF6 /* SystemConfiguration.framework in Frameworks */,
+				B950FB211A8C910900F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA191A08297C002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA331A0829B6002222DA /* libz.dylib in Frameworks */,
 				976BBC8B18DAA6FA00929FF6 /* UIKit.framework in Frameworks */,
 				976BBC8C18DAA6FA00929FF6 /* Foundation.framework in Frameworks */,
 				976BBC8D18DAA6FA00929FF6 /* CoreGraphics.framework in Frameworks */,
+				B950FAEC1A8C90A400F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA081A08296C002222DA /* EventKit.framework in Frameworks */,
 				976BBC8E18DAA6FA00929FF6 /* Security.framework in Frameworks */,
 				976BBC8F18DAA6FA00929FF6 /* MediaPlayer.framework in Frameworks */,
@@ -6158,6 +6307,7 @@
 				97B9BA1F1A08298F002222DA /* libsqlite3.0.dylib in Frameworks */,
 				976BBC9418DAA6FA00929FF6 /* CoreVideo.framework in Frameworks */,
 				976BBC9518DAA6FA00929FF6 /* libiconv.dylib in Frameworks */,
+				B950FB061A8C90D300F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				976BBC9618DAA6FA00929FF6 /* libzbar.a in Frameworks */,
 				979FD47519DF56390070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6168,12 +6318,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				97B9B9EB1A08294F002222DA /* EventKitUI.framework in Frameworks */,
+				B950FAE91A8C90A200F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA061A08296B002222DA /* EventKit.framework in Frameworks */,
 				97E9573719D1D1D600CF563A /* libGoogleAdMobAds.a in Frameworks */,
 				9780B57518C12E7F009F19F7 /* libzbar.a in Frameworks */,
 				971B510A19AD417200E2E54E /* CoreData.framework in Frameworks */,
 				9780B56218C12E7F009F19F7 /* StoreKit.framework in Frameworks */,
 				9780B56318C12E7F009F19F7 /* AdSupport.framework in Frameworks */,
+				B950FB1E1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9780B56418C12E7F009F19F7 /* MessageUI.framework in Frameworks */,
 				9780B56518C12E7F009F19F7 /* iAd.framework in Frameworks */,
 				9780B56618C12E7F009F19F7 /* MapKit.framework in Frameworks */,
@@ -6209,6 +6361,7 @@
 				978311951869EF22009B9212 /* CoreLocation.framework in Frameworks */,
 				978311961869EF22009B9212 /* CFNetwork.framework in Frameworks */,
 				97B9BA1D1A082980002222DA /* CoreTelephony.framework in Frameworks */,
+				B950FB1D1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA351A0829B7002222DA /* libz.dylib in Frameworks */,
 				978311971869EF22009B9212 /* SystemConfiguration.framework in Frameworks */,
 				978311981869EF22009B9212 /* UIKit.framework in Frameworks */,
@@ -6226,7 +6379,9 @@
 				978311A11869EF22009B9212 /* CoreVideo.framework in Frameworks */,
 				978311A21869EF22009B9212 /* libiconv.dylib in Frameworks */,
 				979FD47219DF56370070EB3F /* CoreData.framework in Frameworks */,
+				B950FB041A8C90D100F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				978311A31869EF22009B9212 /* libzbar.a in Frameworks */,
+				B950FAE81A8C909E00F6C0DF /* libAdIdAccess.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -6242,11 +6397,13 @@
 				97B9B9EA1A0828E4002222DA /* libz.dylib in Frameworks */,
 				97876D6318E4970400614B59 /* StoreKit.framework in Frameworks */,
 				97876D6418E4970400614B59 /* AdSupport.framework in Frameworks */,
+				B950FB251A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97876D6518E4970400614B59 /* MessageUI.framework in Frameworks */,
 				97876D6618E4970400614B59 /* iAd.framework in Frameworks */,
 				97876D6718E4970400614B59 /* MapKit.framework in Frameworks */,
 				97876D6818E4970400614B59 /* CoreLocation.framework in Frameworks */,
 				97876D6918E4970400614B59 /* CFNetwork.framework in Frameworks */,
+				B950FAF01A8C90A500F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97876D6A18E4970400614B59 /* SystemConfiguration.framework in Frameworks */,
 				97876D6B18E4970400614B59 /* UIKit.framework in Frameworks */,
 				97876D6C18E4970400614B59 /* Foundation.framework in Frameworks */,
@@ -6258,6 +6415,7 @@
 				97876D7218E4970400614B59 /* AVFoundation.framework in Frameworks */,
 				97876D7318E4970400614B59 /* CoreMedia.framework in Frameworks */,
 				97876D7418E4970400614B59 /* CoreVideo.framework in Frameworks */,
+				B950FB0A1A8C90D500F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97876D7518E4970400614B59 /* libiconv.dylib in Frameworks */,
 				97876D7618E4970400614B59 /* libzbar.a in Frameworks */,
 			);
@@ -6275,11 +6433,13 @@
 				97ABE95418E360F900780496 /* CoreLocation.framework in Frameworks */,
 				97ABE95518E360F900780496 /* CFNetwork.framework in Frameworks */,
 				97ABE95618E360F900780496 /* SystemConfiguration.framework in Frameworks */,
+				B950FB221A8C910A00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA181A08297B002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA321A0829B6002222DA /* libz.dylib in Frameworks */,
 				97ABE95718E360F900780496 /* UIKit.framework in Frameworks */,
 				97ABE95818E360F900780496 /* Foundation.framework in Frameworks */,
 				97ABE95918E360F900780496 /* CoreGraphics.framework in Frameworks */,
+				B950FAED1A8C90A400F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA0A1A08296D002222DA /* EventKit.framework in Frameworks */,
 				97ABE95A18E360F900780496 /* Security.framework in Frameworks */,
 				97ABE95B18E360F900780496 /* MediaPlayer.framework in Frameworks */,
@@ -6291,6 +6451,7 @@
 				97B9BA221A082992002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97ABE96018E360F900780496 /* CoreVideo.framework in Frameworks */,
 				97ABE96118E360F900780496 /* libiconv.dylib in Frameworks */,
+				B950FB071A8C90D300F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97ABE96218E360F900780496 /* libzbar.a in Frameworks */,
 				979FD47619DF56390070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6308,11 +6469,13 @@
 				97ABEA3918E3969E00780496 /* CoreLocation.framework in Frameworks */,
 				97ABEA3A18E3969E00780496 /* CFNetwork.framework in Frameworks */,
 				97ABEA3B18E3969E00780496 /* SystemConfiguration.framework in Frameworks */,
+				B950FB231A8C910A00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA171A08297A002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA311A0829B5002222DA /* libz.dylib in Frameworks */,
 				97ABEA3C18E3969E00780496 /* UIKit.framework in Frameworks */,
 				97ABEA3D18E3969E00780496 /* Foundation.framework in Frameworks */,
 				97ABEA3E18E3969E00780496 /* CoreGraphics.framework in Frameworks */,
+				B950FAEE1A8C90A400F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA091A08296D002222DA /* EventKit.framework in Frameworks */,
 				97ABEA3F18E3969E00780496 /* Security.framework in Frameworks */,
 				97ABEA4018E3969E00780496 /* MediaPlayer.framework in Frameworks */,
@@ -6324,6 +6487,7 @@
 				97B9BA231A082993002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97ABEA4518E3969E00780496 /* CoreVideo.framework in Frameworks */,
 				97ABEA4618E3969E00780496 /* libiconv.dylib in Frameworks */,
+				B950FB081A8C90D400F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97ABEA4718E3969E00780496 /* libzbar.a in Frameworks */,
 				979FD47719DF563A0070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6341,11 +6505,13 @@
 				97ABEB1B18E3A67000780496 /* CoreLocation.framework in Frameworks */,
 				97ABEB1C18E3A67000780496 /* CFNetwork.framework in Frameworks */,
 				97ABEB1D18E3A67000780496 /* SystemConfiguration.framework in Frameworks */,
+				B950FB241A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA1A1A08297D002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA2F1A0829B2002222DA /* libz.dylib in Frameworks */,
 				97ABEB1E18E3A67000780496 /* UIKit.framework in Frameworks */,
 				97ABEB1F18E3A67000780496 /* Foundation.framework in Frameworks */,
 				97ABEB2018E3A67000780496 /* CoreGraphics.framework in Frameworks */,
+				B950FAEF1A8C90A500F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA0B1A08296E002222DA /* EventKit.framework in Frameworks */,
 				97ABEB2118E3A67000780496 /* Security.framework in Frameworks */,
 				97ABEB2218E3A67000780496 /* MediaPlayer.framework in Frameworks */,
@@ -6357,6 +6523,7 @@
 				97B9BA201A082990002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97ABEB2718E3A67000780496 /* CoreVideo.framework in Frameworks */,
 				97ABEB2818E3A67000780496 /* libiconv.dylib in Frameworks */,
+				B950FB091A8C90D500F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97ABEB2918E3A67000780496 /* libzbar.a in Frameworks */,
 				979FD47819DF563A0070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6374,11 +6541,13 @@
 				97BDFA7B192E740900879644 /* CoreLocation.framework in Frameworks */,
 				97BDFA7C192E740900879644 /* CFNetwork.framework in Frameworks */,
 				97BDFA7D192E740900879644 /* SystemConfiguration.framework in Frameworks */,
+				B950FB2D1A8C911100F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA0D1A082973002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA381A0829BB002222DA /* libz.dylib in Frameworks */,
 				97BDFA7E192E740900879644 /* UIKit.framework in Frameworks */,
 				97BDFA7F192E740900879644 /* Foundation.framework in Frameworks */,
 				97BDFA80192E740900879644 /* CoreGraphics.framework in Frameworks */,
+				B950FAF81A8C90AB00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9B9FC1A082961002222DA /* EventKit.framework in Frameworks */,
 				97BDFA81192E740900879644 /* Security.framework in Frameworks */,
 				97BDFA82192E740900879644 /* MediaPlayer.framework in Frameworks */,
@@ -6390,6 +6559,7 @@
 				97B9BA251A082996002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97BDFA87192E740900879644 /* CoreVideo.framework in Frameworks */,
 				97BDFA88192E740900879644 /* libiconv.dylib in Frameworks */,
+				B950FB111A8C90DB00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97BDFA89192E740900879644 /* libzbar.a in Frameworks */,
 				979FD48119DF56430070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6407,11 +6577,13 @@
 				97DF30061954D165003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF30071954D165003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF30081954D165003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB301A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA0F1A082975002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA391A0829BC002222DA /* libz.dylib in Frameworks */,
 				97DF30091954D165003BA2DF /* UIKit.framework in Frameworks */,
 				97DF300A1954D165003BA2DF /* Foundation.framework in Frameworks */,
 				97DF300B1954D165003BA2DF /* CoreGraphics.framework in Frameworks */,
+				B950FAFB1A8C90AC00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9B9FE1A082963002222DA /* EventKit.framework in Frameworks */,
 				97DF300C1954D165003BA2DF /* Security.framework in Frameworks */,
 				97DF300D1954D165003BA2DF /* MediaPlayer.framework in Frameworks */,
@@ -6423,6 +6595,7 @@
 				97B9BA2B1A08299A002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF30121954D165003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF30131954D165003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB141A8C90DE00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF30141954D165003BA2DF /* libzbar.a in Frameworks */,
 				979FD48419DF56440070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6440,11 +6613,13 @@
 				97DF30851954D1DB003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF30861954D1DB003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF30871954D1DB003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB311A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA101A082975002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA3A1A0829BC002222DA /* libz.dylib in Frameworks */,
 				97DF30881954D1DB003BA2DF /* UIKit.framework in Frameworks */,
 				97DF30891954D1DB003BA2DF /* Foundation.framework in Frameworks */,
 				97DF308A1954D1DB003BA2DF /* CoreGraphics.framework in Frameworks */,
+				B950FAFC1A8C90AC00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9B9FF1A082964002222DA /* EventKit.framework in Frameworks */,
 				97DF308B1954D1DB003BA2DF /* Security.framework in Frameworks */,
 				97DF308C1954D1DB003BA2DF /* MediaPlayer.framework in Frameworks */,
@@ -6456,6 +6631,7 @@
 				97B9BA2A1A08299A002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF30911954D1DB003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF30921954D1DB003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB151A8C90DE00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF30931954D1DB003BA2DF /* libzbar.a in Frameworks */,
 				979FD48519DF56450070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6473,11 +6649,13 @@
 				97DF31041954D1E1003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF31051954D1E1003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF31061954D1E1003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB321A8C911300F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA111A082976002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA3B1A0829BC002222DA /* libz.dylib in Frameworks */,
 				97DF31071954D1E1003BA2DF /* UIKit.framework in Frameworks */,
 				97DF31081954D1E1003BA2DF /* Foundation.framework in Frameworks */,
 				97DF31091954D1E1003BA2DF /* CoreGraphics.framework in Frameworks */,
+				B950FAFD1A8C90AE00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA001A082964002222DA /* EventKit.framework in Frameworks */,
 				97DF310A1954D1E1003BA2DF /* Security.framework in Frameworks */,
 				97DF310B1954D1E1003BA2DF /* MediaPlayer.framework in Frameworks */,
@@ -6489,6 +6667,7 @@
 				97B9BA291A082999002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF31101954D1E1003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF31111954D1E1003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB161A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF31121954D1E1003BA2DF /* libzbar.a in Frameworks */,
 				979FD48619DF56460070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6506,11 +6685,13 @@
 				97DF31831954D1F2003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF31841954D1F2003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF31851954D1F2003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB331A8C911300F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA121A082976002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA3C1A0829BD002222DA /* libz.dylib in Frameworks */,
 				97DF31861954D1F2003BA2DF /* UIKit.framework in Frameworks */,
 				97DF31871954D1F2003BA2DF /* Foundation.framework in Frameworks */,
 				97DF31881954D1F2003BA2DF /* CoreGraphics.framework in Frameworks */,
+				B950FAFE1A8C90AE00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA011A082965002222DA /* EventKit.framework in Frameworks */,
 				97DF31891954D1F2003BA2DF /* Security.framework in Frameworks */,
 				97DF318A1954D1F2003BA2DF /* MediaPlayer.framework in Frameworks */,
@@ -6522,6 +6703,7 @@
 				97B9BA281A082998002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF318F1954D1F2003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF31901954D1F2003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB171A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF31911954D1F2003BA2DF /* libzbar.a in Frameworks */,
 				979FD48719DF56460070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6539,11 +6721,13 @@
 				97DF32021954D1FD003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF32031954D1FD003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF32041954D1FD003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB341A8C911400F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA131A082977002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA3D1A0829BD002222DA /* libz.dylib in Frameworks */,
 				97DF32051954D1FD003BA2DF /* UIKit.framework in Frameworks */,
 				97DF32061954D1FD003BA2DF /* Foundation.framework in Frameworks */,
 				97DF32071954D1FD003BA2DF /* CoreGraphics.framework in Frameworks */,
+				B950FAFF1A8C90AF00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA021A082966002222DA /* EventKit.framework in Frameworks */,
 				97DF32081954D1FD003BA2DF /* Security.framework in Frameworks */,
 				97DF32091954D1FD003BA2DF /* MediaPlayer.framework in Frameworks */,
@@ -6555,6 +6739,7 @@
 				97B9BA271A082998002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF320E1954D1FD003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF320F1954D1FD003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB181A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF32101954D1FD003BA2DF /* libzbar.a in Frameworks */,
 				979FD48819DF56470070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6572,11 +6757,13 @@
 				97DF327C1954D213003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF327D1954D213003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF327E1954D213003BA2DF /* MessageUI.framework in Frameworks */,
+				B950FB351A8C911400F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97DF327F1954D213003BA2DF /* iAd.framework in Frameworks */,
 				97DF32801954D213003BA2DF /* MapKit.framework in Frameworks */,
 				97DF32811954D213003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF32821954D213003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF32831954D213003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB001A8C90AF00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97DF32841954D213003BA2DF /* UIKit.framework in Frameworks */,
 				97DF32851954D213003BA2DF /* Foundation.framework in Frameworks */,
 				97DF32861954D213003BA2DF /* CoreGraphics.framework in Frameworks */,
@@ -6588,6 +6775,7 @@
 				97DF328C1954D213003BA2DF /* CoreMedia.framework in Frameworks */,
 				97DF328D1954D213003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF328E1954D213003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB191A8C90E000F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF328F1954D213003BA2DF /* libzbar.a in Frameworks */,
 				979FD48919DF56480070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6605,11 +6793,13 @@
 				97DF32FB1954D222003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF32FC1954D222003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF32FD1954D222003BA2DF /* MessageUI.framework in Frameworks */,
+				B950FB361A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97DF32FE1954D222003BA2DF /* iAd.framework in Frameworks */,
 				97DF32FF1954D222003BA2DF /* MapKit.framework in Frameworks */,
 				97DF33001954D222003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF33011954D222003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF33021954D222003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB011A8C90AF00F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97DF33031954D222003BA2DF /* UIKit.framework in Frameworks */,
 				97DF33041954D222003BA2DF /* Foundation.framework in Frameworks */,
 				97DF33051954D222003BA2DF /* CoreGraphics.framework in Frameworks */,
@@ -6621,6 +6811,7 @@
 				97DF330B1954D222003BA2DF /* CoreMedia.framework in Frameworks */,
 				97DF330C1954D222003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF330D1954D222003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB1A1A8C90E000F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF330E1954D222003BA2DF /* libzbar.a in Frameworks */,
 				979FD48A19DF56480070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6638,11 +6829,13 @@
 				97DF337F1954D230003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF33801954D230003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF33811954D230003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB371A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA141A082978002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA3E1A0829C0002222DA /* libz.dylib in Frameworks */,
 				97DF33821954D230003BA2DF /* UIKit.framework in Frameworks */,
 				97DF33831954D230003BA2DF /* Foundation.framework in Frameworks */,
 				97DF33841954D230003BA2DF /* CoreGraphics.framework in Frameworks */,
+				B950FB021A8C90B000F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA031A082966002222DA /* EventKit.framework in Frameworks */,
 				97DF33851954D230003BA2DF /* Security.framework in Frameworks */,
 				97DF33861954D230003BA2DF /* MediaPlayer.framework in Frameworks */,
@@ -6654,6 +6847,7 @@
 				97B9BA2D1A08299C002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF338B1954D230003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF338C1954D230003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB1B1A8C90E100F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF338D1954D230003BA2DF /* libzbar.a in Frameworks */,
 				979FD48B19DF56490070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6671,11 +6865,13 @@
 				97DF33FE1954D23B003BA2DF /* CoreLocation.framework in Frameworks */,
 				97DF33FF1954D23B003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF34001954D23B003BA2DF /* SystemConfiguration.framework in Frameworks */,
+				B950FB381A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97B9BA151A082978002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9BA3F1A0829C0002222DA /* libz.dylib in Frameworks */,
 				97DF34011954D23B003BA2DF /* UIKit.framework in Frameworks */,
 				97DF34021954D23B003BA2DF /* Foundation.framework in Frameworks */,
 				97DF34031954D23B003BA2DF /* CoreGraphics.framework in Frameworks */,
+				B950FB031A8C90B000F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA041A082967002222DA /* EventKit.framework in Frameworks */,
 				97DF34041954D23B003BA2DF /* Security.framework in Frameworks */,
 				97DF34051954D23B003BA2DF /* MediaPlayer.framework in Frameworks */,
@@ -6687,6 +6883,7 @@
 				97B9BA2C1A08299C002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF340A1954D23B003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF340B1954D23B003BA2DF /* libiconv.dylib in Frameworks */,
+				B950FB1C1A8C90E300F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF340C1954D23B003BA2DF /* libzbar.a in Frameworks */,
 				979FD48C19DF56490070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -9778,7 +9975,7 @@
 		22CFA5F21524A080004DEE6A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0610;
 				TargetAttributes = {
 					9717E83418CA4A2A0074C2F0 = {
 						DevelopmentTeam = QR9N5T8L75;
@@ -12376,6 +12573,7 @@
 				9717E85A18CA4A2A0074C2F0 /* PlaceMark.m in Sources */,
 				9717E85D18CA4A2A0074C2F0 /* RootViewController.m in Sources */,
 				9717E85E18CA4A2A0074C2F0 /* MyAnnotation.m in Sources */,
+				B950FACF1A8C8EFA00F6C0DF /* CPAddBannerView.m in Sources */,
 				9717E85F18CA4A2A0074C2F0 /* Place.m in Sources */,
 				9717E86018CA4A2A0074C2F0 /* PointObject.m in Sources */,
 				9717E86118CA4A2A0074C2F0 /* CustomMapItem.m in Sources */,
@@ -12435,6 +12633,7 @@
 				97367AFB1948B5140024AA22 /* PlaceMark.m in Sources */,
 				97367AFE1948B5140024AA22 /* RootViewController.m in Sources */,
 				97367AFF1948B5140024AA22 /* MyAnnotation.m in Sources */,
+				B950FADD1A8C8F0300F6C0DF /* CPAddBannerView.m in Sources */,
 				97367B001948B5140024AA22 /* Place.m in Sources */,
 				97367B011948B5140024AA22 /* PointObject.m in Sources */,
 				97367B021948B5140024AA22 /* CustomMapItem.m in Sources */,
@@ -12494,6 +12693,7 @@
 				97367B7D1948FC1E0024AA22 /* PlaceMark.m in Sources */,
 				97367B801948FC1E0024AA22 /* RootViewController.m in Sources */,
 				97367B811948FC1E0024AA22 /* MyAnnotation.m in Sources */,
+				B950FADE1A8C8F0300F6C0DF /* CPAddBannerView.m in Sources */,
 				97367B821948FC1E0024AA22 /* Place.m in Sources */,
 				97367B831948FC1E0024AA22 /* PointObject.m in Sources */,
 				97367B841948FC1E0024AA22 /* CustomMapItem.m in Sources */,
@@ -12553,6 +12753,7 @@
 				9743A75018F5D7460025FA2E /* PlaceMark.m in Sources */,
 				9743A75318F5D7460025FA2E /* RootViewController.m in Sources */,
 				9743A75418F5D7460025FA2E /* MyAnnotation.m in Sources */,
+				B950FADB1A8C8F0200F6C0DF /* CPAddBannerView.m in Sources */,
 				9743A75518F5D7460025FA2E /* Place.m in Sources */,
 				9743A75618F5D7460025FA2E /* PointObject.m in Sources */,
 				9743A75718F5D7460025FA2E /* CustomMapItem.m in Sources */,
@@ -12612,6 +12813,7 @@
 				975040C218C7D5EA002EE0E3 /* PlaceMark.m in Sources */,
 				975040C518C7D5EA002EE0E3 /* RootViewController.m in Sources */,
 				975040C618C7D5EA002EE0E3 /* MyAnnotation.m in Sources */,
+				B950FACE1A8C8EFA00F6C0DF /* CPAddBannerView.m in Sources */,
 				975040C718C7D5EA002EE0E3 /* Place.m in Sources */,
 				975040C818C7D5EA002EE0E3 /* PointObject.m in Sources */,
 				975040C918C7D5EA002EE0E3 /* CustomMapItem.m in Sources */,
@@ -12671,6 +12873,7 @@
 				9754258318E5649100219CAA /* PlaceMark.m in Sources */,
 				9754258618E5649100219CAA /* RootViewController.m in Sources */,
 				9754258718E5649100219CAA /* MyAnnotation.m in Sources */,
+				B950FAD51A8C8EFD00F6C0DF /* CPAddBannerView.m in Sources */,
 				9754258818E5649100219CAA /* Place.m in Sources */,
 				9754258918E5649100219CAA /* PointObject.m in Sources */,
 				9754258A18E5649100219CAA /* CustomMapItem.m in Sources */,
@@ -12730,6 +12933,7 @@
 				9754266518E56AB000219CAA /* PlaceMark.m in Sources */,
 				9754266818E56AB000219CAA /* RootViewController.m in Sources */,
 				9754266918E56AB000219CAA /* MyAnnotation.m in Sources */,
+				B950FAD61A8C8EFF00F6C0DF /* CPAddBannerView.m in Sources */,
 				9754266A18E56AB000219CAA /* Place.m in Sources */,
 				9754266B18E56AB000219CAA /* PointObject.m in Sources */,
 				9754266C18E56AB000219CAA /* CustomMapItem.m in Sources */,
@@ -12789,6 +12993,7 @@
 				9754274718E626E100219CAA /* PlaceMark.m in Sources */,
 				9754274A18E626E100219CAA /* RootViewController.m in Sources */,
 				9754274B18E626E100219CAA /* MyAnnotation.m in Sources */,
+				B950FAD71A8C8EFF00F6C0DF /* CPAddBannerView.m in Sources */,
 				9754274C18E626E100219CAA /* Place.m in Sources */,
 				9754274D18E626E100219CAA /* PointObject.m in Sources */,
 				9754274E18E626E100219CAA /* CustomMapItem.m in Sources */,
@@ -12848,6 +13053,7 @@
 				9754282918E62D8300219CAA /* PlaceMark.m in Sources */,
 				9754282C18E62D8300219CAA /* RootViewController.m in Sources */,
 				9754282D18E62D8300219CAA /* MyAnnotation.m in Sources */,
+				B950FAD81A8C8F0000F6C0DF /* CPAddBannerView.m in Sources */,
 				9754282E18E62D8300219CAA /* Place.m in Sources */,
 				9754282F18E62D8300219CAA /* PointObject.m in Sources */,
 				9754283018E62D8300219CAA /* CustomMapItem.m in Sources */,
@@ -12907,6 +13113,7 @@
 				9754290B18E6338E00219CAA /* PlaceMark.m in Sources */,
 				9754290E18E6338E00219CAA /* RootViewController.m in Sources */,
 				9754290F18E6338E00219CAA /* MyAnnotation.m in Sources */,
+				B950FAD91A8C8F0100F6C0DF /* CPAddBannerView.m in Sources */,
 				9754291018E6338E00219CAA /* Place.m in Sources */,
 				9754291118E6338E00219CAA /* PointObject.m in Sources */,
 				9754291218E6338E00219CAA /* CustomMapItem.m in Sources */,
@@ -12966,6 +13173,7 @@
 				975429ED18E6399800219CAA /* PlaceMark.m in Sources */,
 				975429F018E6399800219CAA /* RootViewController.m in Sources */,
 				975429F118E6399800219CAA /* MyAnnotation.m in Sources */,
+				B950FADA1A8C8F0100F6C0DF /* CPAddBannerView.m in Sources */,
 				975429F218E6399800219CAA /* Place.m in Sources */,
 				975429F318E6399800219CAA /* PointObject.m in Sources */,
 				975429F418E6399800219CAA /* CustomMapItem.m in Sources */,
@@ -13025,6 +13233,7 @@
 				976BBC7218DAA6FA00929FF6 /* PlaceMark.m in Sources */,
 				976BBC7518DAA6FA00929FF6 /* RootViewController.m in Sources */,
 				976BBC7618DAA6FA00929FF6 /* MyAnnotation.m in Sources */,
+				B950FAD01A8C8EFB00F6C0DF /* CPAddBannerView.m in Sources */,
 				976BBC7718DAA6FA00929FF6 /* Place.m in Sources */,
 				976BBC7818DAA6FA00929FF6 /* PointObject.m in Sources */,
 				976BBC7918DAA6FA00929FF6 /* CustomMapItem.m in Sources */,
@@ -13084,6 +13293,7 @@
 				9780B55118C12E7F009F19F7 /* PlaceMark.m in Sources */,
 				9780B55418C12E7F009F19F7 /* RootViewController.m in Sources */,
 				9780B55518C12E7F009F19F7 /* MyAnnotation.m in Sources */,
+				B950FACD1A8C8EF900F6C0DF /* CPAddBannerView.m in Sources */,
 				9780B55618C12E7F009F19F7 /* Place.m in Sources */,
 				9780B55718C12E7F009F19F7 /* PointObject.m in Sources */,
 				9780B55818C12E7F009F19F7 /* CustomMapItem.m in Sources */,
@@ -13103,17 +13313,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9783115C1869EF22009B9212 /* CPUniversity.m in Sources */,
-				9783115D1869EF22009B9212 /* CPSwipeView.m in Sources */,
-				9783115E1869EF22009B9212 /* main.m in Sources */,
-				9783115F1869EF22009B9212 /* CPAppDelegate.m in Sources */,
-				978311601869EF22009B9212 /* NetReachability.m in Sources */,
-				978311611869EF22009B9212 /* NSObject+SBJSON.m in Sources */,
-				978311621869EF22009B9212 /* NSString+SBJSON.m in Sources */,
-				978311631869EF22009B9212 /* SBJSON.m in Sources */,
-				978311641869EF22009B9212 /* SBJsonBase.m in Sources */,
-				978311651869EF22009B9212 /* SBJsonParser.m in Sources */,
-				978311661869EF22009B9212 /* SBJsonWriter.m in Sources */,
+				B9AB4FB71A8C97F500F01DCB /* AppDelegate.m in Sources */,
+				B92209671A8C955600AC1CAC /* NavController.m in Sources */,
+				B92209661A8C952700AC1CAC /* ImageViewController.m in Sources */,
+				B92209651A8C94DE00AC1CAC /* Utils.m in Sources */,
+				B92209641A8C936200AC1CAC /* CustomTagHandler.m in Sources */,
+				B92209631A8C92D900AC1CAC /* CustomMacroHandler.m in Sources */,
+				B92209621A8C920900AC1CAC /* CategoryViewController.m in Sources */,
 				978311671869EF22009B9212 /* CPConnection.m in Sources */,
 				978311681869EF22009B9212 /* CPConnectionManager.m in Sources */,
 				978311691869EF22009B9212 /* CPRequest.m in Sources */,
@@ -13121,40 +13327,52 @@
 				9783116B1869EF22009B9212 /* CPConfiguration.m in Sources */,
 				9783116C1869EF22009B9212 /* CPConfigurationColor.m in Sources */,
 				9783116D1869EF22009B9212 /* CPConfigurationFont.m in Sources */,
-				B9401D401A89E06700C760B3 /* RegexKitLite.m in Sources */,
 				9783116E1869EF22009B9212 /* CPMenu.m in Sources */,
+				9783115D1869EF22009B9212 /* CPSwipeView.m in Sources */,
+				B950FACC1A8C8EF900F6C0DF /* CPAddBannerView.m in Sources */,
 				9783116F1869EF22009B9212 /* CPMenuViewController.m in Sources */,
 				978311701869EF22009B9212 /* CPPageViewController.m in Sources */,
 				978311711869EF22009B9212 /* CPUtility.m in Sources */,
-				97EF1E0D18B66CCE00F79508 /* CPAdmob.m in Sources */,
-				978311721869EF22009B9212 /* CPDataManger.m in Sources */,
 				978311731869EF22009B9212 /* CPContent.m in Sources */,
 				978311741869EF22009B9212 /* CMPImage.m in Sources */,
 				978311751869EF22009B9212 /* CMPPage.m in Sources */,
 				978311761869EF22009B9212 /* CPVideo.m in Sources */,
-				978311771869EF22009B9212 /* AFItemView.m in Sources */,
 				978311781869EF22009B9212 /* CPGalleryViewController.m in Sources */,
-				974C20ED19D32EC600A44BEF /* CPAnalytics.m in Sources */,
-				978311791869EF22009B9212 /* AFOpenFlowView.m in Sources */,
 				9783117A1869EF22009B9212 /* CPHeaderTitleView.m in Sources */,
+				9783115C1869EF22009B9212 /* CPUniversity.m in Sources */,
+				974C20ED19D32EC600A44BEF /* CPAnalytics.m in Sources */,
 				9783117B1869EF22009B9212 /* CPSetUpViewController.m in Sources */,
-				9783117C1869EF22009B9212 /* AFUIImageReflection.m in Sources */,
+				978311721869EF22009B9212 /* CPDataManger.m in Sources */,
+				978311861869EF22009B9212 /* CustomMapItem.m in Sources */,
+				978311871869EF22009B9212 /* CustomAnnotationView.m in Sources */,
+				978311891869EF22009B9212 /* CPMapCategories.m in Sources */,
+				9783118B1869EF22009B9212 /* CpTourGuideIPhone.m in Sources */,
+				97EF1E0D18B66CCE00F79508 /* CPAdmob.m in Sources */,
+				9783118D1869EF22009B9212 /* CustomImageView.m in Sources */,
+				9783118E1869EF22009B9212 /* CPNewPageViewController.m in Sources */,
+				9783115F1869EF22009B9212 /* CPAppDelegate.m in Sources */,
+				9783115E1869EF22009B9212 /* main.m in Sources */,
+				B9401D211A89E02800C760B3 /* LoadingView.m in Sources */,
+				978311601869EF22009B9212 /* NetReachability.m in Sources */,
+				978311611869EF22009B9212 /* NSObject+SBJSON.m in Sources */,
+				978311621869EF22009B9212 /* NSString+SBJSON.m in Sources */,
+				978311631869EF22009B9212 /* SBJSON.m in Sources */,
+				978311641869EF22009B9212 /* SBJsonBase.m in Sources */,
+				978311651869EF22009B9212 /* SBJsonParser.m in Sources */,
+				978311661869EF22009B9212 /* SBJsonWriter.m in Sources */,
 				9783117E1869EF22009B9212 /* MapView.m in Sources */,
 				9783117F1869EF22009B9212 /* PlaceMark.m in Sources */,
+				978311771869EF22009B9212 /* AFItemView.m in Sources */,
+				978311791869EF22009B9212 /* AFOpenFlowView.m in Sources */,
+				9783117C1869EF22009B9212 /* AFUIImageReflection.m in Sources */,
 				978311821869EF22009B9212 /* RootViewController.m in Sources */,
 				978311831869EF22009B9212 /* MyAnnotation.m in Sources */,
 				978311841869EF22009B9212 /* Place.m in Sources */,
 				978311851869EF22009B9212 /* PointObject.m in Sources */,
-				978311861869EF22009B9212 /* CustomMapItem.m in Sources */,
-				978311871869EF22009B9212 /* CustomAnnotationView.m in Sources */,
 				978311881869EF22009B9212 /* ScanResultsPage.m in Sources */,
-				978311891869EF22009B9212 /* CPMapCategories.m in Sources */,
 				9783118A1869EF22009B9212 /* PikerContrller.m in Sources */,
-				9783118B1869EF22009B9212 /* CpTourGuideIPhone.m in Sources */,
 				9783118C1869EF22009B9212 /* DescriptionViewController.m in Sources */,
-				B9401D211A89E02800C760B3 /* LoadingView.m in Sources */,
-				9783118D1869EF22009B9212 /* CustomImageView.m in Sources */,
-				9783118E1869EF22009B9212 /* CPNewPageViewController.m in Sources */,
+				B9401D401A89E06700C760B3 /* RegexKitLite.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -13202,6 +13420,7 @@
 				97876D5218E4970400614B59 /* PlaceMark.m in Sources */,
 				97876D5518E4970400614B59 /* RootViewController.m in Sources */,
 				97876D5618E4970400614B59 /* MyAnnotation.m in Sources */,
+				B950FAD41A8C8EFD00F6C0DF /* CPAddBannerView.m in Sources */,
 				97876D5718E4970400614B59 /* Place.m in Sources */,
 				97876D5818E4970400614B59 /* PointObject.m in Sources */,
 				97876D5918E4970400614B59 /* CustomMapItem.m in Sources */,
@@ -13261,6 +13480,7 @@
 				97ABE93E18E360F900780496 /* PlaceMark.m in Sources */,
 				97ABE94118E360F900780496 /* RootViewController.m in Sources */,
 				97ABE94218E360F900780496 /* MyAnnotation.m in Sources */,
+				B950FAD11A8C8EFC00F6C0DF /* CPAddBannerView.m in Sources */,
 				97ABE94318E360F900780496 /* Place.m in Sources */,
 				97ABE94418E360F900780496 /* PointObject.m in Sources */,
 				97ABE94518E360F900780496 /* CustomMapItem.m in Sources */,
@@ -13320,6 +13540,7 @@
 				97ABEA2318E3969E00780496 /* PlaceMark.m in Sources */,
 				97ABEA2618E3969E00780496 /* RootViewController.m in Sources */,
 				97ABEA2718E3969E00780496 /* MyAnnotation.m in Sources */,
+				B950FAD21A8C8EFC00F6C0DF /* CPAddBannerView.m in Sources */,
 				97ABEA2818E3969E00780496 /* Place.m in Sources */,
 				97ABEA2918E3969E00780496 /* PointObject.m in Sources */,
 				97ABEA2A18E3969E00780496 /* CustomMapItem.m in Sources */,
@@ -13379,6 +13600,7 @@
 				97ABEB0518E3A67000780496 /* PlaceMark.m in Sources */,
 				97ABEB0818E3A67000780496 /* RootViewController.m in Sources */,
 				97ABEB0918E3A67000780496 /* MyAnnotation.m in Sources */,
+				B950FAD31A8C8EFC00F6C0DF /* CPAddBannerView.m in Sources */,
 				97ABEB0A18E3A67000780496 /* Place.m in Sources */,
 				97ABEB0B18E3A67000780496 /* PointObject.m in Sources */,
 				97ABEB0C18E3A67000780496 /* CustomMapItem.m in Sources */,
@@ -13438,6 +13660,7 @@
 				97BDFA65192E740900879644 /* PlaceMark.m in Sources */,
 				97BDFA68192E740900879644 /* RootViewController.m in Sources */,
 				97BDFA69192E740900879644 /* MyAnnotation.m in Sources */,
+				B950FADC1A8C8F0200F6C0DF /* CPAddBannerView.m in Sources */,
 				97BDFA6A192E740900879644 /* Place.m in Sources */,
 				97BDFA6B192E740900879644 /* PointObject.m in Sources */,
 				97BDFA6C192E740900879644 /* CustomMapItem.m in Sources */,
@@ -13497,6 +13720,7 @@
 				97DF2FF01954D165003BA2DF /* PlaceMark.m in Sources */,
 				97DF2FF31954D165003BA2DF /* RootViewController.m in Sources */,
 				97DF2FF41954D165003BA2DF /* MyAnnotation.m in Sources */,
+				B950FADF1A8C8F0400F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF2FF51954D165003BA2DF /* Place.m in Sources */,
 				97DF2FF61954D165003BA2DF /* PointObject.m in Sources */,
 				97DF2FF71954D165003BA2DF /* CustomMapItem.m in Sources */,
@@ -13556,6 +13780,7 @@
 				97DF306F1954D1DB003BA2DF /* PlaceMark.m in Sources */,
 				97DF30721954D1DB003BA2DF /* RootViewController.m in Sources */,
 				97DF30731954D1DB003BA2DF /* MyAnnotation.m in Sources */,
+				B950FAE01A8C8F0400F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF30741954D1DB003BA2DF /* Place.m in Sources */,
 				97DF30751954D1DB003BA2DF /* PointObject.m in Sources */,
 				97DF30761954D1DB003BA2DF /* CustomMapItem.m in Sources */,
@@ -13615,6 +13840,7 @@
 				97DF30EE1954D1E1003BA2DF /* PlaceMark.m in Sources */,
 				97DF30F11954D1E1003BA2DF /* RootViewController.m in Sources */,
 				97DF30F21954D1E1003BA2DF /* MyAnnotation.m in Sources */,
+				B950FAE11A8C8F0500F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF30F31954D1E1003BA2DF /* Place.m in Sources */,
 				97DF30F41954D1E1003BA2DF /* PointObject.m in Sources */,
 				97DF30F51954D1E1003BA2DF /* CustomMapItem.m in Sources */,
@@ -13674,6 +13900,7 @@
 				97DF316D1954D1F2003BA2DF /* PlaceMark.m in Sources */,
 				97DF31701954D1F2003BA2DF /* RootViewController.m in Sources */,
 				97DF31711954D1F2003BA2DF /* MyAnnotation.m in Sources */,
+				B950FAE21A8C8F0500F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF31721954D1F2003BA2DF /* Place.m in Sources */,
 				97DF31731954D1F2003BA2DF /* PointObject.m in Sources */,
 				97DF31741954D1F2003BA2DF /* CustomMapItem.m in Sources */,
@@ -13733,6 +13960,7 @@
 				97DF31EC1954D1FD003BA2DF /* PlaceMark.m in Sources */,
 				97DF31EF1954D1FD003BA2DF /* RootViewController.m in Sources */,
 				97DF31F01954D1FD003BA2DF /* MyAnnotation.m in Sources */,
+				B950FAE31A8C8F0700F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF31F11954D1FD003BA2DF /* Place.m in Sources */,
 				97DF31F21954D1FD003BA2DF /* PointObject.m in Sources */,
 				97DF31F31954D1FD003BA2DF /* CustomMapItem.m in Sources */,
@@ -13792,6 +14020,7 @@
 				97DF326B1954D213003BA2DF /* PlaceMark.m in Sources */,
 				97DF326E1954D213003BA2DF /* RootViewController.m in Sources */,
 				97DF326F1954D213003BA2DF /* MyAnnotation.m in Sources */,
+				B950FAE41A8C8F0700F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF32701954D213003BA2DF /* Place.m in Sources */,
 				97DF32711954D213003BA2DF /* PointObject.m in Sources */,
 				97DF32721954D213003BA2DF /* CustomMapItem.m in Sources */,
@@ -13851,6 +14080,7 @@
 				97DF32EA1954D222003BA2DF /* PlaceMark.m in Sources */,
 				97DF32ED1954D222003BA2DF /* RootViewController.m in Sources */,
 				97DF32EE1954D222003BA2DF /* MyAnnotation.m in Sources */,
+				B950FAE51A8C8F0800F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF32EF1954D222003BA2DF /* Place.m in Sources */,
 				97DF32F01954D222003BA2DF /* PointObject.m in Sources */,
 				97DF32F11954D222003BA2DF /* CustomMapItem.m in Sources */,
@@ -13910,6 +14140,7 @@
 				97DF33691954D230003BA2DF /* PlaceMark.m in Sources */,
 				97DF336C1954D230003BA2DF /* RootViewController.m in Sources */,
 				97DF336D1954D230003BA2DF /* MyAnnotation.m in Sources */,
+				B950FAE61A8C8F0800F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF336E1954D230003BA2DF /* Place.m in Sources */,
 				97DF336F1954D230003BA2DF /* PointObject.m in Sources */,
 				97DF33701954D230003BA2DF /* CustomMapItem.m in Sources */,
@@ -13969,6 +14200,7 @@
 				97DF33E81954D23B003BA2DF /* PlaceMark.m in Sources */,
 				97DF33EB1954D23B003BA2DF /* RootViewController.m in Sources */,
 				97DF33EC1954D23B003BA2DF /* MyAnnotation.m in Sources */,
+				B950FAE71A8C8F0900F6C0DF /* CPAddBannerView.m in Sources */,
 				97DF33ED1954D23B003BA2DF /* Place.m in Sources */,
 				97DF33EE1954D23B003BA2DF /* PointObject.m in Sources */,
 				97DF33EF1954D23B003BA2DF /* CustomMapItem.m in Sources */,
@@ -14034,7 +14266,7 @@
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = "";
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				PROVISIONING_PROFILE = "68887919-15CC-41EC-8C59-673E075B92CA";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "68887919-15CC-41EC-8C59-673E075B92CA";
 				SDKROOT = iphoneos;
@@ -14163,6 +14395,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14199,6 +14432,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14235,6 +14469,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14271,6 +14506,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14311,6 +14547,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14348,6 +14585,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14385,6 +14623,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14422,6 +14661,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14461,6 +14701,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14497,6 +14738,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14533,6 +14775,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14569,6 +14812,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14608,6 +14852,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14644,6 +14889,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14680,6 +14926,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14716,6 +14963,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14910,6 +15158,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14946,6 +15195,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -14982,6 +15232,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15018,6 +15269,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15058,6 +15310,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15095,6 +15348,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15132,6 +15386,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15169,6 +15424,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15363,6 +15619,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15399,6 +15656,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15435,6 +15693,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15471,6 +15730,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15510,6 +15770,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15547,6 +15808,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15584,6 +15846,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15621,6 +15884,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15661,6 +15925,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15697,6 +15962,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15733,6 +15999,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15769,6 +16036,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15808,6 +16076,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15844,6 +16113,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15880,6 +16150,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -15916,6 +16187,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16107,7 +16379,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "CU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16115,18 +16387,18 @@
 					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit CU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -16144,7 +16416,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "CU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16152,18 +16424,18 @@
 					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit CU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -16181,7 +16453,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "CU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16189,18 +16461,18 @@
 					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit CU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -16218,7 +16490,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "CU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16226,18 +16498,18 @@
 					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit CU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -16265,6 +16537,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16301,6 +16574,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16337,6 +16611,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16373,6 +16648,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16412,6 +16688,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16448,6 +16725,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16484,6 +16762,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16520,6 +16799,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16559,6 +16839,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16595,6 +16876,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16631,6 +16913,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16667,6 +16950,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16705,6 +16989,8 @@
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
+					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16740,6 +17026,8 @@
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
+					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16775,6 +17063,8 @@
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
+					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16810,6 +17100,8 @@
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
+					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16849,6 +17141,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16885,6 +17178,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16921,6 +17215,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16957,6 +17252,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16996,6 +17292,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17032,6 +17329,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17068,6 +17366,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17104,6 +17403,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17143,6 +17443,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17179,6 +17480,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17215,6 +17517,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17251,6 +17554,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17290,6 +17594,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17326,6 +17631,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17362,6 +17668,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17398,6 +17705,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17437,6 +17745,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17473,6 +17782,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17509,6 +17819,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17545,6 +17856,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17584,6 +17896,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17620,6 +17933,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17656,6 +17970,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17692,6 +18007,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17731,6 +18047,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17767,6 +18084,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17803,6 +18121,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17839,6 +18158,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17878,6 +18198,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17914,6 +18235,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17950,6 +18272,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -17986,6 +18309,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -18025,6 +18349,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -18061,6 +18386,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -18097,6 +18423,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -18133,6 +18460,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -18172,6 +18500,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -18208,6 +18537,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -18244,6 +18574,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -18280,6 +18611,7 @@
 					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
+					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
