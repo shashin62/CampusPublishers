@@ -23,6 +23,35 @@
 		22CFA6C71525EF25004DEE6A /* CPMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA6B71525EF25004DEE6A /* CPMenu.m */; };
 		22CFA6D51525F1F7004DEE6A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 22CFA6D81525F1F7004DEE6A /* Localizable.strings */; };
 		22CFA6DB1525F244004DEE6A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 22CFA6D91525F244004DEE6A /* InfoPlist.strings */; };
+		933C00611A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00621A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00631A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00641A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00651A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00661A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00671A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00681A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00691A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C006A1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C006B1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C006C1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C006D1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C006E1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C006F1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00701A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00711A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00721A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00731A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00741A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00751A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00761A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00771A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00781A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C00791A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C007A1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C007B1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C007C1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
+		933C007D1A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
 		97065EA6193E54D100BFDC10 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 97065EA5193E54D100BFDC10 /* Default.png */; };
 		97065EA7193E54D100BFDC10 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 97065EA5193E54D100BFDC10 /* Default.png */; };
 		971233A519C8D3780097670E /* CPAnalytics.m in Sources */ = {isa = PBXBuildFile; fileRef = 971233A419C8D3780097670E /* CPAnalytics.m */; };
@@ -4566,6 +4595,8 @@
 		22CFA6B71525EF25004DEE6A /* CPMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPMenu.m; sourceTree = "<group>"; };
 		22CFA6D71525F1F7004DEE6A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		22CFA6DA1525F244004DEE6A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		933C005F1A9137D300AC98CA /* CPUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPUtils.h; sourceTree = "<group>"; };
+		933C00601A9137D300AC98CA /* CPUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPUtils.m; sourceTree = "<group>"; };
 		9705177018CE7B3E004AB94A /* Rutgers-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Rutgers-Info.plist"; sourceTree = "<group>"; };
 		97065EA5193E54D100BFDC10 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		971233A319C8D2DF0097670E /* CPAnalytics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPAnalytics.h; sourceTree = "<group>"; };
@@ -7113,6 +7144,8 @@
 				22CFA62D1525885D004DEE6A /* Controllers */,
 				22CFA6341525885D004DEE6A /* Models */,
 				22CFA6351525885D004DEE6A /* Views */,
+				933C005F1A9137D300AC98CA /* CPUtils.h */,
+				933C00601A9137D300AC98CA /* CPUtils.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -12491,6 +12524,7 @@
 				C0C8C4431536DA770064F97E /* CPUniversity.m in Sources */,
 				971233A519C8D3780097670E /* CPAnalytics.m in Sources */,
 				C0C8C4501536E6060064F97E /* CPSetUpViewController.m in Sources */,
+				933C00611A9137D300AC98CA /* CPUtils.m in Sources */,
 				9749BFBE18AD80AC0055A0A1 /* CPDataManger.m in Sources */,
 				D6307F32168AE07700F4A66F /* CustomMapItem.m in Sources */,
 				D6307F34168AE07700F4A66F /* CustomAnnotationView.m in Sources */,
@@ -12547,6 +12581,7 @@
 				9717E84118CA4A2A0074C2F0 /* CPConnection.m in Sources */,
 				9717E84218CA4A2A0074C2F0 /* CPConnectionManager.m in Sources */,
 				9717E84318CA4A2A0074C2F0 /* CPRequest.m in Sources */,
+				933C00651A9137D300AC98CA /* CPUtils.m in Sources */,
 				9717E84418CA4A2A0074C2F0 /* CPFooterView.m in Sources */,
 				9717E84518CA4A2A0074C2F0 /* CPConfiguration.m in Sources */,
 				9717E84618CA4A2A0074C2F0 /* CPConfigurationColor.m in Sources */,
@@ -12607,6 +12642,7 @@
 				97367AE21948B5140024AA22 /* CPConnection.m in Sources */,
 				97367AE31948B5140024AA22 /* CPConnectionManager.m in Sources */,
 				97367AE41948B5140024AA22 /* CPRequest.m in Sources */,
+				933C00731A9137D300AC98CA /* CPUtils.m in Sources */,
 				97367AE51948B5140024AA22 /* CPFooterView.m in Sources */,
 				97367AE61948B5140024AA22 /* CPConfiguration.m in Sources */,
 				97367AE71948B5140024AA22 /* CPConfigurationColor.m in Sources */,
@@ -12667,6 +12703,7 @@
 				97367B641948FC1E0024AA22 /* CPConnection.m in Sources */,
 				97367B651948FC1E0024AA22 /* CPConnectionManager.m in Sources */,
 				97367B661948FC1E0024AA22 /* CPRequest.m in Sources */,
+				933C00741A9137D300AC98CA /* CPUtils.m in Sources */,
 				97367B671948FC1E0024AA22 /* CPFooterView.m in Sources */,
 				97367B681948FC1E0024AA22 /* CPConfiguration.m in Sources */,
 				97367B691948FC1E0024AA22 /* CPConfigurationColor.m in Sources */,
@@ -12727,6 +12764,7 @@
 				9743A73718F5D7460025FA2E /* CPConnection.m in Sources */,
 				9743A73818F5D7460025FA2E /* CPConnectionManager.m in Sources */,
 				9743A73918F5D7460025FA2E /* CPRequest.m in Sources */,
+				933C00711A9137D300AC98CA /* CPUtils.m in Sources */,
 				9743A73A18F5D7460025FA2E /* CPFooterView.m in Sources */,
 				9743A73B18F5D7460025FA2E /* CPConfiguration.m in Sources */,
 				9743A73C18F5D7460025FA2E /* CPConfigurationColor.m in Sources */,
@@ -12787,6 +12825,7 @@
 				975040A918C7D5EA002EE0E3 /* CPConnection.m in Sources */,
 				975040AA18C7D5EA002EE0E3 /* CPConnectionManager.m in Sources */,
 				975040AB18C7D5EA002EE0E3 /* CPRequest.m in Sources */,
+				933C00641A9137D300AC98CA /* CPUtils.m in Sources */,
 				975040AC18C7D5EA002EE0E3 /* CPFooterView.m in Sources */,
 				975040AD18C7D5EA002EE0E3 /* CPConfiguration.m in Sources */,
 				975040AE18C7D5EA002EE0E3 /* CPConfigurationColor.m in Sources */,
@@ -12847,6 +12886,7 @@
 				9754256A18E5649100219CAA /* CPConnection.m in Sources */,
 				9754256B18E5649100219CAA /* CPConnectionManager.m in Sources */,
 				9754256C18E5649100219CAA /* CPRequest.m in Sources */,
+				933C006B1A9137D300AC98CA /* CPUtils.m in Sources */,
 				9754256D18E5649100219CAA /* CPFooterView.m in Sources */,
 				9754256E18E5649100219CAA /* CPConfiguration.m in Sources */,
 				9754256F18E5649100219CAA /* CPConfigurationColor.m in Sources */,
@@ -12907,6 +12947,7 @@
 				9754264C18E56AB000219CAA /* CPConnection.m in Sources */,
 				9754264D18E56AB000219CAA /* CPConnectionManager.m in Sources */,
 				9754264E18E56AB000219CAA /* CPRequest.m in Sources */,
+				933C006C1A9137D300AC98CA /* CPUtils.m in Sources */,
 				9754264F18E56AB000219CAA /* CPFooterView.m in Sources */,
 				9754265018E56AB000219CAA /* CPConfiguration.m in Sources */,
 				9754265118E56AB000219CAA /* CPConfigurationColor.m in Sources */,
@@ -12967,6 +13008,7 @@
 				9754272E18E626E100219CAA /* CPConnection.m in Sources */,
 				9754272F18E626E100219CAA /* CPConnectionManager.m in Sources */,
 				9754273018E626E100219CAA /* CPRequest.m in Sources */,
+				933C006D1A9137D300AC98CA /* CPUtils.m in Sources */,
 				9754273118E626E100219CAA /* CPFooterView.m in Sources */,
 				9754273218E626E100219CAA /* CPConfiguration.m in Sources */,
 				9754273318E626E100219CAA /* CPConfigurationColor.m in Sources */,
@@ -13027,6 +13069,7 @@
 				9754281018E62D8300219CAA /* CPConnection.m in Sources */,
 				9754281118E62D8300219CAA /* CPConnectionManager.m in Sources */,
 				9754281218E62D8300219CAA /* CPRequest.m in Sources */,
+				933C006E1A9137D300AC98CA /* CPUtils.m in Sources */,
 				9754281318E62D8300219CAA /* CPFooterView.m in Sources */,
 				9754281418E62D8300219CAA /* CPConfiguration.m in Sources */,
 				9754281518E62D8300219CAA /* CPConfigurationColor.m in Sources */,
@@ -13087,6 +13130,7 @@
 				975428F218E6338E00219CAA /* CPConnection.m in Sources */,
 				975428F318E6338E00219CAA /* CPConnectionManager.m in Sources */,
 				975428F418E6338E00219CAA /* CPRequest.m in Sources */,
+				933C006F1A9137D300AC98CA /* CPUtils.m in Sources */,
 				975428F518E6338E00219CAA /* CPFooterView.m in Sources */,
 				975428F618E6338E00219CAA /* CPConfiguration.m in Sources */,
 				975428F718E6338E00219CAA /* CPConfigurationColor.m in Sources */,
@@ -13147,6 +13191,7 @@
 				975429D418E6399800219CAA /* CPConnection.m in Sources */,
 				975429D518E6399800219CAA /* CPConnectionManager.m in Sources */,
 				975429D618E6399800219CAA /* CPRequest.m in Sources */,
+				933C00701A9137D300AC98CA /* CPUtils.m in Sources */,
 				975429D718E6399800219CAA /* CPFooterView.m in Sources */,
 				975429D818E6399800219CAA /* CPConfiguration.m in Sources */,
 				975429D918E6399800219CAA /* CPConfigurationColor.m in Sources */,
@@ -13207,6 +13252,7 @@
 				976BBC5918DAA6FA00929FF6 /* CPConnection.m in Sources */,
 				976BBC5A18DAA6FA00929FF6 /* CPConnectionManager.m in Sources */,
 				976BBC5B18DAA6FA00929FF6 /* CPRequest.m in Sources */,
+				933C00661A9137D300AC98CA /* CPUtils.m in Sources */,
 				976BBC5C18DAA6FA00929FF6 /* CPFooterView.m in Sources */,
 				976BBC5D18DAA6FA00929FF6 /* CPConfiguration.m in Sources */,
 				976BBC5E18DAA6FA00929FF6 /* CPConfigurationColor.m in Sources */,
@@ -13267,6 +13313,7 @@
 				9780B53818C12E7F009F19F7 /* CPConnection.m in Sources */,
 				9780B53918C12E7F009F19F7 /* CPConnectionManager.m in Sources */,
 				9780B53A18C12E7F009F19F7 /* CPRequest.m in Sources */,
+				933C00631A9137D300AC98CA /* CPUtils.m in Sources */,
 				9780B53B18C12E7F009F19F7 /* CPFooterView.m in Sources */,
 				9780B53C18C12E7F009F19F7 /* CPConfiguration.m in Sources */,
 				9780B53D18C12E7F009F19F7 /* CPConfigurationColor.m in Sources */,
@@ -13338,6 +13385,7 @@
 				978311751869EF22009B9212 /* CMPPage.m in Sources */,
 				978311761869EF22009B9212 /* CPVideo.m in Sources */,
 				978311781869EF22009B9212 /* CPGalleryViewController.m in Sources */,
+				933C00621A9137D300AC98CA /* CPUtils.m in Sources */,
 				9783117A1869EF22009B9212 /* CPHeaderTitleView.m in Sources */,
 				9783115C1869EF22009B9212 /* CPUniversity.m in Sources */,
 				974C20ED19D32EC600A44BEF /* CPAnalytics.m in Sources */,
@@ -13394,6 +13442,7 @@
 				97876D3918E4970400614B59 /* CPConnection.m in Sources */,
 				97876D3A18E4970400614B59 /* CPConnectionManager.m in Sources */,
 				97876D3B18E4970400614B59 /* CPRequest.m in Sources */,
+				933C006A1A9137D300AC98CA /* CPUtils.m in Sources */,
 				97876D3C18E4970400614B59 /* CPFooterView.m in Sources */,
 				97876D3D18E4970400614B59 /* CPConfiguration.m in Sources */,
 				97876D3E18E4970400614B59 /* CPConfigurationColor.m in Sources */,
@@ -13454,6 +13503,7 @@
 				97ABE92518E360F900780496 /* CPConnection.m in Sources */,
 				97ABE92618E360F900780496 /* CPConnectionManager.m in Sources */,
 				97ABE92718E360F900780496 /* CPRequest.m in Sources */,
+				933C00671A9137D300AC98CA /* CPUtils.m in Sources */,
 				97ABE92818E360F900780496 /* CPFooterView.m in Sources */,
 				97ABE92918E360F900780496 /* CPConfiguration.m in Sources */,
 				97ABE92A18E360F900780496 /* CPConfigurationColor.m in Sources */,
@@ -13514,6 +13564,7 @@
 				97ABEA0A18E3969E00780496 /* CPConnection.m in Sources */,
 				97ABEA0B18E3969E00780496 /* CPConnectionManager.m in Sources */,
 				97ABEA0C18E3969E00780496 /* CPRequest.m in Sources */,
+				933C00681A9137D300AC98CA /* CPUtils.m in Sources */,
 				97ABEA0D18E3969E00780496 /* CPFooterView.m in Sources */,
 				97ABEA0E18E3969E00780496 /* CPConfiguration.m in Sources */,
 				97ABEA0F18E3969E00780496 /* CPConfigurationColor.m in Sources */,
@@ -13574,6 +13625,7 @@
 				97ABEAEC18E3A67000780496 /* CPConnection.m in Sources */,
 				97ABEAED18E3A67000780496 /* CPConnectionManager.m in Sources */,
 				97ABEAEE18E3A67000780496 /* CPRequest.m in Sources */,
+				933C00691A9137D300AC98CA /* CPUtils.m in Sources */,
 				97ABEAEF18E3A67000780496 /* CPFooterView.m in Sources */,
 				97ABEAF018E3A67000780496 /* CPConfiguration.m in Sources */,
 				97ABEAF118E3A67000780496 /* CPConfigurationColor.m in Sources */,
@@ -13634,6 +13686,7 @@
 				97BDFA4C192E740900879644 /* CPConnection.m in Sources */,
 				97BDFA4D192E740900879644 /* CPConnectionManager.m in Sources */,
 				97BDFA4E192E740900879644 /* CPRequest.m in Sources */,
+				933C00721A9137D300AC98CA /* CPUtils.m in Sources */,
 				97BDFA4F192E740900879644 /* CPFooterView.m in Sources */,
 				97BDFA50192E740900879644 /* CPConfiguration.m in Sources */,
 				97BDFA51192E740900879644 /* CPConfigurationColor.m in Sources */,
@@ -13694,6 +13747,7 @@
 				97DF2FD71954D165003BA2DF /* CPConnection.m in Sources */,
 				97DF2FD81954D165003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF2FD91954D165003BA2DF /* CPRequest.m in Sources */,
+				933C00751A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF2FDA1954D165003BA2DF /* CPFooterView.m in Sources */,
 				97DF2FDB1954D165003BA2DF /* CPConfiguration.m in Sources */,
 				97DF2FDC1954D165003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -13754,6 +13808,7 @@
 				97DF30561954D1DB003BA2DF /* CPConnection.m in Sources */,
 				97DF30571954D1DB003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF30581954D1DB003BA2DF /* CPRequest.m in Sources */,
+				933C00761A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF30591954D1DB003BA2DF /* CPFooterView.m in Sources */,
 				97DF305A1954D1DB003BA2DF /* CPConfiguration.m in Sources */,
 				97DF305B1954D1DB003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -13814,6 +13869,7 @@
 				97DF30D51954D1E1003BA2DF /* CPConnection.m in Sources */,
 				97DF30D61954D1E1003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF30D71954D1E1003BA2DF /* CPRequest.m in Sources */,
+				933C00771A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF30D81954D1E1003BA2DF /* CPFooterView.m in Sources */,
 				97DF30D91954D1E1003BA2DF /* CPConfiguration.m in Sources */,
 				97DF30DA1954D1E1003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -13874,6 +13930,7 @@
 				97DF31541954D1F2003BA2DF /* CPConnection.m in Sources */,
 				97DF31551954D1F2003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF31561954D1F2003BA2DF /* CPRequest.m in Sources */,
+				933C00781A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF31571954D1F2003BA2DF /* CPFooterView.m in Sources */,
 				97DF31581954D1F2003BA2DF /* CPConfiguration.m in Sources */,
 				97DF31591954D1F2003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -13934,6 +13991,7 @@
 				97DF31D31954D1FD003BA2DF /* CPConnection.m in Sources */,
 				97DF31D41954D1FD003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF31D51954D1FD003BA2DF /* CPRequest.m in Sources */,
+				933C00791A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF31D61954D1FD003BA2DF /* CPFooterView.m in Sources */,
 				97DF31D71954D1FD003BA2DF /* CPConfiguration.m in Sources */,
 				97DF31D81954D1FD003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -13994,6 +14052,7 @@
 				97DF32521954D213003BA2DF /* CPConnection.m in Sources */,
 				97DF32531954D213003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF32541954D213003BA2DF /* CPRequest.m in Sources */,
+				933C007A1A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF32551954D213003BA2DF /* CPFooterView.m in Sources */,
 				97DF32561954D213003BA2DF /* CPConfiguration.m in Sources */,
 				97DF32571954D213003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -14054,6 +14113,7 @@
 				97DF32D11954D222003BA2DF /* CPConnection.m in Sources */,
 				97DF32D21954D222003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF32D31954D222003BA2DF /* CPRequest.m in Sources */,
+				933C007B1A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF32D41954D222003BA2DF /* CPFooterView.m in Sources */,
 				97DF32D51954D222003BA2DF /* CPConfiguration.m in Sources */,
 				97DF32D61954D222003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -14114,6 +14174,7 @@
 				97DF33501954D230003BA2DF /* CPConnection.m in Sources */,
 				97DF33511954D230003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF33521954D230003BA2DF /* CPRequest.m in Sources */,
+				933C007C1A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF33531954D230003BA2DF /* CPFooterView.m in Sources */,
 				97DF33541954D230003BA2DF /* CPConfiguration.m in Sources */,
 				97DF33551954D230003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -14174,6 +14235,7 @@
 				97DF33CF1954D23B003BA2DF /* CPConnection.m in Sources */,
 				97DF33D01954D23B003BA2DF /* CPConnectionManager.m in Sources */,
 				97DF33D11954D23B003BA2DF /* CPRequest.m in Sources */,
+				933C007D1A9137D300AC98CA /* CPUtils.m in Sources */,
 				97DF33D21954D23B003BA2DF /* CPFooterView.m in Sources */,
 				97DF33D31954D23B003BA2DF /* CPConfiguration.m in Sources */,
 				97DF33D41954D23B003BA2DF /* CPConfigurationColor.m in Sources */,
@@ -14337,7 +14399,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -14367,7 +14429,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -14407,7 +14469,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -14444,7 +14506,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -14481,7 +14543,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -14518,7 +14580,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -14559,7 +14621,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -14597,7 +14659,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -14635,7 +14697,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -14673,7 +14735,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -14713,7 +14775,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -14750,7 +14812,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -14787,7 +14849,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -14824,7 +14886,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -14864,7 +14926,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -14901,7 +14963,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -14938,7 +15000,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -14975,7 +15037,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -15016,7 +15078,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -15054,7 +15116,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -15092,7 +15154,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -15130,7 +15192,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -15170,7 +15232,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -15207,7 +15269,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -15244,7 +15306,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -15281,7 +15343,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -15322,7 +15384,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -15360,7 +15422,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -15398,7 +15460,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -15436,7 +15498,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -15477,7 +15539,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -15515,7 +15577,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -15553,7 +15615,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -15591,7 +15653,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -15631,7 +15693,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -15668,7 +15730,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -15705,7 +15767,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -15742,7 +15804,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -15783,7 +15845,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -15821,7 +15883,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -15859,7 +15921,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -15897,7 +15959,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -15937,7 +15999,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -15974,7 +16036,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -16011,7 +16073,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -16048,7 +16110,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -16088,7 +16150,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -16125,7 +16187,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -16162,7 +16224,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -16199,7 +16261,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -16220,7 +16282,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Rutgers/Rutgers-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16234,14 +16296,13 @@
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Rutgers";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -16259,7 +16320,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Rutgers/Rutgers-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16273,14 +16334,13 @@
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Rutgers";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -16298,7 +16358,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Rutgers/Rutgers-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16312,14 +16372,13 @@
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Rutgers";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -16337,7 +16396,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Rutgers/Rutgers-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16351,14 +16410,13 @@
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Rutgers";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -16549,7 +16607,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -16586,7 +16644,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -16623,7 +16681,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -16660,7 +16718,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -16700,7 +16758,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -16737,7 +16795,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -16774,7 +16832,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -16811,7 +16869,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -16851,7 +16909,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -16888,7 +16946,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -16925,7 +16983,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -16962,7 +17020,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -17002,7 +17060,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -17039,7 +17097,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -17076,7 +17134,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -17113,7 +17171,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -17153,7 +17211,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -17190,7 +17248,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -17227,7 +17285,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -17264,7 +17322,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -17304,7 +17362,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -17341,7 +17399,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -17378,7 +17436,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -17415,7 +17473,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -17455,7 +17513,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -17492,7 +17550,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -17529,7 +17587,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -17566,7 +17624,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -17606,7 +17664,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -17643,7 +17701,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -17680,7 +17738,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -17717,7 +17775,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -17757,7 +17815,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -17794,7 +17852,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -17831,7 +17889,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -17868,7 +17926,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -17908,7 +17966,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -17945,7 +18003,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -17982,7 +18040,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -18019,7 +18077,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -18059,7 +18117,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -18096,7 +18154,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -18133,7 +18191,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -18170,7 +18228,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -18210,7 +18268,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -18247,7 +18305,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -18284,7 +18342,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -18321,7 +18379,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -18361,7 +18419,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -18398,7 +18456,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -18435,7 +18493,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -18472,7 +18530,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -18512,7 +18570,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -18549,7 +18607,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -18586,7 +18644,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -18623,7 +18681,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -18686,7 +18744,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -18749,7 +18807,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
-				VALID_ARCHS = "armv7 armv6";
+				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;

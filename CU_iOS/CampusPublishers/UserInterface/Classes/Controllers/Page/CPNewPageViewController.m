@@ -24,6 +24,8 @@
 #import "CPPageViewController.h"
 #import "RootViewController.h"
 
+#import "CPUtils.h"
+
 @interface CPNewPageViewController (HIDDEN)
 
 - (void)prepareUIContent;
@@ -305,7 +307,7 @@
             }
             
             
-            _imgView.frame=CGRectMake(0.0, 0.0, 320, (480-98-44)*0.6);
+            _imgView.frame=CGRectMake(0.0, 0.0, [CPUtils getSceenWidth], (480-98-44)*0.6);
             
             //  _imgView.contentMode = UIViewContentModeScaleAspectFit;
             // _imgView.autoresizingMask = UIViewAutoresizingFlexibleLeftMargin 
@@ -554,6 +556,11 @@
         reader.readerView.torchMode = 0;
         
         ZBarImageScanner *scanner = reader.scanner;
+        
+        [reader.view setFrame:CGRectMake(0, 0, [CPUtils getSceenWidth], [CPUtils getSceenHeight])];
+        
+//        reader. = CGRectMake(0, 0, 283, 347);
+        
         // TODO: (optional) additional reader configuration here
         
         // EXAMPLE: disable rarely used I2/5 to improve performance

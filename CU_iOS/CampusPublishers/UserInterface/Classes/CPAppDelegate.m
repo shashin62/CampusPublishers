@@ -49,7 +49,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    CGRect screenRect = [[UIScreen mainScreen] bounds];
+    CGFloat screenWidth = screenRect.size.width;
+    CGFloat screenHeight = screenRect.size.height;
     
+    NSLog(@"Screen Width -%f & Height -%f ",screenWidth,screenHeight);
        
     netReach = [[NetReachability alloc] initWithHostName:@"www.google.com"];
 	netReach.delegate = self;

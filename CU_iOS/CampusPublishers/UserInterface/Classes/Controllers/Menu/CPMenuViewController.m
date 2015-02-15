@@ -27,6 +27,8 @@
 #import "RootViewController.h"
 #import "CpTourGuideIPhone.h"
 
+#import "CPUtils.h"
+
 @interface CPMenuViewController (PRIVATE)
 
 - (void)initializeAllMemberData;
@@ -175,11 +177,10 @@
 {
     dManager = [CPDataManger sharedDataManager];
     // addBaner = [CPAddBannerView sharedAddBannerView];
-    
     CGRect frame = self.view.frame ;
     frame.origin.x = 0.0;
     frame.origin.y = 0.0;
-    frame.size.width = 320.0;
+    frame.size.width = [CPUtils getSceenWidth];//320.0;
     frame.size.height = self.view.frame.size.height;
     
     frame.size.height = [[CPUtility applicationDelegate] window].frame.size.height;
@@ -352,7 +353,7 @@
     //[UIView setAnimationDuration:0.0];
     //  GADBannerView *adBanner = [CPAddBannerView sharedAddBannerView].adBanner;
     view.frame = CGRectMake(0.0, self.view.frame.size.height - (_footerView.frame.size.height+BANNER_HEIGHT), _footerView.frame.size.width, view.frame.size.height);
-    self.tableViewMenu.frame = CGRectMake(0.0, 0.0, 320.0, self.view.frame.size.height - (44.0+BANNER_HEIGHT));
+    self.tableViewMenu.frame = CGRectMake(0.0, 0.0, [CPUtils getSceenWidth], self.view.frame.size.height - (44.0+BANNER_HEIGHT));
     
     // [UIView commitAnimations];
     
@@ -361,7 +362,7 @@
 -(void)adView:(GADBannerView *)view didFailToReceiveAdWithError:(GADRequestError *)error{
     //GADBannerView *adBanner = [CPAddBannerView sharedAddBannerView].adBanner;
     view.frame = CGRectMake(0.0, self.view.frame.size.height , _footerView.frame.size.width, _footerView.frame.size.height);
-    self.tableViewMenu.frame = CGRectMake(0.0, 0.0, 320.0, self.view.frame.size.height - 44);
+    self.tableViewMenu.frame = CGRectMake(0.0, 0.0, [CPUtils getSceenWidth], self.view.frame.size.height - 44);
     
 }
 -(void)adViewWillDismissScreen:(GADBannerView *)adView{
@@ -377,7 +378,7 @@
         return;
     }
     
-    self.tableViewMenu.frame=CGRectMake(0, 0, 320, self.view.frame.size.height);
+    self.tableViewMenu.frame=CGRectMake(0, 0, [CPUtils getSceenWidth], self.view.frame.size.height);
     
     
     [_tableViewMenu reloadData];
@@ -400,7 +401,7 @@
         
         _footerView.tintColor = dManager.configuration.color.footer;
         _footerView.frame = CGRectMake(0.0, self.view.frame.size.height - 44.0, _footerView.frame.size.width, _footerView.frame.size.height);
-        self.tableViewMenu.frame = CGRectMake(0.0, 0.0, 320.0, self.view.frame.size.height - 44.0);
+        self.tableViewMenu.frame = CGRectMake(0.0, 0.0, [CPUtils getSceenWidth], self.view.frame.size.height - 44.0);
         
         [self.tableViewMenu reloadData];
         if([[CPUtility applicationDelegate] isSplitViewConfigured] == NO)
@@ -577,6 +578,8 @@
         reader.readerView.torchMode = 0;
         
         ZBarImageScanner *scanner = reader.scanner;
+        
+        [reader.readerView setFrame:CGRectMake(0, 0, [CPUtils getSceenWidth], [CPUtils getSceenHeight])];
         // TODO: (optional) additional reader configuration here
         
         // EXAMPLE: disable rarely used I2/5 to improve performance
