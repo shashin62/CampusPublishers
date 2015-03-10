@@ -7,7 +7,8 @@
 //
 
 #import "CPAddBannerView.h"
-#import "GADBannerView.h"
+//#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 #import "CPConstants.h"
 #import "CPConfiguration.h"
 #import "CPAdmob.h"

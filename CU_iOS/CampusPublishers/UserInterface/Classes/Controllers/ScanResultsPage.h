@@ -12,7 +12,7 @@
 #import "ZBarReaderViewController.h"
 #import "CPAddBannerView.h"
 #import "CPDataManger.h"
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 @class CpTourGuideIPhone;
 
 @class DescriptionViewController;

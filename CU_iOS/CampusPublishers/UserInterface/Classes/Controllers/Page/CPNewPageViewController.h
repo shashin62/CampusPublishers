@@ -12,7 +12,7 @@
 #import "ZBarSDK.h"
 #import "CPFooterView.h"
 #import "GAITrackedViewController.h"
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 
 @class CPAddBannerView;
 @class CPContent;

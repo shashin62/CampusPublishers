@@ -20,11 +20,15 @@
 #import "CPConnectionManager.h"
 #import "CPRequest.h"
 
+#import <GoogleMobileAds/GADBannerView.h>
+#import <iAd/ADBannerView.h>
+
 #import "CPAddBannerView.h"
-#import "GADBannerView.h"
+//#import "GADBannerView.h"
 
+//@class CPAddBannerView;
 
-//CpTourGuideIPhone
+@class CpTourGuideIPhone;
 
 // saved1
 

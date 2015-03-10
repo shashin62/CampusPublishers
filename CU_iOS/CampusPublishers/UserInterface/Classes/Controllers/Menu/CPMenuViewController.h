@@ -10,7 +10,10 @@
 #import "CPConnectionManager.h"
 #import "CPFooterView.h"
 #import "ZBarSDK.h"
-#import "GADBannerView.h"
+//#import "GADBannerView.h"
+
+#import <GoogleMobileAds/GADBannerView.h>
+
 #import "GAITrackedViewController.h"
 
 

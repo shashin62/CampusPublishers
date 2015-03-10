@@ -24,7 +24,7 @@
 #import "CPRequest.h"
 #import "CPContent.h"
 #import <MediaPlayer/MediaPlayer.h>
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 @class Place;
 
 @interface DescriptionViewController : UIViewController<CPFooterViewDelegate,ZBarReaderDelegate,CPConnectionDelegate,ADBannerViewDelegate,GADBannerViewDelegate>{

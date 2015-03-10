@@ -22,7 +22,7 @@
 #import "CPAddBannerView.h"
 #import "CPContent.h"
 #import "ScanResultsPage.h"
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 @class LoadingView;
 @class DescriptionViewController;
 

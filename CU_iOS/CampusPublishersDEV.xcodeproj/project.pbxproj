@@ -23,6 +23,35 @@
 		22CFA6C71525EF25004DEE6A /* CPMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA6B71525EF25004DEE6A /* CPMenu.m */; };
 		22CFA6D51525F1F7004DEE6A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 22CFA6D81525F1F7004DEE6A /* Localizable.strings */; };
 		22CFA6DB1525F244004DEE6A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 22CFA6D91525F244004DEE6A /* InfoPlist.strings */; };
+		932ADA0D1AAF6AC1003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA0E1AAF6AC1003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA0F1AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA101AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA111AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA121AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA131AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA141AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA151AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA161AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA171AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA181AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA191AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA1A1AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA1B1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA1C1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA1D1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA1E1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA1F1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA201AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA211AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA221AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA231AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA241AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA251AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA261AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA271AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA281AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
+		932ADA291AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
 		933C00611A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
 		933C00621A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
 		933C00631A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
@@ -2518,7 +2547,6 @@
 		979FD48A19DF56480070EB3F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 971B510919AD417200E2E54E /* CoreData.framework */; };
 		979FD48B19DF56490070EB3F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 971B510919AD417200E2E54E /* CoreData.framework */; };
 		979FD48C19DF56490070EB3F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 971B510919AD417200E2E54E /* CoreData.framework */; };
-		979FD48E19DF58E60070EB3F /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
 		979FD48F19DF59450070EB3F /* libzbar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BB0D5F01174369150058D839 /* libzbar.a */; };
 		979FD49019DF59C50070EB3F /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 9784F72019B90BDA004CAE99 /* libsqlite3.0.dylib */; };
 		979FD49119DF5A5F0070EB3F /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 9784F71C19B8FE94004CAE99 /* libz.dylib */; };
@@ -3193,7 +3221,6 @@
 		97CEF12818E3ADC200DD6F00 /* USF-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97CEF0EA18E3ADC200DD6F00 /* USF-Config.plist */; };
 		97CEF12918E3ADC200DD6F00 /* USF-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97CEF0EA18E3ADC200DD6F00 /* USF-Config.plist */; };
 		97CEF12A18E3ADC200DD6F00 /* USF-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97CEF0EB18E3ADC200DD6F00 /* USF-Info.plist */; };
-		97D1C2E91A154021006FE694 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
 		97D200F819F6D06F00C59762 /* libzbar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BB0D5F01174369150058D839 /* libzbar.a */; };
 		97D200FA19F6D56E00C59762 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 9784F72019B90BDA004CAE99 /* libsqlite3.0.dylib */; };
 		97D200FB19F6D58000C59762 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 9784F71C19B8FE94004CAE99 /* libz.dylib */; };
@@ -4234,7 +4261,6 @@
 		97DF360B1954E80C003BA2DF /* UWSP-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97DF35C41954E80C003BA2DF /* UWSP-Info.plist */; };
 		97DF360E1954E842003BA2DF /* UWSP.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DF360D1954E842003BA2DF /* UWSP.xcassets */; };
 		97DF360F1954E842003BA2DF /* UWSP.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DF360D1954E842003BA2DF /* UWSP.xcassets */; };
-		97E9573719D1D1D600CF563A /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
 		97EF1E0C18B66CCD00F79508 /* CPAdmob.m in Sources */ = {isa = PBXBuildFile; fileRef = 9749BFC018AD92590055A0A1 /* CPAdmob.m */; };
 		97EF1E0D18B66CCE00F79508 /* CPAdmob.m in Sources */ = {isa = PBXBuildFile; fileRef = 9749BFC018AD92590055A0A1 /* CPAdmob.m */; };
 		B92209621A8C920900AC1CAC /* CategoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C4D1A89D34B00C760B3 /* CategoryViewController.m */; };
@@ -4322,7 +4348,6 @@
 		B9401D0D1A89D34C00C760B3 /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
 		B9401D0F1A89D34C00C760B3 /* Readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = B9401CC11A89D34C00C760B3 /* Readme.txt */; };
 		B9401D161A89DDDD00C760B3 /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
-		B9401D191A89DF1300C760B3 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
 		B9401D1A1A89DF6500C760B3 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 9784F72019B90BDA004CAE99 /* libsqlite3.0.dylib */; };
 		B9401D1B1A89DF6D00C760B3 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 9784F71C19B8FE94004CAE99 /* libz.dylib */; };
 		B9401D1C1A89DF8E00C760B3 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 971B510919AD417200E2E54E /* CoreData.framework */; };
@@ -4359,32 +4384,32 @@
 		B9401D3F1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		B9401D401A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		B9401D411A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		B9401D421A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D431A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D441A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D451A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D461A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D471A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D481A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D491A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D4A1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D4B1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D4C1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D4D1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D4E1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D4F1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D501A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D511A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D521A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D531A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D541A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D551A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D561A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D571A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D581A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D591A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D5A1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
-		B9401D5B1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; };
+		B9401D421A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D431A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D441A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D451A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D461A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D471A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D481A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D491A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D4A1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D4B1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D4C1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D4D1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D4E1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D4F1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D501A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D511A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D521A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D531A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D541A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D551A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D561A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D571A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D581A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D591A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D5A1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		B9401D5B1A89E06700C760B3 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D3E1A89E06700C760B3 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		B9401D601A89F8E700C760B3 /* CampusPublishers-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9401D5F1A89F8C600C760B3 /* CampusPublishers-Info.plist */; };
 		B9401D611A89F8ED00C760B3 /* CampusPublishers-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9401D5E1A89F8C600C760B3 /* CampusPublishers-Config.plist */; };
 		B950FACC1A8C8EF900F6C0DF /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
@@ -4443,31 +4468,6 @@
 		B950FB011A8C90AF00F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
 		B950FB021A8C90B000F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
 		B950FB031A8C90B000F6C0DF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CBF1A89D34C00C760B3 /* libAdIdAccess.a */; };
-		B950FB041A8C90D100F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB051A8C90D200F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB061A8C90D300F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB071A8C90D300F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB081A8C90D400F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB091A8C90D500F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB0A1A8C90D500F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB0B1A8C90D600F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB0C1A8C90D600F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB0D1A8C90D800F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB0E1A8C90D800F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB0F1A8C90D900F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB101A8C90DA00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB111A8C90DB00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB121A8C90DB00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB131A8C90DC00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB141A8C90DE00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB151A8C90DE00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB161A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB171A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB181A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB191A8C90E000F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB1A1A8C90E000F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB1B1A8C90E100F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
-		B950FB1C1A8C90E300F6C0DF /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */; };
 		B950FB1D1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
 		B950FB1E1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
 		B950FB1F1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
@@ -4595,6 +4595,7 @@
 		22CFA6B71525EF25004DEE6A /* CPMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPMenu.m; sourceTree = "<group>"; };
 		22CFA6D71525F1F7004DEE6A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		22CFA6DA1525F244004DEE6A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
 		933C005F1A9137D300AC98CA /* CPUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPUtils.h; sourceTree = "<group>"; };
 		933C00601A9137D300AC98CA /* CPUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPUtils.m; sourceTree = "<group>"; };
 		9705177018CE7B3E004AB94A /* Rutgers-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Rutgers-Info.plist"; sourceTree = "<group>"; };
@@ -5606,35 +5607,6 @@
 		97DF35C31954E80C003BA2DF /* UWSP-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UWSP-Config.plist"; sourceTree = "<group>"; };
 		97DF35C41954E80C003BA2DF /* UWSP-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UWSP-Info.plist"; sourceTree = "<group>"; };
 		97DF360D1954E842003BA2DF /* UWSP.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UWSP.xcassets; sourceTree = "<group>"; };
-		97E9571719D1D15300CF563A /* DFPBannerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFPBannerView.h; sourceTree = "<group>"; };
-		97E9571819D1D15300CF563A /* DFPExtras.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFPExtras.h; sourceTree = "<group>"; };
-		97E9571919D1D15300CF563A /* DFPInterstitial.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFPInterstitial.h; sourceTree = "<group>"; };
-		97E9571A19D1D15300CF563A /* DFPSwipeableBannerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFPSwipeableBannerView.h; sourceTree = "<group>"; };
-		97E9571B19D1D15300CF563A /* GADAdSizeDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADAdSizeDelegate.h; sourceTree = "<group>"; };
-		97E9571C19D1D15300CF563A /* GADAppEventDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADAppEventDelegate.h; sourceTree = "<group>"; };
-		97E9571D19D1D15300CF563A /* GADSwipeableBannerViewDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADSwipeableBannerViewDelegate.h; sourceTree = "<group>"; };
-		97E9571F19D1D15300CF563A /* GADCustomEventBanner.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADCustomEventBanner.h; sourceTree = "<group>"; };
-		97E9572019D1D15300CF563A /* GADCustomEventBannerDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADCustomEventBannerDelegate.h; sourceTree = "<group>"; };
-		97E9572119D1D15300CF563A /* GADCustomEventExtras.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADCustomEventExtras.h; sourceTree = "<group>"; };
-		97E9572219D1D15300CF563A /* GADCustomEventInterstitial.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADCustomEventInterstitial.h; sourceTree = "<group>"; };
-		97E9572319D1D15300CF563A /* GADCustomEventInterstitialDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADCustomEventInterstitialDelegate.h; sourceTree = "<group>"; };
-		97E9572419D1D15300CF563A /* GADCustomEventRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADCustomEventRequest.h; sourceTree = "<group>"; };
-		97E9572619D1D15300CF563A /* GADSearchBannerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADSearchBannerView.h; sourceTree = "<group>"; };
-		97E9572719D1D15300CF563A /* GADSearchRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADSearchRequest.h; sourceTree = "<group>"; };
-		97E9572819D1D15300CF563A /* GADAdMobExtras.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADAdMobExtras.h; sourceTree = "<group>"; };
-		97E9572919D1D15300CF563A /* GADAdNetworkExtras.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADAdNetworkExtras.h; sourceTree = "<group>"; };
-		97E9572A19D1D15300CF563A /* GADAdSize.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADAdSize.h; sourceTree = "<group>"; };
-		97E9572B19D1D15300CF563A /* GADBannerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADBannerView.h; sourceTree = "<group>"; };
-		97E9572C19D1D15300CF563A /* GADBannerViewDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADBannerViewDelegate.h; sourceTree = "<group>"; };
-		97E9572D19D1D15300CF563A /* GADInAppPurchase.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADInAppPurchase.h; sourceTree = "<group>"; };
-		97E9572E19D1D15300CF563A /* GADInAppPurchaseDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADInAppPurchaseDelegate.h; sourceTree = "<group>"; };
-		97E9572F19D1D15300CF563A /* GADInterstitial.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADInterstitial.h; sourceTree = "<group>"; };
-		97E9573019D1D15300CF563A /* GADInterstitialDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADInterstitialDelegate.h; sourceTree = "<group>"; };
-		97E9573119D1D15300CF563A /* GADModules.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADModules.h; sourceTree = "<group>"; };
-		97E9573219D1D15300CF563A /* GADRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADRequest.h; sourceTree = "<group>"; };
-		97E9573319D1D15300CF563A /* GADRequestError.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GADRequestError.h; sourceTree = "<group>"; };
-		97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAdMobAds.a; sourceTree = "<group>"; };
-		97E9573519D1D15300CF563A /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		B9401C421A89D27200C760B3 /* CPAddBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPAddBannerView.h; sourceTree = "<group>"; };
 		B9401C431A89D27200C760B3 /* CPAddBannerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPAddBannerView.m; sourceTree = "<group>"; };
 		B9401C471A89D34B00C760B3 /* Changelog.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Changelog.txt; sourceTree = "<group>"; };
@@ -5886,6 +5858,7 @@
 				B9401C3E1A89CE1E00C760B3 /* EventKit.framework in Frameworks */,
 				B9401C3D1A89CE1100C760B3 /* CoreTelephony.framework in Frameworks */,
 				B9401C3C1A89CDF600C760B3 /* AdSupport.framework in Frameworks */,
+				932ADA0D1AAF6AC1003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				B9401C3B1A89CD0A00C760B3 /* CoreLocation.framework in Frameworks */,
 				C0EF2A051525BA57001E3304 /* CFNetwork.framework in Frameworks */,
 				C0EF2A031525BA51001E3304 /* SystemConfiguration.framework in Frameworks */,
@@ -5904,7 +5877,6 @@
 				C0A700F51562236800613516 /* CoreMedia.framework in Frameworks */,
 				C0A700F81562237500613516 /* CoreVideo.framework in Frameworks */,
 				B9401D0D1A89D34C00C760B3 /* libAdIdAccess.a in Frameworks */,
-				B9401D191A89DF1300C760B3 /* libGoogleAdMobAds.a in Frameworks */,
 				B9401D1B1A89DF6D00C760B3 /* libz.dylib in Frameworks */,
 				C017C0401562353900912889 /* libiconv.dylib in Frameworks */,
 				B9401C381A89BC7D00C760B3 /* libzbar.a in Frameworks */,
@@ -5922,6 +5894,7 @@
 				9717E86E18CA4A2A0074C2F0 /* iAd.framework in Frameworks */,
 				9717E86F18CA4A2A0074C2F0 /* MapKit.framework in Frameworks */,
 				9717E87018CA4A2A0074C2F0 /* CoreLocation.framework in Frameworks */,
+				932ADA111AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				9717E87118CA4A2A0074C2F0 /* CFNetwork.framework in Frameworks */,
 				9717E87218CA4A2A0074C2F0 /* SystemConfiguration.framework in Frameworks */,
 				B950FB201A8C910900F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5942,7 +5915,6 @@
 				97B9BA1E1A08298F002222DA /* libsqlite3.0.dylib in Frameworks */,
 				9717E87C18CA4A2A0074C2F0 /* CoreVideo.framework in Frameworks */,
 				9717E87D18CA4A2A0074C2F0 /* libiconv.dylib in Frameworks */,
-				B950FB051A8C90D200F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9717E87E18CA4A2A0074C2F0 /* libzbar.a in Frameworks */,
 				979FD47419DF56380070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -5958,6 +5930,7 @@
 				97367B0F1948B5140024AA22 /* iAd.framework in Frameworks */,
 				97367B101948B5140024AA22 /* MapKit.framework in Frameworks */,
 				97367B111948B5140024AA22 /* CoreLocation.framework in Frameworks */,
+				932ADA1F1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97367B121948B5140024AA22 /* CFNetwork.framework in Frameworks */,
 				97367B131948B5140024AA22 /* SystemConfiguration.framework in Frameworks */,
 				B950FB2E1A8C911100F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5978,7 +5951,6 @@
 				97B9BA261A082996002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97367B1D1948B5140024AA22 /* CoreVideo.framework in Frameworks */,
 				97367B1E1948B5140024AA22 /* libiconv.dylib in Frameworks */,
-				B950FB121A8C90DB00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97367B1F1948B5140024AA22 /* libzbar.a in Frameworks */,
 				979FD48219DF56440070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -5994,6 +5966,7 @@
 				976DEE1819E4712B00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE1919E4712B00451E65 /* libz.dylib in Frameworks */,
 				97367B8E1948FC1E0024AA22 /* StoreKit.framework in Frameworks */,
+				932ADA201AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97367B8F1948FC1E0024AA22 /* AdSupport.framework in Frameworks */,
 				97367B901948FC1E0024AA22 /* MessageUI.framework in Frameworks */,
 				B950FB2F1A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6014,7 +5987,6 @@
 				97367B9E1948FC1E0024AA22 /* CoreMedia.framework in Frameworks */,
 				97367B9F1948FC1E0024AA22 /* CoreVideo.framework in Frameworks */,
 				97367BA01948FC1E0024AA22 /* libiconv.dylib in Frameworks */,
-				B950FB131A8C90DC00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97367BA11948FC1E0024AA22 /* libzbar.a in Frameworks */,
 				979FD48319DF56440070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6030,6 +6002,7 @@
 				976DEE0919E46FCD00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0A19E46FCD00451E65 /* libz.dylib in Frameworks */,
 				9743A76118F5D7460025FA2E /* StoreKit.framework in Frameworks */,
+				932ADA1D1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				9743A76218F5D7460025FA2E /* AdSupport.framework in Frameworks */,
 				9743A76318F5D7460025FA2E /* MessageUI.framework in Frameworks */,
 				B950FB2C1A8C911000F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6050,7 +6023,6 @@
 				9743A77118F5D7460025FA2E /* CoreMedia.framework in Frameworks */,
 				9743A77218F5D7460025FA2E /* CoreVideo.framework in Frameworks */,
 				9743A77318F5D7460025FA2E /* libiconv.dylib in Frameworks */,
-				B950FB0F1A8C90D900F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9743A77418F5D7460025FA2E /* libzbar.a in Frameworks */,
 				979FD48019DF56430070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6066,6 +6038,7 @@
 				97B9B9DB1A07E201002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9D91A07E1EF002222DA /* CoreTelephony.framework in Frameworks */,
 				97D200FA19F6D56E00C59762 /* libsqlite3.0.dylib in Frameworks */,
+				932ADA101AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97D200F819F6D06F00C59762 /* libzbar.a in Frameworks */,
 				975040D318C7D5EA002EE0E3 /* StoreKit.framework in Frameworks */,
 				B950FB1F1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6088,7 +6061,6 @@
 				975040E418C7D5EA002EE0E3 /* CoreVideo.framework in Frameworks */,
 				975040E518C7D5EA002EE0E3 /* libiconv.dylib in Frameworks */,
 				979FD47319DF56380070EB3F /* CoreData.framework in Frameworks */,
-				97D1C2E91A154021006FE694 /* libGoogleAdMobAds.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -6102,6 +6074,7 @@
 				976DEDFE19E46DD900451E65 /* EventKitUI.framework in Frameworks */,
 				976DEDFF19E46DD900451E65 /* libsqlite3.0.dylib in Frameworks */,
 				9754259418E5649100219CAA /* StoreKit.framework in Frameworks */,
+				932ADA171AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				9754259518E5649100219CAA /* AdSupport.framework in Frameworks */,
 				9754259618E5649100219CAA /* MessageUI.framework in Frameworks */,
 				B950FB261A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6122,7 +6095,6 @@
 				975425A418E5649100219CAA /* CoreMedia.framework in Frameworks */,
 				975425A518E5649100219CAA /* CoreVideo.framework in Frameworks */,
 				975425A618E5649100219CAA /* libiconv.dylib in Frameworks */,
-				B950FB0B1A8C90D600F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				975425A718E5649100219CAA /* libzbar.a in Frameworks */,
 				979FD47A19DF563B0070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6138,6 +6110,7 @@
 				9754267918E56AB000219CAA /* iAd.framework in Frameworks */,
 				9754267A18E56AB000219CAA /* MapKit.framework in Frameworks */,
 				9754267B18E56AB000219CAA /* CoreLocation.framework in Frameworks */,
+				932ADA181AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				9754267C18E56AB000219CAA /* CFNetwork.framework in Frameworks */,
 				9754267D18E56AB000219CAA /* SystemConfiguration.framework in Frameworks */,
 				B950FB271A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6158,7 +6131,6 @@
 				97B9BA241A082994002222DA /* libsqlite3.0.dylib in Frameworks */,
 				9754268718E56AB000219CAA /* CoreVideo.framework in Frameworks */,
 				9754268818E56AB000219CAA /* libiconv.dylib in Frameworks */,
-				B950FB0C1A8C90D600F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9754268918E56AB000219CAA /* libzbar.a in Frameworks */,
 				979FD47B19DF563C0070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6174,8 +6146,8 @@
 				979FD49319DF5CCE0070EB3F /* CoreTelephony.framework in Frameworks */,
 				979FD49119DF5A5F0070EB3F /* libz.dylib in Frameworks */,
 				979FD49019DF59C50070EB3F /* libsqlite3.0.dylib in Frameworks */,
+				932ADA191AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				979FD48F19DF59450070EB3F /* libzbar.a in Frameworks */,
-				979FD48E19DF58E60070EB3F /* libGoogleAdMobAds.a in Frameworks */,
 				B950FB281A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9754275818E626E100219CAA /* StoreKit.framework in Frameworks */,
 				9754275918E626E100219CAA /* AdSupport.framework in Frameworks */,
@@ -6210,6 +6182,7 @@
 				97B9B9E31A08285B002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9E41A08285B002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9E51A08285B002222DA /* libz.dylib in Frameworks */,
+				932ADA1A1AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				9754283A18E62D8300219CAA /* StoreKit.framework in Frameworks */,
 				9754283B18E62D8300219CAA /* AdSupport.framework in Frameworks */,
 				B950FB291A8C910D00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6230,7 +6203,6 @@
 				9754284918E62D8300219CAA /* AVFoundation.framework in Frameworks */,
 				9754284A18E62D8300219CAA /* CoreMedia.framework in Frameworks */,
 				9754284B18E62D8300219CAA /* CoreVideo.framework in Frameworks */,
-				B950FB0D1A8C90D800F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9754284C18E62D8300219CAA /* libiconv.dylib in Frameworks */,
 				9754284D18E62D8300219CAA /* libzbar.a in Frameworks */,
 			);
@@ -6246,6 +6218,7 @@
 				97B9B9DF1A07E468002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9E01A07E468002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9DC1A07E408002222DA /* libz.dylib in Frameworks */,
+				932ADA1B1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				9754291C18E6338E00219CAA /* StoreKit.framework in Frameworks */,
 				9754291D18E6338E00219CAA /* AdSupport.framework in Frameworks */,
 				B950FB2A1A8C910E00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6266,7 +6239,6 @@
 				9754292B18E6338E00219CAA /* AVFoundation.framework in Frameworks */,
 				9754292C18E6338E00219CAA /* CoreMedia.framework in Frameworks */,
 				9754292D18E6338E00219CAA /* CoreVideo.framework in Frameworks */,
-				B950FB0E1A8C90D800F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				9754292E18E6338E00219CAA /* libiconv.dylib in Frameworks */,
 				9754292F18E6338E00219CAA /* libzbar.a in Frameworks */,
 			);
@@ -6282,6 +6254,7 @@
 				976DEE0E19E4705400451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0F19E4705400451E65 /* libz.dylib in Frameworks */,
 				975429FE18E6399800219CAA /* StoreKit.framework in Frameworks */,
+				932ADA1C1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				975429FF18E6399800219CAA /* AdSupport.framework in Frameworks */,
 				97542A0018E6399800219CAA /* MessageUI.framework in Frameworks */,
 				B950FB2B1A8C910F00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6302,7 +6275,6 @@
 				97542A0E18E6399800219CAA /* CoreMedia.framework in Frameworks */,
 				97542A0F18E6399800219CAA /* CoreVideo.framework in Frameworks */,
 				97542A1018E6399800219CAA /* libiconv.dylib in Frameworks */,
-				B950FB101A8C90DA00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97542A1118E6399800219CAA /* libzbar.a in Frameworks */,
 				979FD47F19DF56420070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6318,6 +6290,7 @@
 				976BBC8618DAA6FA00929FF6 /* iAd.framework in Frameworks */,
 				976BBC8718DAA6FA00929FF6 /* MapKit.framework in Frameworks */,
 				976BBC8818DAA6FA00929FF6 /* CoreLocation.framework in Frameworks */,
+				932ADA121AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				976BBC8918DAA6FA00929FF6 /* CFNetwork.framework in Frameworks */,
 				976BBC8A18DAA6FA00929FF6 /* SystemConfiguration.framework in Frameworks */,
 				B950FB211A8C910900F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6338,7 +6311,6 @@
 				97B9BA1F1A08298F002222DA /* libsqlite3.0.dylib in Frameworks */,
 				976BBC9418DAA6FA00929FF6 /* CoreVideo.framework in Frameworks */,
 				976BBC9518DAA6FA00929FF6 /* libiconv.dylib in Frameworks */,
-				B950FB061A8C90D300F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				976BBC9618DAA6FA00929FF6 /* libzbar.a in Frameworks */,
 				979FD47519DF56390070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6351,10 +6323,10 @@
 				97B9B9EB1A08294F002222DA /* EventKitUI.framework in Frameworks */,
 				B950FAE91A8C90A200F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA061A08296B002222DA /* EventKit.framework in Frameworks */,
-				97E9573719D1D1D600CF563A /* libGoogleAdMobAds.a in Frameworks */,
 				9780B57518C12E7F009F19F7 /* libzbar.a in Frameworks */,
 				971B510A19AD417200E2E54E /* CoreData.framework in Frameworks */,
 				9780B56218C12E7F009F19F7 /* StoreKit.framework in Frameworks */,
+				932ADA0F1AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				9780B56318C12E7F009F19F7 /* AdSupport.framework in Frameworks */,
 				B950FB1E1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9780B56418C12E7F009F19F7 /* MessageUI.framework in Frameworks */,
@@ -6390,6 +6362,7 @@
 				978311931869EF22009B9212 /* iAd.framework in Frameworks */,
 				978311941869EF22009B9212 /* MapKit.framework in Frameworks */,
 				978311951869EF22009B9212 /* CoreLocation.framework in Frameworks */,
+				932ADA0E1AAF6AC1003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				978311961869EF22009B9212 /* CFNetwork.framework in Frameworks */,
 				97B9BA1D1A082980002222DA /* CoreTelephony.framework in Frameworks */,
 				B950FB1D1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6410,7 +6383,6 @@
 				978311A11869EF22009B9212 /* CoreVideo.framework in Frameworks */,
 				978311A21869EF22009B9212 /* libiconv.dylib in Frameworks */,
 				979FD47219DF56370070EB3F /* CoreData.framework in Frameworks */,
-				B950FB041A8C90D100F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				978311A31869EF22009B9212 /* libzbar.a in Frameworks */,
 				B950FAE81A8C909E00F6C0DF /* libAdIdAccess.a in Frameworks */,
 			);
@@ -6426,6 +6398,7 @@
 				97B9B9E81A0828E4002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9E91A0828E4002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9EA1A0828E4002222DA /* libz.dylib in Frameworks */,
+				932ADA161AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97876D6318E4970400614B59 /* StoreKit.framework in Frameworks */,
 				97876D6418E4970400614B59 /* AdSupport.framework in Frameworks */,
 				B950FB251A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6446,7 +6419,6 @@
 				97876D7218E4970400614B59 /* AVFoundation.framework in Frameworks */,
 				97876D7318E4970400614B59 /* CoreMedia.framework in Frameworks */,
 				97876D7418E4970400614B59 /* CoreVideo.framework in Frameworks */,
-				B950FB0A1A8C90D500F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97876D7518E4970400614B59 /* libiconv.dylib in Frameworks */,
 				97876D7618E4970400614B59 /* libzbar.a in Frameworks */,
 			);
@@ -6462,6 +6434,7 @@
 				97ABE95218E360F900780496 /* iAd.framework in Frameworks */,
 				97ABE95318E360F900780496 /* MapKit.framework in Frameworks */,
 				97ABE95418E360F900780496 /* CoreLocation.framework in Frameworks */,
+				932ADA131AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97ABE95518E360F900780496 /* CFNetwork.framework in Frameworks */,
 				97ABE95618E360F900780496 /* SystemConfiguration.framework in Frameworks */,
 				B950FB221A8C910A00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6482,7 +6455,6 @@
 				97B9BA221A082992002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97ABE96018E360F900780496 /* CoreVideo.framework in Frameworks */,
 				97ABE96118E360F900780496 /* libiconv.dylib in Frameworks */,
-				B950FB071A8C90D300F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97ABE96218E360F900780496 /* libzbar.a in Frameworks */,
 				979FD47619DF56390070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6498,6 +6470,7 @@
 				97ABEA3718E3969E00780496 /* iAd.framework in Frameworks */,
 				97ABEA3818E3969E00780496 /* MapKit.framework in Frameworks */,
 				97ABEA3918E3969E00780496 /* CoreLocation.framework in Frameworks */,
+				932ADA141AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97ABEA3A18E3969E00780496 /* CFNetwork.framework in Frameworks */,
 				97ABEA3B18E3969E00780496 /* SystemConfiguration.framework in Frameworks */,
 				B950FB231A8C910A00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6518,7 +6491,6 @@
 				97B9BA231A082993002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97ABEA4518E3969E00780496 /* CoreVideo.framework in Frameworks */,
 				97ABEA4618E3969E00780496 /* libiconv.dylib in Frameworks */,
-				B950FB081A8C90D400F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97ABEA4718E3969E00780496 /* libzbar.a in Frameworks */,
 				979FD47719DF563A0070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6534,6 +6506,7 @@
 				97ABEB1918E3A67000780496 /* iAd.framework in Frameworks */,
 				97ABEB1A18E3A67000780496 /* MapKit.framework in Frameworks */,
 				97ABEB1B18E3A67000780496 /* CoreLocation.framework in Frameworks */,
+				932ADA151AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97ABEB1C18E3A67000780496 /* CFNetwork.framework in Frameworks */,
 				97ABEB1D18E3A67000780496 /* SystemConfiguration.framework in Frameworks */,
 				B950FB241A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6554,7 +6527,6 @@
 				97B9BA201A082990002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97ABEB2718E3A67000780496 /* CoreVideo.framework in Frameworks */,
 				97ABEB2818E3A67000780496 /* libiconv.dylib in Frameworks */,
-				B950FB091A8C90D500F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97ABEB2918E3A67000780496 /* libzbar.a in Frameworks */,
 				979FD47819DF563A0070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6570,6 +6542,7 @@
 				97BDFA79192E740900879644 /* iAd.framework in Frameworks */,
 				97BDFA7A192E740900879644 /* MapKit.framework in Frameworks */,
 				97BDFA7B192E740900879644 /* CoreLocation.framework in Frameworks */,
+				932ADA1E1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97BDFA7C192E740900879644 /* CFNetwork.framework in Frameworks */,
 				97BDFA7D192E740900879644 /* SystemConfiguration.framework in Frameworks */,
 				B950FB2D1A8C911100F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6590,7 +6563,6 @@
 				97B9BA251A082996002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97BDFA87192E740900879644 /* CoreVideo.framework in Frameworks */,
 				97BDFA88192E740900879644 /* libiconv.dylib in Frameworks */,
-				B950FB111A8C90DB00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97BDFA89192E740900879644 /* libzbar.a in Frameworks */,
 				979FD48119DF56430070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6606,6 +6578,7 @@
 				97DF30041954D165003BA2DF /* iAd.framework in Frameworks */,
 				97DF30051954D165003BA2DF /* MapKit.framework in Frameworks */,
 				97DF30061954D165003BA2DF /* CoreLocation.framework in Frameworks */,
+				932ADA211AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF30071954D165003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF30081954D165003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB301A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6626,7 +6599,6 @@
 				97B9BA2B1A08299A002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF30121954D165003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF30131954D165003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB141A8C90DE00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF30141954D165003BA2DF /* libzbar.a in Frameworks */,
 				979FD48419DF56440070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6642,6 +6614,7 @@
 				97DF30831954D1DB003BA2DF /* iAd.framework in Frameworks */,
 				97DF30841954D1DB003BA2DF /* MapKit.framework in Frameworks */,
 				97DF30851954D1DB003BA2DF /* CoreLocation.framework in Frameworks */,
+				932ADA221AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF30861954D1DB003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF30871954D1DB003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB311A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6662,7 +6635,6 @@
 				97B9BA2A1A08299A002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF30911954D1DB003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF30921954D1DB003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB151A8C90DE00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF30931954D1DB003BA2DF /* libzbar.a in Frameworks */,
 				979FD48519DF56450070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6678,6 +6650,7 @@
 				97DF31021954D1E1003BA2DF /* iAd.framework in Frameworks */,
 				97DF31031954D1E1003BA2DF /* MapKit.framework in Frameworks */,
 				97DF31041954D1E1003BA2DF /* CoreLocation.framework in Frameworks */,
+				932ADA231AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF31051954D1E1003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF31061954D1E1003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB321A8C911300F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6698,7 +6671,6 @@
 				97B9BA291A082999002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF31101954D1E1003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF31111954D1E1003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB161A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF31121954D1E1003BA2DF /* libzbar.a in Frameworks */,
 				979FD48619DF56460070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6714,6 +6686,7 @@
 				97DF31811954D1F2003BA2DF /* iAd.framework in Frameworks */,
 				97DF31821954D1F2003BA2DF /* MapKit.framework in Frameworks */,
 				97DF31831954D1F2003BA2DF /* CoreLocation.framework in Frameworks */,
+				932ADA241AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF31841954D1F2003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF31851954D1F2003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB331A8C911300F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6734,7 +6707,6 @@
 				97B9BA281A082998002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF318F1954D1F2003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF31901954D1F2003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB171A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF31911954D1F2003BA2DF /* libzbar.a in Frameworks */,
 				979FD48719DF56460070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6750,6 +6722,7 @@
 				97DF32001954D1FD003BA2DF /* iAd.framework in Frameworks */,
 				97DF32011954D1FD003BA2DF /* MapKit.framework in Frameworks */,
 				97DF32021954D1FD003BA2DF /* CoreLocation.framework in Frameworks */,
+				932ADA251AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF32031954D1FD003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF32041954D1FD003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB341A8C911400F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6770,7 +6743,6 @@
 				97B9BA271A082998002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF320E1954D1FD003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF320F1954D1FD003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB181A8C90DF00F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF32101954D1FD003BA2DF /* libzbar.a in Frameworks */,
 				979FD48819DF56470070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6786,6 +6758,7 @@
 				976DEE0419E46EAF00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0519E46EAF00451E65 /* libz.dylib in Frameworks */,
 				97DF327C1954D213003BA2DF /* StoreKit.framework in Frameworks */,
+				932ADA261AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF327D1954D213003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF327E1954D213003BA2DF /* MessageUI.framework in Frameworks */,
 				B950FB351A8C911400F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6806,7 +6779,6 @@
 				97DF328C1954D213003BA2DF /* CoreMedia.framework in Frameworks */,
 				97DF328D1954D213003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF328E1954D213003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB191A8C90E000F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF328F1954D213003BA2DF /* libzbar.a in Frameworks */,
 				979FD48919DF56480070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6822,6 +6794,7 @@
 				976DEE1319E470DD00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE1419E470DD00451E65 /* libz.dylib in Frameworks */,
 				97DF32FB1954D222003BA2DF /* StoreKit.framework in Frameworks */,
+				932ADA271AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF32FC1954D222003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF32FD1954D222003BA2DF /* MessageUI.framework in Frameworks */,
 				B950FB361A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6842,7 +6815,6 @@
 				97DF330B1954D222003BA2DF /* CoreMedia.framework in Frameworks */,
 				97DF330C1954D222003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF330D1954D222003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB1A1A8C90E000F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF330E1954D222003BA2DF /* libzbar.a in Frameworks */,
 				979FD48A19DF56480070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6858,6 +6830,7 @@
 				97DF337D1954D230003BA2DF /* iAd.framework in Frameworks */,
 				97DF337E1954D230003BA2DF /* MapKit.framework in Frameworks */,
 				97DF337F1954D230003BA2DF /* CoreLocation.framework in Frameworks */,
+				932ADA281AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF33801954D230003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF33811954D230003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB371A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6878,7 +6851,6 @@
 				97B9BA2D1A08299C002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF338B1954D230003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF338C1954D230003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB1B1A8C90E100F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF338D1954D230003BA2DF /* libzbar.a in Frameworks */,
 				979FD48B19DF56490070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -6894,6 +6866,7 @@
 				97DF33FC1954D23B003BA2DF /* iAd.framework in Frameworks */,
 				97DF33FD1954D23B003BA2DF /* MapKit.framework in Frameworks */,
 				97DF33FE1954D23B003BA2DF /* CoreLocation.framework in Frameworks */,
+				932ADA291AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */,
 				97DF33FF1954D23B003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF34001954D23B003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB381A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6914,7 +6887,6 @@
 				97B9BA2C1A08299C002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97DF340A1954D23B003BA2DF /* CoreVideo.framework in Frameworks */,
 				97DF340B1954D23B003BA2DF /* libiconv.dylib in Frameworks */,
-				B950FB1C1A8C90E300F6C0DF /* libGoogleAdMobAds.a in Frameworks */,
 				97DF340C1954D23B003BA2DF /* libzbar.a in Frameworks */,
 				979FD48C19DF56490070EB3F /* CoreData.framework in Frameworks */,
 			);
@@ -7014,11 +6986,11 @@
 		22CFA5FE1524A080004DEE6A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */,
 				B9401C451A89D34B00C760B3 /* GoogleAnalyticsServicesiOS_3.09 */,
 				979FD49619DF5D390070EB3F /* EventKitUI.framework */,
 				979FD49419DF5D170070EB3F /* EventKit.framework */,
 				979FD49219DF5CCD0070EB3F /* CoreTelephony.framework */,
-				97E9571419D1D15300CF563A /* GoogleMobileAdsSdkiOS-6.12.0 */,
 				9784F72019B90BDA004CAE99 /* libsqlite3.0.dylib */,
 				9784F71C19B8FE94004CAE99 /* libz.dylib */,
 				971B510919AD417200E2E54E /* CoreData.framework */,
@@ -9018,74 +8990,6 @@
 				97DF35C11954E80C003BA2DF /* visited.png */,
 			);
 			path = MapImages;
-			sourceTree = "<group>";
-		};
-		97E9571419D1D15300CF563A /* GoogleMobileAdsSdkiOS-6.12.0 */ = {
-			isa = PBXGroup;
-			children = (
-				97E9571519D1D15300CF563A /* Add-ons */,
-				97E9572819D1D15300CF563A /* GADAdMobExtras.h */,
-				97E9572919D1D15300CF563A /* GADAdNetworkExtras.h */,
-				97E9572A19D1D15300CF563A /* GADAdSize.h */,
-				97E9572B19D1D15300CF563A /* GADBannerView.h */,
-				97E9572C19D1D15300CF563A /* GADBannerViewDelegate.h */,
-				97E9572D19D1D15300CF563A /* GADInAppPurchase.h */,
-				97E9572E19D1D15300CF563A /* GADInAppPurchaseDelegate.h */,
-				97E9572F19D1D15300CF563A /* GADInterstitial.h */,
-				97E9573019D1D15300CF563A /* GADInterstitialDelegate.h */,
-				97E9573119D1D15300CF563A /* GADModules.h */,
-				97E9573219D1D15300CF563A /* GADRequest.h */,
-				97E9573319D1D15300CF563A /* GADRequestError.h */,
-				97E9573419D1D15300CF563A /* libGoogleAdMobAds.a */,
-				97E9573519D1D15300CF563A /* README.txt */,
-			);
-			path = "GoogleMobileAdsSdkiOS-6.12.0";
-			sourceTree = "<group>";
-		};
-		97E9571519D1D15300CF563A /* Add-ons */ = {
-			isa = PBXGroup;
-			children = (
-				97E9571619D1D15300CF563A /* DoubleClick */,
-				97E9571E19D1D15300CF563A /* Mediation */,
-				97E9572519D1D15300CF563A /* Search */,
-			);
-			path = "Add-ons";
-			sourceTree = "<group>";
-		};
-		97E9571619D1D15300CF563A /* DoubleClick */ = {
-			isa = PBXGroup;
-			children = (
-				97E9571719D1D15300CF563A /* DFPBannerView.h */,
-				97E9571819D1D15300CF563A /* DFPExtras.h */,
-				97E9571919D1D15300CF563A /* DFPInterstitial.h */,
-				97E9571A19D1D15300CF563A /* DFPSwipeableBannerView.h */,
-				97E9571B19D1D15300CF563A /* GADAdSizeDelegate.h */,
-				97E9571C19D1D15300CF563A /* GADAppEventDelegate.h */,
-				97E9571D19D1D15300CF563A /* GADSwipeableBannerViewDelegate.h */,
-			);
-			path = DoubleClick;
-			sourceTree = "<group>";
-		};
-		97E9571E19D1D15300CF563A /* Mediation */ = {
-			isa = PBXGroup;
-			children = (
-				97E9571F19D1D15300CF563A /* GADCustomEventBanner.h */,
-				97E9572019D1D15300CF563A /* GADCustomEventBannerDelegate.h */,
-				97E9572119D1D15300CF563A /* GADCustomEventExtras.h */,
-				97E9572219D1D15300CF563A /* GADCustomEventInterstitial.h */,
-				97E9572319D1D15300CF563A /* GADCustomEventInterstitialDelegate.h */,
-				97E9572419D1D15300CF563A /* GADCustomEventRequest.h */,
-			);
-			path = Mediation;
-			sourceTree = "<group>";
-		};
-		97E9572519D1D15300CF563A /* Search */ = {
-			isa = PBXGroup;
-			children = (
-				97E9572619D1D15300CF563A /* GADSearchBannerView.h */,
-				97E9572719D1D15300CF563A /* GADSearchRequest.h */,
-			);
-			path = Search;
 			sourceTree = "<group>";
 		};
 		B9401C451A89D34B00C760B3 /* GoogleAnalyticsServicesiOS_3.09 */ = {
@@ -14377,6 +14281,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -14389,7 +14297,6 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"${SRCROOT}",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
@@ -14399,7 +14306,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
-				VALID_ARCHS = "armv7 armv7s";
+				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -14410,6 +14317,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_CAMPUS;
@@ -14419,7 +14330,6 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"${SRCROOT}",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
@@ -14429,7 +14339,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
-				VALID_ARCHS = "armv7 armv7s";
+				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -14442,6 +14352,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -14454,16 +14368,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNL";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14482,6 +14393,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -14491,16 +14406,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNL";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14519,6 +14431,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -14528,16 +14444,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNL";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14556,6 +14469,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -14565,16 +14482,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNL";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14593,7 +14507,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}";
+				FRAMEWORK_SEARCH_PATHS = (
+					"${SRCROOT}",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -14601,21 +14518,18 @@
 					"DEBUG=1",
 				);
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "UTSA-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTSA/UTSA-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UTSA";
 				PROVISIONING_PROFILE = "";
@@ -14634,26 +14548,26 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}";
+				FRAMEWORK_SEARCH_PATHS = (
+					"${SRCROOT}",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "UTSA-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTSA/UTSA-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UTSA";
 				PROVISIONING_PROFILE = "";
@@ -14672,26 +14586,26 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}";
+				FRAMEWORK_SEARCH_PATHS = (
+					"${SRCROOT}",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "UTSA-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTSA/UTSA-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UTSA";
 				PROVISIONING_PROFILE = "";
@@ -14710,26 +14624,26 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}";
+				FRAMEWORK_SEARCH_PATHS = (
+					"${SRCROOT}",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "UTSA-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTSA/UTSA-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UTSA";
 				PROVISIONING_PROFILE = "";
@@ -14748,6 +14662,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -14760,16 +14678,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UA";
 				PROVISIONING_PROFILE = "";
@@ -14788,6 +14703,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -14797,16 +14716,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UA";
 				PROVISIONING_PROFILE = "";
@@ -14825,6 +14741,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -14834,16 +14754,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UA";
 				PROVISIONING_PROFILE = "";
@@ -14862,6 +14779,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -14871,16 +14792,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UA";
 				PROVISIONING_PROFILE = "";
@@ -14899,6 +14817,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -14911,16 +14833,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UW";
 				PROVISIONING_PROFILE = "";
@@ -14939,6 +14858,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -14948,16 +14871,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UW";
 				PROVISIONING_PROFILE = "";
@@ -14976,6 +14896,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -14985,16 +14909,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UW";
 				PROVISIONING_PROFILE = "";
@@ -15013,6 +14934,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15022,16 +14947,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UW";
 				PROVISIONING_PROFILE = "";
@@ -15050,6 +14972,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -15062,17 +14988,12 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
-					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UMD";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15091,6 +15012,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15100,17 +15025,12 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
-					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UMD";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15129,6 +15049,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15138,17 +15062,12 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
-					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UMD";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15167,6 +15086,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15176,17 +15099,12 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
-					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UMD";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15205,6 +15123,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -15217,16 +15139,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UWM";
 				PROVISIONING_PROFILE = "";
@@ -15245,6 +15164,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15254,16 +15177,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UWM";
 				PROVISIONING_PROFILE = "";
@@ -15282,6 +15202,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15291,16 +15215,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UWM";
 				PROVISIONING_PROFILE = "";
@@ -15319,6 +15240,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15328,16 +15253,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UWM";
 				PROVISIONING_PROFILE = "";
@@ -15356,7 +15278,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = "";
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -15369,16 +15291,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit SHSU";
 				PROVISIONING_PROFILE = "";
@@ -15397,7 +15316,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = "";
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15407,16 +15326,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit SHSU";
 				PROVISIONING_PROFILE = "";
@@ -15435,7 +15351,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = "";
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15445,16 +15361,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit SHSU";
 				PROVISIONING_PROFILE = "";
@@ -15473,7 +15386,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = "";
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15483,16 +15396,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit SHSU";
 				PROVISIONING_PROFILE = "";
@@ -15511,6 +15421,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -15523,17 +15437,14 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UMICH";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15552,6 +15463,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15561,17 +15476,14 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UMICH";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15590,6 +15502,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15599,17 +15515,14 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UMICH";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15628,6 +15541,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15637,17 +15554,14 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UMICH";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15666,6 +15580,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -15678,16 +15596,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Towson";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15706,6 +15621,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15715,16 +15634,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Towson";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15743,6 +15659,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15752,16 +15672,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Towson";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15780,6 +15697,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15789,16 +15710,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Towson";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15817,6 +15735,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -15829,16 +15751,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit IUPUI";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15858,6 +15777,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15867,16 +15790,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit IUPUI";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15896,6 +15816,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15905,16 +15829,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit IUPUI";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15934,6 +15855,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -15943,16 +15868,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit IUPUI";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15972,6 +15894,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -15984,16 +15910,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNLV";
 				PROVISIONING_PROFILE = "";
@@ -16012,6 +15935,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16021,16 +15948,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNLV";
 				PROVISIONING_PROFILE = "";
@@ -16049,6 +15973,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16058,16 +15986,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNLV";
 				PROVISIONING_PROFILE = "";
@@ -16086,6 +16011,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16095,16 +16024,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNLV";
 				PROVISIONING_PROFILE = "";
@@ -16123,6 +16049,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -16135,16 +16065,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16163,6 +16090,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16172,16 +16103,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16200,6 +16128,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16209,16 +16141,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16237,6 +16166,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16246,16 +16179,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16274,6 +16204,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -16286,11 +16220,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
-					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				ONLY_ACTIVE_ARCH = NO;
@@ -16315,6 +16245,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16324,11 +16258,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
-					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				ONLY_ACTIVE_ARCH = NO;
@@ -16353,6 +16283,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16362,11 +16296,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
-					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				ONLY_ACTIVE_ARCH = NO;
@@ -16391,6 +16321,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16400,11 +16334,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
-					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				ONLY_ACTIVE_ARCH = NO;
@@ -16429,6 +16359,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -16441,11 +16375,8 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16456,7 +16387,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv7s";
+				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -16469,6 +16400,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16478,11 +16413,8 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16493,7 +16425,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv7s";
+				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -16506,6 +16438,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16515,11 +16451,8 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16530,7 +16463,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv7s";
+				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -16543,6 +16476,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16552,11 +16489,8 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
-					"$(PROJECT_DIR)/GoogleAdMobAdsSdkiOS-6.4.2",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -16567,7 +16501,7 @@
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv7s";
+				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;
@@ -16580,6 +16514,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -16592,16 +16530,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16620,6 +16555,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16629,16 +16568,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16657,6 +16593,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16666,16 +16606,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16694,6 +16631,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16703,16 +16644,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16731,6 +16669,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -16743,16 +16685,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit TAMU";
 				PROVISIONING_PROFILE = "";
@@ -16771,6 +16710,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16780,16 +16723,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit TAMU";
 				PROVISIONING_PROFILE = "";
@@ -16808,6 +16748,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16817,16 +16761,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit TAMU";
 				PROVISIONING_PROFILE = "";
@@ -16845,6 +16786,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16854,16 +16799,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit TAMU";
 				PROVISIONING_PROFILE = "";
@@ -16882,6 +16824,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -16894,16 +16840,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UHM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16922,6 +16865,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16931,16 +16878,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UHM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16959,6 +16903,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -16968,16 +16916,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UHM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16996,6 +16941,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17005,16 +16954,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UHM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17033,6 +16979,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -17045,16 +16995,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit USF";
 				PROVISIONING_PROFILE = "";
@@ -17073,6 +17020,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17082,16 +17033,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit USF";
 				PROVISIONING_PROFILE = "";
@@ -17110,6 +17058,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17119,16 +17071,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit USF";
 				PROVISIONING_PROFILE = "";
@@ -17147,6 +17096,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17156,16 +17109,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit USF";
 				PROVISIONING_PROFILE = "";
@@ -17184,6 +17134,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -17196,16 +17150,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UND";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17224,6 +17175,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17233,16 +17188,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UND";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17261,6 +17213,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17270,16 +17226,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UND";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17298,6 +17251,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17307,16 +17264,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UND";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17335,6 +17289,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -17347,16 +17305,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit GT";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17375,6 +17330,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17384,16 +17343,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit GT";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17412,6 +17368,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17421,16 +17381,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit GT";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17449,6 +17406,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17458,16 +17419,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit GT";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17486,6 +17444,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -17498,16 +17460,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit WSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17526,6 +17485,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17535,16 +17498,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit WSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17563,6 +17523,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17572,16 +17536,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit WSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17600,6 +17561,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17609,16 +17574,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit WSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17637,6 +17599,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -17649,16 +17615,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FAU";
 				PROVISIONING_PROFILE = "";
@@ -17677,6 +17640,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17686,16 +17653,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FAU";
 				PROVISIONING_PROFILE = "";
@@ -17714,6 +17678,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17723,16 +17691,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FAU";
 				PROVISIONING_PROFILE = "";
@@ -17751,6 +17716,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17760,16 +17729,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FAU";
 				PROVISIONING_PROFILE = "";
@@ -17788,6 +17754,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -17800,16 +17770,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UWSP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17828,6 +17795,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17837,16 +17808,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UWSP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17865,6 +17833,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17874,16 +17846,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UWSP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17902,6 +17871,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17911,16 +17884,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UWSP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17939,6 +17909,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -17951,16 +17925,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17979,6 +17950,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -17988,16 +17963,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18016,6 +17988,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18025,16 +18001,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18053,6 +18026,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18062,16 +18039,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UNC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18090,6 +18064,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -18102,16 +18080,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Wichita";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18130,6 +18105,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18139,16 +18118,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Wichita";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18167,6 +18143,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18176,16 +18156,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Wichita";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18204,6 +18181,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18213,16 +18194,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Wichita";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18241,6 +18219,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -18253,16 +18235,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UARK";
 				PROVISIONING_PROFILE = "";
@@ -18281,6 +18260,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18290,16 +18273,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UARK";
 				PROVISIONING_PROFILE = "";
@@ -18318,6 +18298,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18327,16 +18311,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UARK";
 				PROVISIONING_PROFILE = "";
@@ -18355,6 +18336,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18364,16 +18349,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UARK";
 				PROVISIONING_PROFILE = "";
@@ -18392,6 +18374,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -18404,16 +18390,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit MTSU";
 				PROVISIONING_PROFILE = "";
@@ -18432,6 +18415,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18441,16 +18428,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit MTSU";
 				PROVISIONING_PROFILE = "";
@@ -18469,6 +18453,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18478,16 +18466,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit MTSU";
 				PROVISIONING_PROFILE = "";
@@ -18506,6 +18491,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18515,16 +18504,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit MTSU";
 				PROVISIONING_PROFILE = "";
@@ -18543,6 +18529,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -18555,16 +18545,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UCO";
 				PROVISIONING_PROFILE = "";
@@ -18583,6 +18570,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18592,16 +18583,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UCO";
 				PROVISIONING_PROFILE = "";
@@ -18620,6 +18608,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18629,16 +18621,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UCO";
 				PROVISIONING_PROFILE = "";
@@ -18657,6 +18646,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
@@ -18666,16 +18659,13 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
-					"\"$(SRCROOT)/GoogleAdMobAdsSdkiOS-6.4.2\"",
 					"\"$(SRCROOT)/GoogleAnalyticsServicesiOS_3.09\"",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 				);
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
 					"-licucore",
-					"-objC",
-					"-force_load",
+					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UCO";
 				PROVISIONING_PROFILE = "";
@@ -18725,6 +18715,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_CAMPUS;
@@ -18734,7 +18728,6 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"${SRCROOT}",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
@@ -18744,7 +18737,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
-				VALID_ARCHS = "armv7 armv7s";
+				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AdHoc;
@@ -18788,6 +18781,10 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_CAMPUS;
@@ -18797,7 +18794,6 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
-					"$(PROJECT_DIR)/GoogleMobileAdsSdkiOS-6.12.0",
 					"${SRCROOT}",
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
@@ -18807,7 +18803,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
-				VALID_ARCHS = "armv7 armv7s";
+				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;

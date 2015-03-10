@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <iAd/iAd.h>
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 @interface CPAddBannerView : NSObject
 {
     ADBannerView *_adBannerView;

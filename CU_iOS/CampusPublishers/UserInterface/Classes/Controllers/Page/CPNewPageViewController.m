@@ -6,7 +6,7 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 #import "CPNewPageViewController.h"
 #import "CPGalleryViewController.h"
 #import "CPAddBannerView.h"
@@ -23,8 +23,6 @@
 #import "CustomImageView.h"
 #import "CPPageViewController.h"
 #import "RootViewController.h"
-
-#import "CPUtils.h"
 
 @interface CPNewPageViewController (HIDDEN)
 
@@ -307,7 +305,7 @@
             }
             
             
-            _imgView.frame=CGRectMake(0.0, 0.0, [CPUtils getSceenWidth], (480-98-44)*0.6);
+            _imgView.frame=CGRectMake(0.0, 0.0, 320, (480-98-44)*0.6);
             
             //  _imgView.contentMode = UIViewContentModeScaleAspectFit;
             // _imgView.autoresizingMask = UIViewAutoresizingFlexibleLeftMargin 
@@ -401,7 +399,7 @@
     [gADBannerView setRootViewController:self];
     [self.view addSubview:gADBannerView];
     GADRequest *r = [[GADRequest alloc] init];
-    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
+//    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
     
     
@@ -409,7 +407,7 @@
 
 -(void)reloadAdd{
     GADRequest *r = [[GADRequest alloc] init];
-    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
+//    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
 }
 
@@ -556,11 +554,6 @@
         reader.readerView.torchMode = 0;
         
         ZBarImageScanner *scanner = reader.scanner;
-        
-        [reader.view setFrame:CGRectMake(0, 0, [CPUtils getSceenWidth], [CPUtils getSceenHeight])];
-        
-//        reader. = CGRectMake(0, 0, 283, 347);
-        
         // TODO: (optional) additional reader configuration here
         
         // EXAMPLE: disable rarely used I2/5 to improve performance

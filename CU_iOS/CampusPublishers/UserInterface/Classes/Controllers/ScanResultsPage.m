@@ -21,7 +21,7 @@
 #import "DescriptionViewController.h"
 #import "RootViewController.h"
 #import "CPAppDelegate.h"
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 @implementation ScanResultsPage
 @synthesize qrContent;
 @synthesize descriptionViewController,rootViewController;
@@ -262,13 +262,13 @@
     [gADBannerView setRootViewController:self];
     [self.view addSubview:gADBannerView];
     GADRequest *r = [[GADRequest alloc] init];
-    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
+//    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
 }
 
 -(void)reloadAdd{
     GADRequest *r = [[GADRequest alloc] init];
-    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
+//    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
 }
 

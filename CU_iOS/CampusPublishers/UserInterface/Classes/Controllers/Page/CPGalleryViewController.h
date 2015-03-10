@@ -16,7 +16,7 @@
 #import <iAd/iAd.h>
 
 #import "ZBarSDK.h"
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GADBannerView.h>
 @class CMPPage;
 @class CPContent;
 @class CPDataManger;

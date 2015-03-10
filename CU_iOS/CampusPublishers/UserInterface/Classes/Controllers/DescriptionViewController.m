@@ -166,13 +166,13 @@ _footerView.frame = CGRectMake(0.0, self.view.frame.size.height-_footerView.fram
     [gADBannerView setRootViewController:self];
     [self.view addSubview:gADBannerView];
     GADRequest *r = [[GADRequest alloc] init];
-    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
+//    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
 }
 
 -(void)reloadAdd{
     GADRequest *r = [[GADRequest alloc] init];
-    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
+//    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
 }
 
