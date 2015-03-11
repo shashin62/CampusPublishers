@@ -500,7 +500,8 @@
     [activityView stopAnimating];
     CPAppDelegate *appDelegate=(CPAppDelegate *)[UIApplication sharedApplication].delegate;
     appDelegate.isSetUpViewClosed=YES;
-    [self dismissModalViewControllerAnimated:YES];
+//    [self dismissModalViewControllerAnimated:YES];
+    [self dismissViewControllerAnimated:YES completion:nil];
 }
 
 @end

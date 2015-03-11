@@ -112,14 +112,14 @@
     self.window.backgroundColor=[UIColor whiteColor];
     //NSLog(@"%@",NSStringFromCGRect([UIScreen mainScreen].bounds));
     
-    CPAnalytics *analytics = [[CPAnalytics alloc] init];
+//    CPAnalytics *analytics = [[CPAnalytics alloc] init];
     
     // Below is the code to intialize Google Analytics
     [GAI sharedInstance].trackUncaughtExceptions = YES;
     [[GAI sharedInstance].logger setLogLevel:kGAILogLevelVerbose];
     [GAI sharedInstance].dispatchInterval = 120;
     // TODO: Change below to tracker id as detirmined by the data manager.
-    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:analytics.analyticsid];
+//    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:analytics.analyticsid];
     // End Google Analytics code.
     
     CPSetUpViewController *controller = [[CPSetUpViewController alloc] initWithNibName:nil bundle:nil];

@@ -108,7 +108,7 @@ CGPathRef NewPathWithRoundRect   (CGRect rect, CGFloat cornerRadius)
 	
 	loadingLabel.textColor = [UIColor whiteColor];
 	loadingLabel.backgroundColor = [UIColor clearColor];
-	loadingLabel.textAlignment = UITextAlignmentCenter;
+	loadingLabel.textAlignment = NSTextAlignmentCenter;
 	loadingLabel.font = [UIFont fontWithName:@"ArialMT" size:[UIFont labelFontSize]]; //--font
 	loadingLabel.autoresizingMask =
 		UIViewAutoresizingFlexibleLeftMargin |

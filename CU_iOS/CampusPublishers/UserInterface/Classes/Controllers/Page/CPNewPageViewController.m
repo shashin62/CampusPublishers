@@ -976,7 +976,8 @@
         _pageViewController.qrContent = qrContent;
         _pageViewController.title = @"Results";
         [self.navigationController pushViewController:_pageViewController animated:NO];
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
     }
     else
     {
@@ -987,7 +988,8 @@
         _pageViewController.qrContent = qrContent;
         _pageViewController.title = @"Results";
         [self.navigationController pushViewController:_pageViewController animated:NO];
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
         
     }
 }
@@ -996,7 +998,8 @@
 -(void)imagePickerControllerDidCancel:(UIImagePickerController *)picker{
     CPAppDelegate *appDelegate= (CPAppDelegate*)[UIApplication sharedApplication].delegate;
     [appDelegate upDateViewFramewithPicker:picker toReplaceView:self.view];
-    [picker dismissModalViewControllerAnimated:YES];
+//    [picker dismissModalViewControllerAnimated:YES];
+    [picker dismissViewControllerAnimated:YES completion:nil];
     isAddOPen=YES;
 
 }

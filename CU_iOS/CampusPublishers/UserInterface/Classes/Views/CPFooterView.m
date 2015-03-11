@@ -191,7 +191,7 @@
 
 - (void)doAction:(id)sender
 {
-    CPFooterItemType type = [sender tag];
+    CPFooterItemType type = (CPFooterItemType*)[sender tag];
     if([self.delegate respondsToSelector:@selector(footerView:didClickItemWithType:)])
 	{
         [self.delegate footerView:self 

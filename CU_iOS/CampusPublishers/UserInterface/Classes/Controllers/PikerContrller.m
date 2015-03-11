@@ -170,7 +170,7 @@
     pinLabel.frame=CGRectMake(10,5,tableView.rowHeight-5,30);
     ///(10,0,tableView.rowHeight-5,tableView.rowHeight-5)
     pinLabel.backgroundColor=[UIColor clearColor];
-    pinLabel.textAlignment=UITextAlignmentCenter;
+    pinLabel.textAlignment=NSTextAlignmentCenter;
     pinLabel.textColor=[UIColor blackColor];
     pinLabel.font=[UIFont fontWithName:@"Arial-BoldMT" size:15];
     pinLabel.text=@"Pin";
@@ -189,7 +189,7 @@
     catagoryLabel.frame=CGRectMake(70,5,205,30);
     
     catagoryLabel.backgroundColor=[UIColor clearColor];
-    catagoryLabel.textAlignment=UITextAlignmentCenter;
+    catagoryLabel.textAlignment=NSTextAlignmentCenter;
     catagoryLabel.textColor=[UIColor blackColor];
     catagoryLabel.font=[UIFont fontWithName:@"Arial-BoldMT" size:15]; //--font
     catagoryLabel.text=@"Category";
@@ -233,7 +233,7 @@
     // catagories label
     UILabel* catagoryLabel=[[UILabel alloc]initWithFrame:CGRectMake(70,5,205,30)];
     catagoryLabel.backgroundColor=[UIColor clearColor];
-    catagoryLabel.textAlignment=UITextAlignmentCenter;
+    catagoryLabel.textAlignment=NSTextAlignmentCenter;
     catagoryLabel.textColor=[UIColor blackColor];
     catagoryLabel.font=[UIFont fontWithName:@"Arial-BoldMT" size:15]; //--font
     //catagoryLabel.text=@"Key";
@@ -309,7 +309,7 @@
     
       
     NSData *_data = [(NSDictionary*)response valueForKey:@"data"];
-    NSString *responseString=[[NSString alloc]initWithData:_data encoding:NSUTF8StringEncoding];
+//    NSString *responseString=[[NSString alloc]initWithData:_data encoding:NSUTF8StringEncoding];
     
     
     //NSLog(@"responseString: %@",responseString);

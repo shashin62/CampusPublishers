@@ -61,15 +61,18 @@ static CPAddBannerView *sharedAddBannerView = nil;
         CGRect bannerFrame = self.adBannerView.frame;
         self.adBannerView.frame = bannerFrame;
         
-        self.adBannerView.requiredContentSizeIdentifiers = [NSSet setWithObjects:ADBannerContentSizeIdentifierPortrait, ADBannerContentSizeIdentifierLandscape, nil];
+        [self.adBannerView setAutoresizingMask:UIViewAutoresizingFlexibleWidth];
+//        self.adBannerView.requiredContentSizeIdentifiers = [NSSet setWithObjects:ADBannerContentSizeIdentifierPortrait, ADBannerContentSizeIdentifierLandscape, nil];
         
         if([[UIDevice currentDevice] orientation] == UIInterfaceOrientationPortrait)
         {
-            self.adBannerView.currentContentSizeIdentifier = ADBannerContentSizeIdentifierPortrait;
+//            self.adBannerView.currentContentSizeIdentifier = ADBannerContentSizeIdentifierPortrait;
+            [self.adBannerView setAutoresizingMask:UIViewAutoresizingFlexibleWidth];
         }
         else
         {
-            self.adBannerView.currentContentSizeIdentifier = ADBannerContentSizeIdentifierLandscape;
+//            self.adBannerView.currentContentSizeIdentifier = ADBannerContentSizeIdentifierLandscape;
+            [self.adBannerView setAutoresizingMask:UIViewAutoresizingFlexibleWidth];
         }
         self.adBannerView = bView;
         

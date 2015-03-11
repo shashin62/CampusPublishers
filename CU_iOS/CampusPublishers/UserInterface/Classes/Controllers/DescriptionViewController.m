@@ -752,7 +752,8 @@ NSMutableString *newtempstring = [[tempstring stringByReplacingOccurrencesOfStri
         _pageViewController.title = @"Results";
         [self.navigationController pushViewController:_pageViewController animated:NO];
       
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
     }
     else
     {
@@ -769,7 +770,8 @@ NSMutableString *newtempstring = [[tempstring stringByReplacingOccurrencesOfStri
         _pageViewController.title = @"Results";
         [self.navigationController pushViewController:_pageViewController animated:NO];
       
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
     }
 }
 
@@ -778,7 +780,8 @@ NSMutableString *newtempstring = [[tempstring stringByReplacingOccurrencesOfStri
         isSubView=YES;
         CPAppDelegate *appDelegate= (CPAppDelegate*)[UIApplication sharedApplication].delegate;
         [appDelegate upDateViewFramewithPicker:picker toReplaceView:self.view];
-        [picker dismissModalViewControllerAnimated:NO];
+//        [picker dismissModalViewControllerAnimated:NO];
+    [picker dismissViewControllerAnimated:NO completion:nil];
 }
 
 

@@ -450,7 +450,7 @@
                         _activityView.frame = rect;
                     }
                     
-                    [self getImageAtIndex:_imgView.tag
+                    [self getImageAtIndex:(int)_imgView.tag
                                    forURL:((CMPImage*)menu.page.image).imageUrl];
                 }
                 else if(menu.page.image.image != nil)
@@ -1642,7 +1642,8 @@
         _pageViewController.qrContent = qrContent;
         self.qrContent = nil;
         _pageViewController.title = @"Results";
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+                [reader dismissViewControllerAnimated:NO completion:nil];
         [self.navigationController pushViewController:_pageViewController animated:NO];
         
     }
@@ -1656,7 +1657,8 @@
         self.qrContent = nil;
         _pageViewController.title = @"Results";
         [self.navigationController pushViewController:_pageViewController animated:NO];
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated:NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
     }
 }
 
@@ -1664,7 +1666,8 @@
     isScanner=NO;
     CPAppDelegate *appDelegate= (CPAppDelegate*)[UIApplication sharedApplication].delegate;
     [appDelegate upDateViewFramewithPicker:picker toReplaceView:self.view];
-    [picker dismissModalViewControllerAnimated: NO];
+//    [picker dismissModalViewControllerAnimated: NO];
+    [picker dismissViewControllerAnimated:NO completion:nil];
 }
 
 #pragma mark - UISplitViewControllerDelegate -

@@ -85,10 +85,10 @@ static NSString *const kAllowTracking = @"allowTracking";
     }
     [categoryImages addObject:image];
   }
-  for (NSString *cat in [images allKeys]) {
-    NSArray *array = images[cat];
-    NSLog(@"Category %@: %u image(s).", cat, array.count);
-  }
+//  for (NSString *cat in [images allKeys]) {
+//    NSArray *array = images[cat];
+//    NSLog(@"Category %@: %u image(s).", cat, array.count);
+//  }
   return images;
 }
 

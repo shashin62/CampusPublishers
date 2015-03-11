@@ -56,11 +56,11 @@
     didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
   [tableView deselectRowAtIndexPath:indexPath animated:NO];
   if (indexPath.row < 0 || indexPath.row >= self.items.count) {
-    NSLog(@"IndexPath %d out of bounds!", indexPath.row);
+//    NSLog(@"IndexPath %d out of bounds!", indexPath.row);
     return;
   }
   NSString *title =
-      [NSString stringWithFormat:@"%@ %d", self.category, indexPath.row];
+      [NSString stringWithFormat:@"%@ %d", self.category, (int)indexPath.row];
   UIImage *image = (self.items)[indexPath.row];
   ImageViewController *imageViewController =
       [[ImageViewController alloc] initWithNibName:nil
@@ -81,7 +81,7 @@
 - (UITableViewCell *)tableView:(UITableView *)tableView
          cellForRowAtIndexPath:(NSIndexPath *)indexPath {
   if (indexPath.row < 0 || indexPath.row >= self.items.count) {
-    NSLog(@"IndexPath %d out of bounds!", indexPath.row);
+    NSLog(@"IndexPath %d out of bounds!", (int)indexPath.row);
     return nil;
   }
 
@@ -95,7 +95,7 @@
   }
 
   cell.textLabel.text = [NSString stringWithFormat:@"%@ %d",
-                         self.category, indexPath.row];
+                         self.category, (int)indexPath.row];
   UIImage *image = (self.items)[indexPath.row];
   cell.detailTextLabel.text = [NSString stringWithFormat:@"%d x %d",
                                (int)image.size.width, (int)image.size.height];

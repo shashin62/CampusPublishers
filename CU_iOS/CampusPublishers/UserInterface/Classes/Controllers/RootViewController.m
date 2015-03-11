@@ -178,7 +178,7 @@
     MKMapPoint *coords = calloc(count, sizeof(CLLocationCoordinate2D));
     NSUInteger coordIdx = 0;
     
-    int repeatCount=0;
+//    int repeatCount=0;
     
     float latitude = 0;
     float longitude = 0;
@@ -502,7 +502,8 @@
         qrContent = nil;
         _pageViewController.title = @"Results";
         [self.navigationController pushViewController:_pageViewController animated:NO];
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
     }
     else
     {
@@ -518,7 +519,8 @@
         qrContent = nil;
         _pageViewController.title = @"Results";
         [self.navigationController pushViewController:_pageViewController animated:NO];
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
     }
 }
 
@@ -526,7 +528,8 @@
 -(void)imagePickerControllerDidCancel:(UIImagePickerController *)picker{
     CPAppDelegate *appDelegate= (CPAppDelegate*)[UIApplication sharedApplication].delegate;
     [appDelegate upDateViewFramewithPicker:picker toReplaceView:self.view];
-    [picker dismissModalViewControllerAnimated:NO];
+//    [picker dismissModalViewControllerAnimated:NO];
+    [picker dismissViewControllerAnimated:NO completion:nil];
 }
 
 
@@ -907,9 +910,9 @@
     // //NSLog(@"response: %@",response);
     NSData *_data = [(NSDictionary*)response valueForKey:@"data"];
     
-    NSString *strResponse = [[NSString alloc] initWithBytes:(const void*)[_data bytes]
-                                                     length:[_data length]
-                                                   encoding:NSASCIIStringEncoding];
+//    NSString *strResponse = [[NSString alloc] initWithBytes:(const void*)[_data bytes]
+//                                                     length:[_data length]
+//                                                   encoding:NSASCIIStringEncoding];
     //NSLog(@"%@",strResponse);
     
     
@@ -919,7 +922,7 @@
         
         
         
-        NSString *responseString=[[NSString alloc]initWithData:_data encoding:NSUTF8StringEncoding];
+//        NSString *responseString=[[NSString alloc]initWithData:_data encoding:NSUTF8StringEncoding];
         //NSLog(@"responseString: %@",responseString);
         
         responseData=nil;
@@ -1163,11 +1166,11 @@
                 
                 //NSLog(@"categoryIdArray: %@",categoryIdArray);
                 
-                for (CPMapCategories *temp in categoryObjectArray) {
-                    //NSLog(@"categoryIdArray: %d",temp.category_id);
-                    //NSLog(@"categoryIdArray: %@",temp.device_image);
-
-                }
+//                for (CPMapCategories *temp in categoryObjectArray) {
+//                    //NSLog(@"categoryIdArray: %d",temp.category_id);
+//                    //NSLog(@"categoryIdArray: %@",temp.device_image);
+//
+//                }
 
             }
             
@@ -1181,18 +1184,18 @@
                 [self sortArry:placeArrayForTourGuide];
                 //NSLog(@"placeArrayForTourGuide: %d",placeArrayForTourGuide.count);
                 
-                for(Place *place in placeArrayForTourGuide){
-                    //NSLog(@"place.tourmap_id: %d",place.tourmap_id);
-                    //NSLog(@"media_type: %d",place.media_type);
-                    //NSLog(@"video_name: %@",place.video_name);
-                    //NSLog(@"map_image: %@",place.map_image);
-                    //NSLog(@"video_thumb: %@",place.video_thumb);
-                    //NSLog(@"category_ipad_image: %@",place.categories.category_name);
-                    
-                    //NSLog(@"category_ipad_image: %@",place.categories.category_ipad_image);
-                    //NSLog(@"device_image: %@",place.categories.device_image);
-                    
-                }   
+//                for(Place *place in placeArrayForTourGuide){
+//                    //NSLog(@"place.tourmap_id: %d",place.tourmap_id);
+//                    //NSLog(@"media_type: %d",place.media_type);
+//                    //NSLog(@"video_name: %@",place.video_name);
+//                    //NSLog(@"map_image: %@",place.map_image);
+//                    //NSLog(@"video_thumb: %@",place.video_thumb);
+//                    //NSLog(@"category_ipad_image: %@",place.categories.category_name);
+//                    
+//                    //NSLog(@"category_ipad_image: %@",place.categories.category_ipad_image);
+//                    //NSLog(@"device_image: %@",place.categories.device_image);
+//                    
+//                }   
                 
                 
                 if(_footerView!=nil){
@@ -1269,7 +1272,7 @@
 }
 
 -(void)connectionDidFinishLoading:(NSURLConnection *)connection{
-    NSString *responseString=[[NSString alloc]initWithData:responseData encoding:NSUTF8StringEncoding];
+//    NSString *responseString=[[NSString alloc]initWithData:responseData encoding:NSUTF8StringEncoding];
     //NSLog(@"responseString: %@",responseString);
     [self parsingJSONstring];
     
@@ -1841,9 +1844,9 @@
 
 -(void)sortArry:(NSMutableArray *)arry{
 	
-    for(Place *place in arry){
-        //NSLog(@"%d",place.tourmap_id);
-    }
+//    for(Place *place in arry){
+//        //NSLog(@"%d",place.tourmap_id);
+//    }
     
 	
            

@@ -368,7 +368,8 @@
         }*/
         
         if(!([[UIDevice currentDevice] orientation]==UIDeviceOrientationPortrait)||([[UIDevice currentDevice] orientation]==UIDeviceOrientationPortraitUpsideDown)){
-            [reader dismissModalViewControllerAnimated: NO];
+//            [reader dismissModalViewControllerAnimated: NO];
+            [reader dismissViewControllerAnimated:NO completion:nil];
             return;
         }
         
@@ -393,7 +394,8 @@
             qrContent1.type = CPContentTypeURL;
         qrContent1.text = hiddenData;
         //   CPPageViewController *_pageViewController = [[CPPageViewController alloc] initWithNibName:nil bundle:nil];
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
 
         
        // if([self.navigationController.visibleViewController  isKindOfClass:[ScanResultsPage class]]){
@@ -421,7 +423,8 @@
         qrContent1.type = CPContentTypeHTML;
         qrContent1.text = hiddenData;
         //   CPPageViewController *_pageViewController = [[CPPageViewController alloc] initWithNibName:nil bundle:nil];
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
         
         
         // if([self.navigationController.visibleViewController  isKindOfClass:[ScanResultsPage class]]){
@@ -429,7 +432,8 @@
         
         [self loadRequest];
 
-        [reader dismissModalViewControllerAnimated: NO];
+//        [reader dismissModalViewControllerAnimated: NO];
+        [reader dismissViewControllerAnimated:NO completion:nil];
     }
     
    
@@ -439,7 +443,8 @@
 -(void)imagePickerControllerDidCancel:(UIImagePickerController *)picker{
     CPAppDelegate *appDelegate= (CPAppDelegate*)[UIApplication sharedApplication].delegate;
     [appDelegate upDateViewFramewithPicker:picker toReplaceView:self.view];
-    [picker dismissModalViewControllerAnimated:YES];
+//    [picker dismissModalViewControllerAnimated:YES];
+    [picker dismissViewControllerAnimated:YES completion:nil];
 }
 
 

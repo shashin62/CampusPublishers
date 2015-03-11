@@ -74,7 +74,7 @@
 		{
 			[self.delegate CPConnection:self didReceiveResponse:[NSDictionary dictionaryWithObjectsAndKeys:
                                                                  _data, @"data",
-                                                                 [NSNumber numberWithInt:statusCode], @"statusCode",
+                                                                 [NSNumber numberWithInteger:statusCode], @"statusCode",
                                                                  nil]];
            
         }
