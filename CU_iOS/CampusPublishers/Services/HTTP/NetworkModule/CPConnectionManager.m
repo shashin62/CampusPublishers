@@ -19,7 +19,7 @@ static CPConnectionManager *sharedConnectionManager = nil;
 	{
         if(sharedConnectionManager == nil) 
 		{
-            [[self alloc] init]; // assignment not done here
+            sharedConnectionManager = [[self alloc] init]; // assignment not done here
         }
     }
 	

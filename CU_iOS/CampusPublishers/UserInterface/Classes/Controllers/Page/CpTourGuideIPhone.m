@@ -145,8 +145,8 @@
                                to: 0];
             
             // present and release the controller
-            [self presentModalViewController: reader
-                                    animated: YES];
+            [self presentViewController:reader animated:YES completion:nil];
+//            [self presentModalViewController: reader animated: YES];
             
         }
     // }

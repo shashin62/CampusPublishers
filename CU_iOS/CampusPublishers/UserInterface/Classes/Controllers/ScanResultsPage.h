@@ -37,7 +37,7 @@ UIWebView *_webView;
 
 
 
-- (void)animateFooterView:(BOOL)animated;
+//- (void)animateFooterView:(BOOL)animated;
 -(void)upDateUI;
 -(void)loadRequest;
 -(void)upDateUIForScanner;

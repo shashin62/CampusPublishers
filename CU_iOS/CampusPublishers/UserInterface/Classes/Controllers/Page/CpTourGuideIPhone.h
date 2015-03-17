@@ -39,7 +39,7 @@
 @class LoadingView;
 @class CPContent;
 //@class DataConnection;connectionProtocolDelegate
-@interface CpTourGuideIPhone : UIViewController<MKMapViewDelegate,CLLocationManagerDelegate,CPFooterViewDelegate,ZBarReaderDelegate,CPConnectionDelegate,NSURLConnectionDelegate,ADBannerViewDelegate,NSURLConnectionDataDelegate,UITableViewDelegate,UITableViewDataSource,UIPopoverControllerDelegate,UISplitViewControllerDelegate,GADBannerViewDelegate>
+@interface CpTourGuideIPhone : UIViewController<MKMapViewDelegate,CLLocationManagerDelegate,CPFooterViewDelegate,ZBarReaderDelegate,CPConnectionDelegate,NSURLConnectionDelegate,ADBannerViewDelegate,NSURLConnectionDataDelegate,UITableViewDelegate,UITableViewDataSource,UIPopoverControllerDelegate,UISplitViewControllerDelegate,GADBannerViewDelegate,UIGestureRecognizerDelegate>
 {
     MKMapView *mapView;
     CLLocationManager *locationManager;

@@ -693,8 +693,8 @@
         
         
         // present and release the controller
-        [self.navigationController presentModalViewController: reader
-                                                     animated: YES];
+        [self.navigationController presentViewController:reader animated:YES completion:nil];
+//        [self.navigationController presentModalViewController: reader animated: YES];
         
     }
 }

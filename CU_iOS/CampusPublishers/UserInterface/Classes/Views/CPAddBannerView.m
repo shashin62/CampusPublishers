@@ -89,7 +89,7 @@ static CPAddBannerView *sharedAddBannerView = nil;
 	{
         if(sharedAddBannerView == nil) 
 		{
-            [[self alloc] init]; // assignment not done here
+            sharedAddBannerView = [[self alloc] init]; // assignment not done here
         }
     }
 	

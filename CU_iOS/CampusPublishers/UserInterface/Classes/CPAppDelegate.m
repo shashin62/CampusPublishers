@@ -126,7 +126,8 @@
     UINavigationController *navController = [[UINavigationController alloc] initWithRootViewController:controller]; //procs
     navController.navigationBarHidden = YES;
     controller.modalPresentationStyle = UIModalPresentationFormSheet;
-    [self.window.rootViewController presentModalViewController:navController animated:NO];
+//    [self.window.rootViewController presentModalViewController:navController animated:NO];
+    [self.window.rootViewController presentViewController:navController animated:NO completion:nil];
     isSetUpViewClosed=NO;
     return YES;
 }
@@ -142,7 +143,9 @@
     }
     else{
         if (cpMenuViewController!=nil) {
-            UIPopoverController*  masterPopoverController=[[UIPopoverController alloc]initWithContentViewController:cpMenuViewController];
+//            UIPopoverController*  masterPopoverController=[[UIPopoverController alloc]initWithContentViewController:cpMenuViewController];
+            
+            masterPopoverController=[[UIPopoverController alloc]initWithContentViewController:cpMenuViewController];
           
             [masterPopoverController presentPopoverFromRect:CGRectMake(100,100, 1, 1) inView:self.window.rootViewController.view permittedArrowDirections:UIPopoverArrowDirectionUp animated:YES];
         }

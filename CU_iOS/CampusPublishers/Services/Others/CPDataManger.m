@@ -286,7 +286,7 @@ static CPDataManger *sharedDataManager = nil;
 	{
         if(sharedDataManager == nil) 
 		{
-            [[self alloc] init]; // assignment not done here
+            sharedDataManager = [[self alloc] init]; // assignment not done here
         }
     }
 	

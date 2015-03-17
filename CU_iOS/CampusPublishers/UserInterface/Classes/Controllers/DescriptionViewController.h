@@ -69,7 +69,7 @@ CPContent *qrContent;
 
 -(void)updateUI;
     -(void)createUI;
-- (void)animateFooterView:(BOOL)animated;
+//- (void)animateFooterView:(BOOL)animated;
 -(void)viewWillDisappear:(BOOL)animated;
 - (void)footerView:(CPFooterView*)footerView didClickItemWithType:(CPFooterItemType)type;
 - (void)bannerViewDidLoadAd:(ADBannerView *)banner;
