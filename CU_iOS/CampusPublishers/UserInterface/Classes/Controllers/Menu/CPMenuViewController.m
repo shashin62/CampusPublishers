@@ -273,6 +273,12 @@
 
 #pragma mark - View lifecycle
 
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+    self.screenName = @"Page";
+}
+
 - (void)loadView
 {
     
@@ -302,11 +308,7 @@
     }
 }
 
-- (void)viewDidLoad
-{
-    [super viewDidLoad];
-    self.screenName = @"Page";
-}
+
 
 -(void)movieDidExitFullScreen:(id)sender{
     isMediaPlayer=YES;

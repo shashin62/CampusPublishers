@@ -890,15 +890,8 @@
         [UIView setAnimationDuration:0.0];
         
         CGRect rect =  webView.frame;
-        
-//        if([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone)
-//        {
-            rect.size.height = self.view.frame.size.height - (_footerView.frame.size.height + swipeView.frame.size.height);
-//        }
-//        else if([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad)
-//        {
-//            rect.size.height = self.view.frame.size.height - (_footerView.frame.size.height + openFlow.frame.size.height);
-//        }
+
+        rect.size.height = self.view.frame.size.height - (_footerView.frame.size.height + swipeView.frame.size.height);
             
         rect.origin.x = 0.0;
         rect.size.width = self.view.frame.size.width;
@@ -946,27 +939,10 @@
         int index = [CPConnection.request.identifier intValue];
         UIImage *image = [UIImage imageWithData:_data];
         ((CPMenu*)[self.dataGallary objectAtIndex:index]).image = image;
-//        if([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone)
-//        {
+
             [swipeView reloadRowsAtIndexPaths:[NSArray arrayWithObject:[NSIndexPath indexPathForRow:index 
                                                                                           inSection:0]] 
                              withRowAnimation:UITableViewRowAnimationNone];
-//        }
-//        else 
-//        {
-//            [openFlow setImage:image forIndex:index];
-//            AFItemView *itemView = [openFlow coverItemForIndex:index];
-//            UIActivityIndicatorView *activityView = (UIActivityIndicatorView *)[itemView viewWithTag:100100];
-//            if(activityView != nil)
-//            {
-//                [activityView removeFromSuperview];
-//            }
-//            
-//            if(self.footerType == CPFooterItemTypeVideo)
-//            {
-//                videoIcon.hidden = NO;
-//            }
-//        }
     }
   
     
@@ -996,8 +972,6 @@
     if(_type == CPRequestTypeImage)
     {
         int index = [CPConnection.request.identifier intValue];
-//        if([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone)
-//        {
             UITableViewCell *cell = [swipeView cellForRowAtIndexPath:[NSIndexPath indexPathForRow:index
                                                                                                  inSection:0]];
             if(cell.imageView.subviews.count > 0)
@@ -1006,21 +980,6 @@
                 [_activityView stopAnimating];
                 [_activityView removeFromSuperview];
             }
-//        }
-//        else 
-//        {
-//            AFItemView *itemView = [openFlow coverItemForIndex:index];
-//            UIActivityIndicatorView *activityView = (UIActivityIndicatorView *)[itemView viewWithTag:100100];
-//            if(activityView != nil)
-//            {
-//                [activityView removeFromSuperview];
-//            }
-//            
-//            if(self.footerType == CPFooterItemTypeVideo)
-//            {
-//                videoIcon.hidden = NO;
-//            }
-//        }
      }
     else
     {

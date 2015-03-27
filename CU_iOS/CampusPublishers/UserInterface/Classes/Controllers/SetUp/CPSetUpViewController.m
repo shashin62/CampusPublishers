@@ -267,12 +267,16 @@
         [activityView startAnimating];
     }
 }
+
+
+//override if want to support orientations,other than default portrait orientation
+#pragma mark UIInterfaceOrientation -
+
 -(void)willAnimateRotationToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation duration:(NSTimeInterval)duration{
     [self upDateUI];
 }
 
-//override if want to support orientations,other than default portrait orientation
-#pragma mark UIInterfaceOrientation -
+
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
 {
     // Return YES for supported orientations
