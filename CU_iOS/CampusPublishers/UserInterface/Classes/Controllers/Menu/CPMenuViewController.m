@@ -44,9 +44,9 @@
 
 - (void)viewDidLoad
 {
-
-    self.screenName = @"Menu";
     [super viewDidLoad];
+    self.screenName = @"Menu";
+    
 }
 
 - (void)updateDetailViewController
@@ -273,6 +273,12 @@
 
 #pragma mark - View lifecycle
 
+//- (void)viewDidLoad
+//{
+//    [super viewDidLoad];
+//    self.screenName = @"Page";
+//}
+
 - (void)loadView
 {
     
@@ -302,11 +308,7 @@
     }
 }
 
-- (void)viewDidLoad
-{
-    [super viewDidLoad];
-    self.screenName = @"Page";
-}
+
 
 -(void)movieDidExitFullScreen:(id)sender{
     isMediaPlayer=YES;
@@ -438,7 +440,7 @@
                     detailViewController.navigationItem.title = _menu.name;
                     [[CPDataManger sharedDataManager] setSelectedMenu:_menu];
                     
-                    int detailCount = detailViewController.navigationController.viewControllers.count;
+                    NSInteger detailCount = detailViewController.navigationController.viewControllers.count;
                     menuController.isRotated = [[[NSUserDefaults standardUserDefaults] valueForKey:@"isRotated"] boolValue];
                     if((detailCount == 2 && menuController.isRotated == YES) || (menuController.isRotated == YES))
                         //if(detailCount == 2 && menuController.isRotated == YES)

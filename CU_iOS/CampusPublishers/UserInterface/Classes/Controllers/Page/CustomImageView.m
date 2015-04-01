@@ -20,10 +20,6 @@
         imageView.frame=frame;
         imageView.userInteractionEnabled=YES;
         imageView.backgroundColor=[UIColor whiteColor];
-       // imageView.contentMode=UIViewContentModeCenter;
-        //[imageView sizeToFit];
-       // imageView.center=self.center;
-       // [myView addGestureRecognizersToPiece];
         [self addSubview:imageView];
         
         
@@ -39,8 +35,7 @@
         UITapGestureRecognizer *twoFingerTapRecognizer = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(scrollViewTwoFingerTapped:)];
         twoFingerTapRecognizer.numberOfTapsRequired = 1;
         twoFingerTapRecognizer.numberOfTouchesRequired = 2;
-      //  [self addGestureRecognizer:twoFingerTapRecognizer];
-       // [self centerScrollViewContents];
+
 
         
         

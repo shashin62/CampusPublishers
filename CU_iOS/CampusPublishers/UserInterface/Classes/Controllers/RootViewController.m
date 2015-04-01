@@ -1143,7 +1143,7 @@
                         if(device_image!=nil)
                             tempCategories.device_image=device_image;
                         
-                        int index=[categoryIdArray indexOfObject:category_id];
+                        NSInteger index=[categoryIdArray indexOfObject:category_id];
                         //NSLog(@"%d %d %d",tempCategories.category_id,index,categoryIdArray.count);
                         if(index<categoryIdArray.count)
                         {
@@ -1386,7 +1386,7 @@
     else{
         
         
-       int tag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",[annotation title]]];
+       NSInteger tag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",[annotation title]]];
         //NSLog(@"break1");
 
         
@@ -1533,7 +1533,7 @@
 
 -(Place*)getPlaceObjectForIndex:(NSString*)title{
     Place *place;
-    int number=[titleArray indexOfObject:title];
+    NSInteger number=[titleArray indexOfObject:title];
     if(number<titleArray.count &&titleArray.count!=0){
         
         place=[titleArray objectAtIndex:number];
@@ -1548,8 +1548,8 @@
 
 
 
--(int)getIndexOfAnnotaionForTitle:(NSString*)title{
-    int number=[titleArray indexOfObject:title];
+-(NSInteger)getIndexOfAnnotaionForTitle:(NSString*)title{
+    NSInteger number=[titleArray indexOfObject:title];
     
     return number;
 }    
