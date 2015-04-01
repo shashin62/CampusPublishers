@@ -58,11 +58,11 @@
 
 @implementation CPPageViewController (PRIVATE)
 
-- (void)viewDidLoad
-{
-    [super viewDidLoad];
-    self.screenName = @"Page";
-}
+//- (void)viewDidLoad
+//{
+//    [super viewDidLoad];
+//    self.screenName = @"Page";
+//}
 
 
 //get the image as per index,with the related URL

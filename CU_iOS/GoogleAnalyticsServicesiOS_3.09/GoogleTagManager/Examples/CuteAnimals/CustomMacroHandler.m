@@ -17,7 +17,7 @@
          parameters:(NSDictionary *)parameters {
   if ([macroName isEqual:@"increment"]) {
     self.numOfCalls++;
-    return [NSString stringWithFormat:@"%d", self.numOfCalls];
+    return [NSString stringWithFormat:@"%lu", (unsigned long)self.numOfCalls];
   } else if ([macroName isEqual:@"mod"]) {
     NSString *value1 = parameters[@"key1"];
     NSString *value2 = parameters[@"key2"];

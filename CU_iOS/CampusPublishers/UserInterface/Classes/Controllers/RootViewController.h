@@ -121,7 +121,7 @@
 
 - (void)getImageAtIndex:(int)index forURL:(NSURL*)url;
 
--(int)getIndexOfAnnotaionForTitle:(NSString*)title;
+-(NSInteger)getIndexOfAnnotaionForTitle:(NSString*)title;
 - (void)getImageAtIndex:(int)index forURL:(NSURL*)url;
 -(Place*)getPlaceObjectForIndex:(NSString*)title;
 -(void)chageColor:(UIButton*)button;

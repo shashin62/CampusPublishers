@@ -29,7 +29,7 @@
     CPSwipeView *swipeView;
     CPFooterItemType footerType;
     CPDataManger *dtManager;
-    int currentIndex;
+    NSInteger currentIndex;
     UIImage *imgPlaceholder;
     NSOperationQueue *loadImagesOperationQueue;
     AFOpenFlowView *openFlow;

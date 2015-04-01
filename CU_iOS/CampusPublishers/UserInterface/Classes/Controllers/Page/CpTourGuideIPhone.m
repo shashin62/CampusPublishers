@@ -981,13 +981,13 @@
 
 
 //get the image as per index,with the related URL
-- (void)getImageAtIndex:(int)index forKey:(NSURL*)url
+- (void)getImageAtIndex:(NSInteger)index forKey:(NSURL*)url
 {
     
     CPConnectionManager *manager = [CPConnectionManager sharedConnectionManager];
     CPRequest*request = [[CPRequest alloc] initWithURL:url
                                        withRequestType:CPRequestTypeTourKeyImage];
-    request.identifier=[NSNumber numberWithInt:index];
+    request.identifier=[NSNumber numberWithInteger:index];
     
     [manager spawnConnectionWithRequest:request delegate:self];
     request.identifier = [NSNumber numberWithInteger:index];
@@ -1228,12 +1228,12 @@
 
 
 //get the image as per index,with the related URL
-- (void)getImageAtIndex:(int)index forURL:(NSURL*)url
+- (void)getImageAtIndex:(NSInteger)index forURL:(NSURL*)url
 {
     CPConnectionManager *manager = [CPConnectionManager sharedConnectionManager];
     CPRequest*request = [[CPRequest alloc] initWithURL:url
                                        withRequestType:CPRequestTypeImage];
-    request.identifier=[NSNumber numberWithInt:index];
+    request.identifier=[NSNumber numberWithInteger:index];
     
     [manager spawnConnectionWithRequest:request delegate:self];
     request.identifier = [NSNumber numberWithInteger:index];
@@ -1243,13 +1243,13 @@
 
 
 //get the image as per index,with the related URL
-- (void)getImageAtIndex:(int)index forPinView:(NSURL*)url
+- (void)getImageAtIndex:(NSInteger)index forPinView:(NSURL*)url
 {
     
     CPConnectionManager *manager = [CPConnectionManager sharedConnectionManager];
     CPRequest*request = [[CPRequest alloc] initWithURL:url
                                        withRequestType:CPRequestTypeTourPinImage];
-    request.identifier=[NSNumber numberWithInt:index];
+    request.identifier=[NSNumber numberWithInteger:index];
     
     [manager spawnConnectionWithRequest:request delegate:self];
     request.identifier = [NSNumber numberWithInteger:index];
@@ -1509,7 +1509,7 @@
                             if(device_image!=nil)
                                 tempCategories.device_image=device_image;
                             
-                            int index=[categoryIdArray indexOfObject:category_id];
+                            NSInteger index=[categoryIdArray indexOfObject:category_id];
                             //   //NSLog(@"%d %d %d",tempCategories.category_id,index,categoryIdArray.count);
                             if(index<categoryIdArray.count)
                             {
@@ -2079,7 +2079,7 @@
         if([selectedAnnotaion isEqualToString:[annotation title]])
         {
             
-            int imageTag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",[annotation title]]];
+            NSInteger imageTag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",[annotation title]]];
             if(imageTag<pathObjectsArray.count){
                 Place *imagePlae=[pathObjectsArray objectAtIndex:imageTag];
                 
@@ -2221,7 +2221,7 @@
         
         if(titleArray!=nil){
             
-            int tag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",[annotation title]]];
+            NSInteger tag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",[annotation title]]];
             
             
             
@@ -2318,7 +2318,7 @@
     if(descriptionViewController==nil)
         descriptionViewController=[[DescriptionViewController alloc]init];
     descriptionViewController.customImagesDict=customImagesDict;
-    int imageTag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",selectedAnnotaion]];
+    NSInteger imageTag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",selectedAnnotaion]];
     //  int imageTag=[titleArray indexOfObject:[NSString stringWithFormat:@"%@",[view.annotation title]]];
     
     if(imageTag<pathObjectsArray.count){

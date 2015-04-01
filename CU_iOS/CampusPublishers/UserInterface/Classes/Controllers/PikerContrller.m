@@ -277,7 +277,7 @@
             NSString *imageUrl=[NSString stringWithFormat:@"%@/iphone/%@/%@",dtManager.configuration.imagePath,[CPUtility deviceDensity],tempImageName];                 
 
          
-            [self getImageAtIndex:indexPath.row forKey:[NSURL URLWithString:imageUrl]];
+            [self getImageAtIndex:(int)indexPath.row forKey:[NSURL URLWithString:imageUrl]];
         }
         
     }

@@ -162,7 +162,7 @@
 -(void)createPikcerUI;
 -(void)keyButtonAction:(UIButton *)button;
 
-- (void)getImageAtIndex:(int)index forPinView:(NSURL*)url;
+- (void)getImageAtIndex:(NSInteger)index forPinView:(NSURL*)url;
 
 -(void)buttonAction:(UIButton*)button;
 -(void)addPathToFirstPoint;
@@ -187,8 +187,8 @@
 -(void)sortArry:(NSMutableArray *)arry;   
 -(MKPolyline*)getPolylineOjbect;
 - (void)animateFooterView:(BOOL)animated;
-- (void)getImageAtIndex:(int)index forURL:(NSURL*)url;
-- (void)getImageAtIndex:(int)index forKey:(NSURL*)url;
+- (void)getImageAtIndex:(NSInteger)index forURL:(NSURL*)url;
+- (void)getImageAtIndex:(NSInteger)index forKey:(NSURL*)url;
 - (void)callServicePage;
 -(void)backButtonDidPressed:(UIButton*)button;
 - (void)animateFooterView:(BOOL)animated;

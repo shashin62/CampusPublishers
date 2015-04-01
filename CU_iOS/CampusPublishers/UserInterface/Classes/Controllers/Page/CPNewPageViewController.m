@@ -341,7 +341,7 @@
                 _activityView.frame = rect;
                 [_activityView startAnimating];
                 
-                [self getImageAtIndex:_imgView.tag 
+                [self getImageAtIndex:(int)_imgView.tag
                                forURL:((CMPImage*)menu.page.image).imageUrl];
             }
             else if(menu.page.image.image != nil)

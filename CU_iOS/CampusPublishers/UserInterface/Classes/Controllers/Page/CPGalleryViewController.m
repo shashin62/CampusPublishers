@@ -342,7 +342,7 @@
         itemArray = self.dataGallary;
     }
     
-    [headerTitleView setTitle:[NSString stringWithFormat:@"%d of %d", (currentIndex + 1), itemArray.count]];
+    [headerTitleView setTitle:[NSString stringWithFormat:@"%ld of %lu", (unsigned long)(currentIndex + 1), (unsigned long)itemArray.count]];
     [webView loadHTMLString:[[itemArray objectAtIndex:currentIndex] text]
                     baseURL:nil];
     headerTitleView.next.enabled = !(currentIndex == itemArray.count -1);
@@ -571,7 +571,7 @@
         itemArray = self.dataGallary;
     }
     
-    [headerTitleView setTitle:[NSString stringWithFormat:@"%d of %d", (currentIndex + 1), itemArray.count]];
+    [headerTitleView setTitle:[NSString stringWithFormat:@"%ld of %lu",(unsigned long) (currentIndex + 1), (unsigned long)itemArray.count]];
     [webView loadHTMLString:[[itemArray objectAtIndex:currentIndex] text]
                     baseURL:nil];
     headerTitleView.next.enabled = !(currentIndex == itemArray.count -1);
@@ -639,7 +639,7 @@
                 [swipeView scrollToRowAtIndexPath:[NSIndexPath indexPathForRow:currentIndex inSection:0]
                                  atScrollPosition:UITableViewScrollPositionNone
                                          animated:YES];
-                [headerTitleView setTitle:[NSString stringWithFormat:@"%d of %d", (currentIndex + 1), self.dataGallary.count]];
+                [headerTitleView setTitle:[NSString stringWithFormat:@"%ld of %lu", (unsigned long)(currentIndex + 1), (unsigned long)self.dataGallary.count]];
                 [webView loadHTMLString:((CMPImage*)([self.dataGallary objectAtIndex:currentIndex])).text baseURL:nil];
                 if(currentIndex == 0)
                 {
@@ -659,7 +659,7 @@
                 [swipeView scrollToRowAtIndexPath:[NSIndexPath indexPathForRow:currentIndex inSection:0]
                                  atScrollPosition:UITableViewScrollPositionNone
                                          animated:YES];
-                [headerTitleView setTitle:[NSString stringWithFormat:@"%d of %d", (currentIndex + 1), self.dataGallary.count]];
+                [headerTitleView setTitle:[NSString stringWithFormat:@"%ld of %lu",(unsigned long) (currentIndex + 1), (unsigned long)self.dataGallary.count]];
                 [webView loadHTMLString:((CPVideo*)([self.dataGallary objectAtIndex:currentIndex])).text baseURL:nil];
                 if(currentIndex == 0)
                 {
@@ -958,7 +958,7 @@
         itemArray = self.dataGallary;
     }
     
-    [headerTitleView setTitle:[NSString stringWithFormat:@"%d of %d", (currentIndex + 1), itemArray.count]];
+    [headerTitleView setTitle:[NSString stringWithFormat:@"%ld of %lu", (unsigned long)(currentIndex + 1), (unsigned long)itemArray.count]];
     [webView loadHTMLString:[[itemArray objectAtIndex:currentIndex] text]
                     baseURL:nil];
     headerTitleView.next.enabled = !(currentIndex == itemArray.count -1);
