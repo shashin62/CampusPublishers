@@ -282,7 +282,7 @@
             [self.navigationController pushViewController:pageViewController animated:NO];
         }
         else{
-            [[CPConnectionManager sharedConnectionManager] closeAllConnections];
+//            [[CPConnectionManager sharedConnectionManager] closeAllConnections];
             
             [_webView stopLoading];
             _webView.delegate = self;
