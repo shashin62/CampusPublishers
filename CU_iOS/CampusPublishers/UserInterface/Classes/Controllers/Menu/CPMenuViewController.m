@@ -494,14 +494,21 @@
     }
     else if([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad)
     {
+        CPAppDelegate *appDelegate=(CPAppDelegate *)[UIApplication sharedApplication].delegate;
+//        appDelegate.isSetUpViewClosed=YES;
+
+        NSLog(@"appDelegate.isSetUpViewClosed : %d", appDelegate.isSetUpViewClosed);
+        NSLog(@"[[CPUtility applicationDelegate] isSplitViewConfigured] : %d",[[CPUtility applicationDelegate] isSplitViewConfigured]);
+        
         if([[CPUtility applicationDelegate] isSplitViewConfigured] == YES)
         {
-            UINavigationController *navigationController = (UINavigationController*)self.splitViewController.viewControllers.lastObject;
-            CPPageViewController *detailViewController = (CPPageViewController*)[navigationController.viewControllers objectAtIndex:0];
-            if(detailViewController.navigationItem.leftBarButtonItem == nil)
-            {
-                [[CPConnectionManager sharedConnectionManager] closeAllConnections];
-            }
+//            UINavigationController *navigationController = (UINavigationController*)self.splitViewController.viewControllers.lastObject;
+//            CPPageViewController *detailViewController = (CPPageViewController*)[navigationController.viewControllers objectAtIndex:0];
+//            if(detailViewController.navigationItem.leftBarButtonItem == nil)
+//            {
+//                NSLog(@"button is nil");
+////                [[CPConnectionManager sharedConnectionManager] closeAllConnections];
+//            }
         }
         else
         {

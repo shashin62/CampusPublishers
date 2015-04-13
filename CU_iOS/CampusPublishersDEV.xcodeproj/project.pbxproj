@@ -23,35 +23,6 @@
 		22CFA6C71525EF25004DEE6A /* CPMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA6B71525EF25004DEE6A /* CPMenu.m */; };
 		22CFA6D51525F1F7004DEE6A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 22CFA6D81525F1F7004DEE6A /* Localizable.strings */; };
 		22CFA6DB1525F244004DEE6A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 22CFA6D91525F244004DEE6A /* InfoPlist.strings */; };
-		932ADA0D1AAF6AC1003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA0E1AAF6AC1003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA0F1AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA101AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA111AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA121AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA131AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA141AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA151AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA161AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA171AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA181AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA191AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA1A1AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA1B1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA1C1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA1D1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA1E1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA1F1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA201AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA211AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA221AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA231AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA241AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA251AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA261AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA271AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA281AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
-		932ADA291AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */; };
 		933C00611A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
 		933C00621A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
 		933C00631A9137D300AC98CA /* CPUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 933C00601A9137D300AC98CA /* CPUtils.m */; };
@@ -3776,6 +3747,35 @@
 		B950FB371A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
 		B950FB381A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9401CC01A89D34C00C760B3 /* libGoogleAnalyticsServices.a */; };
 		B9AB4FB71A8C97F500F01DCB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C4B1A89D34B00C760B3 /* AppDelegate.m */; };
+		B9F1383B1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1383C1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1383D1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1383E1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1383F1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138401AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138411AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138421AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138431AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138441AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138451AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138461AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138471AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138481AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138491AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1384A1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1384B1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1384C1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1384D1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1384E1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F1384F1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138501AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138511AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138521AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138531AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138541AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138551AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138561AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
+		B9F138571AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
 		BB0D5F09174369160058D839 /* zbar-back.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0D5F03174369150058D839 /* zbar-back.png */; };
 		BB0D5F0B174369160058D839 /* zbar-help.html in Resources */ = {isa = PBXBuildFile; fileRef = BB0D5F04174369150058D839 /* zbar-help.html */; };
 		BB0D5F0D174369160058D839 /* zbar-helpicons.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0D5F05174369150058D839 /* zbar-helpicons.png */; };
@@ -3874,7 +3874,6 @@
 		22CFA6B71525EF25004DEE6A /* CPMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPMenu.m; sourceTree = "<group>"; };
 		22CFA6D71525F1F7004DEE6A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		22CFA6DA1525F244004DEE6A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
 		933C005F1A9137D300AC98CA /* CPUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPUtils.h; sourceTree = "<group>"; };
 		933C00601A9137D300AC98CA /* CPUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPUtils.m; sourceTree = "<group>"; };
 		9350DAA61AB0A3A300489EAA /* ScanIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScanIcon.png; sourceTree = "<group>"; };
@@ -4239,6 +4238,7 @@
 		B9401D3E1A89E06700C760B3 /* RegexKitLite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegexKitLite.m; sourceTree = "<group>"; };
 		B9401D5E1A89F8C600C760B3 /* CampusPublishers-Config.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CampusPublishers-Config.plist"; sourceTree = "<group>"; };
 		B9401D5F1A89F8C600C760B3 /* CampusPublishers-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CampusPublishers-Info.plist"; sourceTree = "<group>"; };
+		B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
 		BB0D5EED174369150058D839 /* Decoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Decoder.h; sourceTree = "<group>"; };
 		BB0D5EEE174369150058D839 /* Exception.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Exception.h; sourceTree = "<group>"; };
 		BB0D5EEF174369150058D839 /* Image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Image.h; sourceTree = "<group>"; };
@@ -4372,7 +4372,7 @@
 				B9401C3E1A89CE1E00C760B3 /* EventKit.framework in Frameworks */,
 				B9401C3D1A89CE1100C760B3 /* CoreTelephony.framework in Frameworks */,
 				B9401C3C1A89CDF600C760B3 /* AdSupport.framework in Frameworks */,
-				932ADA0D1AAF6AC1003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1383B1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				B9401C3B1A89CD0A00C760B3 /* CoreLocation.framework in Frameworks */,
 				C0EF2A051525BA57001E3304 /* CFNetwork.framework in Frameworks */,
 				C0EF2A031525BA51001E3304 /* SystemConfiguration.framework in Frameworks */,
@@ -4408,7 +4408,7 @@
 				9717E86E18CA4A2A0074C2F0 /* iAd.framework in Frameworks */,
 				9717E86F18CA4A2A0074C2F0 /* MapKit.framework in Frameworks */,
 				9717E87018CA4A2A0074C2F0 /* CoreLocation.framework in Frameworks */,
-				932ADA111AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1383F1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9717E87118CA4A2A0074C2F0 /* CFNetwork.framework in Frameworks */,
 				9717E87218CA4A2A0074C2F0 /* SystemConfiguration.framework in Frameworks */,
 				B950FB201A8C910900F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4444,7 +4444,7 @@
 				97367B0F1948B5140024AA22 /* iAd.framework in Frameworks */,
 				97367B101948B5140024AA22 /* MapKit.framework in Frameworks */,
 				97367B111948B5140024AA22 /* CoreLocation.framework in Frameworks */,
-				932ADA1F1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1384D1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97367B121948B5140024AA22 /* CFNetwork.framework in Frameworks */,
 				97367B131948B5140024AA22 /* SystemConfiguration.framework in Frameworks */,
 				B950FB2E1A8C911100F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4480,7 +4480,7 @@
 				976DEE1819E4712B00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE1919E4712B00451E65 /* libz.dylib in Frameworks */,
 				97367B8E1948FC1E0024AA22 /* StoreKit.framework in Frameworks */,
-				932ADA201AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1384E1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97367B8F1948FC1E0024AA22 /* AdSupport.framework in Frameworks */,
 				97367B901948FC1E0024AA22 /* MessageUI.framework in Frameworks */,
 				B950FB2F1A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4516,7 +4516,7 @@
 				976DEE0919E46FCD00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0A19E46FCD00451E65 /* libz.dylib in Frameworks */,
 				9743A76118F5D7460025FA2E /* StoreKit.framework in Frameworks */,
-				932ADA1D1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1384B1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9743A76218F5D7460025FA2E /* AdSupport.framework in Frameworks */,
 				9743A76318F5D7460025FA2E /* MessageUI.framework in Frameworks */,
 				B950FB2C1A8C911000F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4552,7 +4552,7 @@
 				97B9B9DB1A07E201002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9D91A07E1EF002222DA /* CoreTelephony.framework in Frameworks */,
 				97D200FA19F6D56E00C59762 /* libsqlite3.0.dylib in Frameworks */,
-				932ADA101AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1383E1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97D200F819F6D06F00C59762 /* libzbar.a in Frameworks */,
 				975040D318C7D5EA002EE0E3 /* StoreKit.framework in Frameworks */,
 				B950FB1F1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4588,7 +4588,7 @@
 				976DEDFE19E46DD900451E65 /* EventKitUI.framework in Frameworks */,
 				976DEDFF19E46DD900451E65 /* libsqlite3.0.dylib in Frameworks */,
 				9754259418E5649100219CAA /* StoreKit.framework in Frameworks */,
-				932ADA171AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138451AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9754259518E5649100219CAA /* AdSupport.framework in Frameworks */,
 				9754259618E5649100219CAA /* MessageUI.framework in Frameworks */,
 				B950FB261A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4624,7 +4624,7 @@
 				9754267918E56AB000219CAA /* iAd.framework in Frameworks */,
 				9754267A18E56AB000219CAA /* MapKit.framework in Frameworks */,
 				9754267B18E56AB000219CAA /* CoreLocation.framework in Frameworks */,
-				932ADA181AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138461AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9754267C18E56AB000219CAA /* CFNetwork.framework in Frameworks */,
 				9754267D18E56AB000219CAA /* SystemConfiguration.framework in Frameworks */,
 				B950FB271A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4660,7 +4660,7 @@
 				979FD49319DF5CCE0070EB3F /* CoreTelephony.framework in Frameworks */,
 				979FD49119DF5A5F0070EB3F /* libz.dylib in Frameworks */,
 				979FD49019DF59C50070EB3F /* libsqlite3.0.dylib in Frameworks */,
-				932ADA191AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138471AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				979FD48F19DF59450070EB3F /* libzbar.a in Frameworks */,
 				B950FB281A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9754275818E626E100219CAA /* StoreKit.framework in Frameworks */,
@@ -4696,7 +4696,7 @@
 				97B9B9E31A08285B002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9E41A08285B002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9E51A08285B002222DA /* libz.dylib in Frameworks */,
-				932ADA1A1AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138481AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9754283A18E62D8300219CAA /* StoreKit.framework in Frameworks */,
 				9754283B18E62D8300219CAA /* AdSupport.framework in Frameworks */,
 				B950FB291A8C910D00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4732,7 +4732,7 @@
 				97B9B9DF1A07E468002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9E01A07E468002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9DC1A07E408002222DA /* libz.dylib in Frameworks */,
-				932ADA1B1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138491AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9754291C18E6338E00219CAA /* StoreKit.framework in Frameworks */,
 				9754291D18E6338E00219CAA /* AdSupport.framework in Frameworks */,
 				B950FB2A1A8C910E00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4768,7 +4768,7 @@
 				976DEE0E19E4705400451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0F19E4705400451E65 /* libz.dylib in Frameworks */,
 				975429FE18E6399800219CAA /* StoreKit.framework in Frameworks */,
-				932ADA1C1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1384A1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				975429FF18E6399800219CAA /* AdSupport.framework in Frameworks */,
 				97542A0018E6399800219CAA /* MessageUI.framework in Frameworks */,
 				B950FB2B1A8C910F00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4804,7 +4804,7 @@
 				976BBC8618DAA6FA00929FF6 /* iAd.framework in Frameworks */,
 				976BBC8718DAA6FA00929FF6 /* MapKit.framework in Frameworks */,
 				976BBC8818DAA6FA00929FF6 /* CoreLocation.framework in Frameworks */,
-				932ADA121AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138401AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				976BBC8918DAA6FA00929FF6 /* CFNetwork.framework in Frameworks */,
 				976BBC8A18DAA6FA00929FF6 /* SystemConfiguration.framework in Frameworks */,
 				B950FB211A8C910900F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4840,7 +4840,7 @@
 				9780B57518C12E7F009F19F7 /* libzbar.a in Frameworks */,
 				971B510A19AD417200E2E54E /* CoreData.framework in Frameworks */,
 				9780B56218C12E7F009F19F7 /* StoreKit.framework in Frameworks */,
-				932ADA0F1AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1383D1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9780B56318C12E7F009F19F7 /* AdSupport.framework in Frameworks */,
 				B950FB1E1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9780B56418C12E7F009F19F7 /* MessageUI.framework in Frameworks */,
@@ -4876,7 +4876,7 @@
 				978311931869EF22009B9212 /* iAd.framework in Frameworks */,
 				978311941869EF22009B9212 /* MapKit.framework in Frameworks */,
 				978311951869EF22009B9212 /* CoreLocation.framework in Frameworks */,
-				932ADA0E1AAF6AC1003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1383C1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				978311961869EF22009B9212 /* CFNetwork.framework in Frameworks */,
 				97B9BA1D1A082980002222DA /* CoreTelephony.framework in Frameworks */,
 				B950FB1D1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4912,7 +4912,7 @@
 				97B9B9E81A0828E4002222DA /* EventKitUI.framework in Frameworks */,
 				97B9B9E91A0828E4002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9EA1A0828E4002222DA /* libz.dylib in Frameworks */,
-				932ADA161AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138441AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97876D6318E4970400614B59 /* StoreKit.framework in Frameworks */,
 				97876D6418E4970400614B59 /* AdSupport.framework in Frameworks */,
 				B950FB251A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4948,7 +4948,7 @@
 				97ABE95218E360F900780496 /* iAd.framework in Frameworks */,
 				97ABE95318E360F900780496 /* MapKit.framework in Frameworks */,
 				97ABE95418E360F900780496 /* CoreLocation.framework in Frameworks */,
-				932ADA131AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138411AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97ABE95518E360F900780496 /* CFNetwork.framework in Frameworks */,
 				97ABE95618E360F900780496 /* SystemConfiguration.framework in Frameworks */,
 				B950FB221A8C910A00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -4984,7 +4984,7 @@
 				97ABEA3718E3969E00780496 /* iAd.framework in Frameworks */,
 				97ABEA3818E3969E00780496 /* MapKit.framework in Frameworks */,
 				97ABEA3918E3969E00780496 /* CoreLocation.framework in Frameworks */,
-				932ADA141AAF6AC2003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138421AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97ABEA3A18E3969E00780496 /* CFNetwork.framework in Frameworks */,
 				97ABEA3B18E3969E00780496 /* SystemConfiguration.framework in Frameworks */,
 				B950FB231A8C910A00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5020,7 +5020,7 @@
 				97ABEB1918E3A67000780496 /* iAd.framework in Frameworks */,
 				97ABEB1A18E3A67000780496 /* MapKit.framework in Frameworks */,
 				97ABEB1B18E3A67000780496 /* CoreLocation.framework in Frameworks */,
-				932ADA151AAF6AC3003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138431AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97ABEB1C18E3A67000780496 /* CFNetwork.framework in Frameworks */,
 				97ABEB1D18E3A67000780496 /* SystemConfiguration.framework in Frameworks */,
 				B950FB241A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5056,7 +5056,7 @@
 				97BDFA79192E740900879644 /* iAd.framework in Frameworks */,
 				97BDFA7A192E740900879644 /* MapKit.framework in Frameworks */,
 				97BDFA7B192E740900879644 /* CoreLocation.framework in Frameworks */,
-				932ADA1E1AAF6AC4003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1384C1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97BDFA7C192E740900879644 /* CFNetwork.framework in Frameworks */,
 				97BDFA7D192E740900879644 /* SystemConfiguration.framework in Frameworks */,
 				B950FB2D1A8C911100F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5092,7 +5092,7 @@
 				97DF30041954D165003BA2DF /* iAd.framework in Frameworks */,
 				97DF30051954D165003BA2DF /* MapKit.framework in Frameworks */,
 				97DF30061954D165003BA2DF /* CoreLocation.framework in Frameworks */,
-				932ADA211AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F1384F1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF30071954D165003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF30081954D165003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB301A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5128,7 +5128,7 @@
 				97DF30831954D1DB003BA2DF /* iAd.framework in Frameworks */,
 				97DF30841954D1DB003BA2DF /* MapKit.framework in Frameworks */,
 				97DF30851954D1DB003BA2DF /* CoreLocation.framework in Frameworks */,
-				932ADA221AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138501AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF30861954D1DB003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF30871954D1DB003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB311A8C911200F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5164,7 +5164,7 @@
 				97DF31021954D1E1003BA2DF /* iAd.framework in Frameworks */,
 				97DF31031954D1E1003BA2DF /* MapKit.framework in Frameworks */,
 				97DF31041954D1E1003BA2DF /* CoreLocation.framework in Frameworks */,
-				932ADA231AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138511AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF31051954D1E1003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF31061954D1E1003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB321A8C911300F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5200,7 +5200,7 @@
 				97DF31811954D1F2003BA2DF /* iAd.framework in Frameworks */,
 				97DF31821954D1F2003BA2DF /* MapKit.framework in Frameworks */,
 				97DF31831954D1F2003BA2DF /* CoreLocation.framework in Frameworks */,
-				932ADA241AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138521AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF31841954D1F2003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF31851954D1F2003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB331A8C911300F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5236,7 +5236,7 @@
 				97DF32001954D1FD003BA2DF /* iAd.framework in Frameworks */,
 				97DF32011954D1FD003BA2DF /* MapKit.framework in Frameworks */,
 				97DF32021954D1FD003BA2DF /* CoreLocation.framework in Frameworks */,
-				932ADA251AAF6AC5003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138531AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF32031954D1FD003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF32041954D1FD003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB341A8C911400F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5272,7 +5272,7 @@
 				976DEE0419E46EAF00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0519E46EAF00451E65 /* libz.dylib in Frameworks */,
 				97DF327C1954D213003BA2DF /* StoreKit.framework in Frameworks */,
-				932ADA261AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138541AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF327D1954D213003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF327E1954D213003BA2DF /* MessageUI.framework in Frameworks */,
 				B950FB351A8C911400F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5308,7 +5308,7 @@
 				976DEE1319E470DD00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE1419E470DD00451E65 /* libz.dylib in Frameworks */,
 				97DF32FB1954D222003BA2DF /* StoreKit.framework in Frameworks */,
-				932ADA271AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138551AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF32FC1954D222003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF32FD1954D222003BA2DF /* MessageUI.framework in Frameworks */,
 				B950FB361A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5344,7 +5344,7 @@
 				97DF337D1954D230003BA2DF /* iAd.framework in Frameworks */,
 				97DF337E1954D230003BA2DF /* MapKit.framework in Frameworks */,
 				97DF337F1954D230003BA2DF /* CoreLocation.framework in Frameworks */,
-				932ADA281AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138561AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF33801954D230003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF33811954D230003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB371A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5380,7 +5380,7 @@
 				97DF33FC1954D23B003BA2DF /* iAd.framework in Frameworks */,
 				97DF33FD1954D23B003BA2DF /* MapKit.framework in Frameworks */,
 				97DF33FE1954D23B003BA2DF /* CoreLocation.framework in Frameworks */,
-				932ADA291AAF6AC6003009A7 /* GoogleMobileAds.framework in Frameworks */,
+				B9F138571AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF33FF1954D23B003BA2DF /* CFNetwork.framework in Frameworks */,
 				97DF34001954D23B003BA2DF /* SystemConfiguration.framework in Frameworks */,
 				B950FB381A8C911500F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -5500,7 +5500,7 @@
 		22CFA5FE1524A080004DEE6A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				932ADA0C1AAF6AC1003009A7 /* GoogleMobileAds.framework */,
+				B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */,
 				B9401C451A89D34B00C760B3 /* GoogleAnalyticsServicesiOS_3.09 */,
 				979FD49619DF5D390070EB3F /* EventKitUI.framework */,
 				979FD49419DF5D170070EB3F /* EventKit.framework */,
@@ -11244,8 +11244,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Sharath Babu Akarapu (38SSBXXWA8)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sharath Babu Akarapu (38SSBXXWA8)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Uttam Shah (HY68U46N47)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Uttam Shah (HY68U46N47)";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -11269,8 +11269,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = "";
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "68887919-15CC-41EC-8C59-673E075B92CA";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "68887919-15CC-41EC-8C59-673E075B92CA";
+				PROVISIONING_PROFILE = "1ce049e3-ccbe-43de-b98a-5ee713651677";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1ce049e3-ccbe-43de-b98a-5ee713651677";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
@@ -11282,8 +11282,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: V2 Solutions";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: V2 Solutions";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -11301,8 +11301,8 @@
 				LIBRARY_SEARCH_PATHS = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "4912DD5C-337C-47F6-A283-8453734A7B7B";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4912DD5C-337C-47F6-A283-8453734A7B7B";
+				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
@@ -11315,8 +11315,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -11338,8 +11338,8 @@
 				);
 				OTHER_LDFLAGS = "-licucore";
 				PRODUCT_NAME = CampusPublishersDEV;
-				PROVISIONING_PROFILE = "F18A1299-4D52-4053-A65B-6F2F0717D608";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
+				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -11351,8 +11351,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -11371,8 +11371,8 @@
 				);
 				OTHER_LDFLAGS = "-licucore";
 				PRODUCT_NAME = CampusPublishersDEV;
-				PROVISIONING_PROFILE = "F18A1299-4D52-4053-A65B-6F2F0717D608";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
+				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -12769,8 +12769,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon IUPUI";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage IUPUI";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Uttam Shah (HY68U46N47)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Uttam Shah (HY68U46N47)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -12796,8 +12796,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit IUPUI";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "1ce049e3-ccbe-43de-b98a-5ee713651677";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1ce049e3-ccbe-43de-b98a-5ee713651677";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -13238,8 +13238,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon Rutgers";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage Rutgers";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Uttam Shah (HY68U46N47)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Uttam Shah (HY68U46N47)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -13265,8 +13265,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit Rutgers";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "1ce049e3-ccbe-43de-b98a-5ee713651677";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1ce049e3-ccbe-43de-b98a-5ee713651677";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -15716,8 +15716,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: V2 Solutions";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: V2 Solutions";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -15735,8 +15735,8 @@
 				LIBRARY_SEARCH_PATHS = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "4912DD5C-337C-47F6-A283-8453734A7B7B";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4912DD5C-337C-47F6-A283-8453734A7B7B";
+				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
@@ -15749,8 +15749,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15769,8 +15769,8 @@
 				);
 				OTHER_LDFLAGS = "-licucore";
 				PRODUCT_NAME = CampusPublishersDEV;
-				PROVISIONING_PROFILE = "F18A1299-4D52-4053-A65B-6F2F0717D608";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
+				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -15782,8 +15782,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: V2 Solutions";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: V2 Solutions";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -15801,8 +15801,8 @@
 				LIBRARY_SEARCH_PATHS = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "4912DD5C-337C-47F6-A283-8453734A7B7B";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4912DD5C-337C-47F6-A283-8453734A7B7B";
+				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
@@ -15815,8 +15815,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15835,8 +15835,8 @@
 				);
 				OTHER_LDFLAGS = "-licucore";
 				PRODUCT_NAME = CampusPublishersDEV;
-				PROVISIONING_PROFILE = "F18A1299-4D52-4053-A65B-6F2F0717D608";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F18A1299-4D52-4053-A65B-6F2F0717D608";
+				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}/**";
 				VALID_ARCHS = "armv7 armv7s arm64";
