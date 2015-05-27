@@ -10,26 +10,18 @@
 	<string>CampusPublishersDEV</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>595EE3A26E3CCB8F4CFF8CD84A264A2FF7F7213B</key>
-		<string>github.com:NiteshM/DemoApp.git</string>
 		<key>862EB0C9E23FAAC36E88CB73652A4D5D15D5167A</key>
-		<string>github.com:shashin62/CampusPublishers.git</string>
-		<key>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</key>
-		<string>github.com:AFNetworking/AFNetworking.git</string>
+		<string>https://github.com/shashin62/CampusPublishers.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CU_iOS/CampusPublishersDEV.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>595EE3A26E3CCB8F4CFF8CD84A264A2FF7F7213B</key>
-		<string>../../../../DemoApp</string>
 		<key>862EB0C9E23FAAC36E88CB73652A4D5D15D5167A</key>
 		<string>../../..</string>
-		<key>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</key>
-		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:shashin62/CampusPublishers.git</string>
+	<string>https://github.com/shashin62/CampusPublishers.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -40,25 +32,9 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8</string>
-			<key>IDESourceControlWCCName</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>595EE3A26E3CCB8F4CFF8CD84A264A2FF7F7213B</string>
-			<key>IDESourceControlWCCName</key>
-			<string>DemoApp</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>862EB0C9E23FAAC36E88CB73652A4D5D15D5167A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>MultiTarget</string>
+			<string>CampusPublishers</string>
 		</dict>
 	</array>
 </dict>
