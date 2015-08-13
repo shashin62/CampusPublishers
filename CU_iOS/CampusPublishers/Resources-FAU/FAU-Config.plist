@@ -8,5 +8,7 @@
 	<string>ca-app-pub-7903757883844902/4408904189</string>
 	<key>isLiveMode</key>
 	<true/>
+	<key>GAnalyticsID</key>
+	<string>UA-55112261-32</string>
 </dict>
 </plist>

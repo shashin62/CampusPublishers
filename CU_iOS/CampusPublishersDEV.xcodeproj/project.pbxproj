@@ -3411,12 +3411,6 @@
 		9792ED971AE5A67100F75851 /* UCA-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9792ED8D1AE5A67100F75851 /* UCA-Config.plist */; };
 		9792ED981AE5A67100F75851 /* UCA-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9792ED8D1AE5A67100F75851 /* UCA-Config.plist */; };
 		9792ED991AE5A67100F75851 /* UCA-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9792ED8E1AE5A67100F75851 /* UCA-Info.plist */; };
-		9792EDA41AE5A68200F75851 /* icon_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 9792ED9D1AE5A68200F75851 /* icon_57x57.png */; };
-		9792EDA51AE5A68200F75851 /* icon_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 9792ED9D1AE5A68200F75851 /* icon_57x57.png */; };
-		9792EDA61AE5A68200F75851 /* icon_72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 9792ED9E1AE5A68200F75851 /* icon_72x72.png */; };
-		9792EDA71AE5A68200F75851 /* icon_72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 9792ED9E1AE5A68200F75851 /* icon_72x72.png */; };
-		9792EDA81AE5A68200F75851 /* icon_57x57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9792EDA01AE5A68200F75851 /* icon_57x57@2x.png */; };
-		9792EDA91AE5A68200F75851 /* icon_57x57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9792EDA01AE5A68200F75851 /* icon_57x57@2x.png */; };
 		9792EDAA1AE5A68200F75851 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9792EDA11AE5A68200F75851 /* Photo-for-opening-screen.png */; };
 		9792EDAB1AE5A68200F75851 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9792EDA11AE5A68200F75851 /* Photo-for-opening-screen.png */; };
 		9792EDAC1AE5A68200F75851 /* UM-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9792EDA21AE5A68200F75851 /* UM-Config.plist */; };
@@ -4634,12 +4628,6 @@
 		97DF34691954DB66003BA2DF /* GIT-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34421954DB65003BA2DF /* GIT-Config.plist */; };
 		97DF346A1954DB66003BA2DF /* GIT-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34421954DB65003BA2DF /* GIT-Config.plist */; };
 		97DF346B1954DB66003BA2DF /* GIT-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34431954DB65003BA2DF /* GIT-Info.plist */; };
-		97DF34731954DB66003BA2DF /* icon_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34481954DB65003BA2DF /* icon_57x57.png */; };
-		97DF34741954DB66003BA2DF /* icon_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34481954DB65003BA2DF /* icon_57x57.png */; };
-		97DF34751954DB66003BA2DF /* icon_72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34491954DB65003BA2DF /* icon_72x72.png */; };
-		97DF34761954DB66003BA2DF /* icon_72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34491954DB65003BA2DF /* icon_72x72.png */; };
-		97DF348B1954DB66003BA2DF /* icon_57x57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34551954DB66003BA2DF /* icon_57x57@2x.png */; };
-		97DF348C1954DB66003BA2DF /* icon_57x57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34551954DB66003BA2DF /* icon_57x57@2x.png */; };
 		97DF34AF1954DB66003BA2DF /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34681954DB66003BA2DF /* Photo-for-opening-screen.png */; };
 		97DF34B01954DB66003BA2DF /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34681954DB66003BA2DF /* Photo-for-opening-screen.png */; };
 		97DF34B51954DBC3003BA2DF /* GIT.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DF34B41954DBC3003BA2DF /* GIT.xcassets */; };
@@ -5231,7 +5219,7 @@
 		9792EB831AE5A1F900F75851 /* Visit PSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit PSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EC0B1AE5A1FC00F75851 /* Visit UNCC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UNCC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EC931AE5A20100F75851 /* Visit UCA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UCA.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9792ED1B1AE5A27600F75851 /* Visit Memphis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit Memphis.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9792ED1B1AE5A27600F75851 /* Visit UofM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UofM.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792ED1F1AE5A5FD00F75851 /* icon_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_57x57.png; sourceTree = "<group>"; };
 		9792ED201AE5A5FD00F75851 /* icon_72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_72x72.png; sourceTree = "<group>"; };
 		9792ED221AE5A5FD00F75851 /* icon_57x57@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_57x57@2x.png"; sourceTree = "<group>"; };
@@ -5262,9 +5250,6 @@
 		9792ED8C1AE5A67100F75851 /* Photo-for-opening-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Photo-for-opening-screen.png"; sourceTree = "<group>"; };
 		9792ED8D1AE5A67100F75851 /* UCA-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UCA-Config.plist"; sourceTree = "<group>"; };
 		9792ED8E1AE5A67100F75851 /* UCA-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UCA-Info.plist"; sourceTree = "<group>"; };
-		9792ED9D1AE5A68200F75851 /* icon_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_57x57.png; sourceTree = "<group>"; };
-		9792ED9E1AE5A68200F75851 /* icon_72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_72x72.png; sourceTree = "<group>"; };
-		9792EDA01AE5A68200F75851 /* icon_57x57@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_57x57@2x.png"; sourceTree = "<group>"; };
 		9792EDA11AE5A68200F75851 /* Photo-for-opening-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Photo-for-opening-screen.png"; sourceTree = "<group>"; };
 		9792EDA21AE5A68200F75851 /* UM-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UM-Config.plist"; sourceTree = "<group>"; };
 		9792EDA31AE5A68200F75851 /* UM-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UM-Info.plist"; sourceTree = "<group>"; };
@@ -5329,9 +5314,6 @@
 		97DF343F1954D23B003BA2DF /* Visit UCO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UCO.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		97DF34421954DB65003BA2DF /* GIT-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GIT-Config.plist"; sourceTree = "<group>"; };
 		97DF34431954DB65003BA2DF /* GIT-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GIT-Info.plist"; sourceTree = "<group>"; };
-		97DF34481954DB65003BA2DF /* icon_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_57x57.png; sourceTree = "<group>"; };
-		97DF34491954DB65003BA2DF /* icon_72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_72x72.png; sourceTree = "<group>"; };
-		97DF34551954DB66003BA2DF /* icon_57x57@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_57x57@2x.png"; sourceTree = "<group>"; };
 		97DF34681954DB66003BA2DF /* Photo-for-opening-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Photo-for-opening-screen.png"; sourceTree = "<group>"; };
 		97DF34B41954DBC3003BA2DF /* GIT.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = GIT.xcassets; sourceTree = "<group>"; };
 		97DF34BC1954E2F7003BA2DF /* icon_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_57x57.png; sourceTree = "<group>"; };
@@ -7067,7 +7049,7 @@
 				9792EB831AE5A1F900F75851 /* Visit PSU.app */,
 				9792EC0B1AE5A1FC00F75851 /* Visit UNCC.app */,
 				9792EC931AE5A20100F75851 /* Visit UCA.app */,
-				9792ED1B1AE5A27600F75851 /* Visit Memphis.app */,
+				9792ED1B1AE5A27600F75851 /* Visit UofM.app */,
 				9701ABF91B20FC3400B9B99B /* Visit UTEP.app */,
 				9701AC801B20FC5800B9B99B /* Visit UNR.app */,
 			);
@@ -8178,8 +8160,6 @@
 		9792ED9C1AE5A68200F75851 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				9792ED9D1AE5A68200F75851 /* icon_57x57.png */,
-				9792ED9E1AE5A68200F75851 /* icon_72x72.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -8187,7 +8167,6 @@
 		9792ED9F1AE5A68200F75851 /* Images@2x */ = {
 			isa = PBXGroup;
 			children = (
-				9792EDA01AE5A68200F75851 /* icon_57x57@2x.png */,
 			);
 			path = "Images@2x";
 			sourceTree = "<group>";
@@ -8407,8 +8386,6 @@
 		97DF34441954DB65003BA2DF /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				97DF34481954DB65003BA2DF /* icon_57x57.png */,
-				97DF34491954DB65003BA2DF /* icon_72x72.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -8416,7 +8393,6 @@
 		97DF34521954DB65003BA2DF /* Images@2x */ = {
 			isa = PBXGroup;
 			children = (
-				97DF34551954DB66003BA2DF /* icon_57x57@2x.png */,
 			);
 			path = "Images@2x";
 			sourceTree = "<group>";
@@ -9368,9 +9344,9 @@
 			productReference = 9792EC931AE5A20100F75851 /* Visit UCA.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9792EC951AE5A27600F75851 /* UM */ = {
+		9792EC951AE5A27600F75851 /* UofM */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9792ED161AE5A27600F75851 /* Build configuration list for PBXNativeTarget "UM" */;
+			buildConfigurationList = 9792ED161AE5A27600F75851 /* Build configuration list for PBXNativeTarget "UofM" */;
 			buildPhases = (
 				9792EC961AE5A27600F75851 /* Sources */,
 				9792ECCD1AE5A27600F75851 /* Frameworks */,
@@ -9380,9 +9356,9 @@
 			);
 			dependencies = (
 			);
-			name = UM;
+			name = UofM;
 			productName = CampusPublishers;
-			productReference = 9792ED1B1AE5A27600F75851 /* Visit Memphis.app */;
+			productReference = 9792ED1B1AE5A27600F75851 /* Visit UofM.app */;
 			productType = "com.apple.product-type.application";
 		};
 		97ABE91818E360F900780496 /* TAMU */ = {
@@ -9623,9 +9599,6 @@
 					97367B571948FC1E0024AA22 = {
 						DevelopmentTeam = QR9N5T8L75;
 					};
-					9743A72A18F5D7460025FA2E = {
-						DevelopmentTeam = QR9N5T8L75;
-					};
 					9750409C18C7D5EA002EE0E3 = {
 						DevelopmentTeam = QR9N5T8L75;
 					};
@@ -9675,9 +9648,6 @@
 						DevelopmentTeam = QR9N5T8L75;
 					};
 					97DF30491954D1DB003BA2DF = {
-						DevelopmentTeam = QR9N5T8L75;
-					};
-					97DF30C81954D1E1003BA2DF = {
 						DevelopmentTeam = QR9N5T8L75;
 					};
 					97DF31471954D1F2003BA2DF = {
@@ -9757,7 +9727,7 @@
 				9792EAFD1AE5A1F900F75851 /* PSU */,
 				9792EB851AE5A1FC00F75851 /* UNCC */,
 				9792EC0D1AE5A20100F75851 /* UCA */,
-				9792EC951AE5A27600F75851 /* UM */,
+				9792EC951AE5A27600F75851 /* UofM */,
 				9701AB761B20FC3400B9B99B /* UTEP */,
 				9701ABFD1B20FC5800B9B99B /* UNR */,
 			);
@@ -9792,7 +9762,6 @@
 				9792ED671AE5A64C00F75851 /* icon_72x72.png in Resources */,
 				97ABE9FB18E37ADE00780496 /* TAMU.xcassets in Resources */,
 				B9401CEE1A89D34C00C760B3 /* Bunny-3.jpg in Resources */,
-				9792EDA81AE5A68200F75851 /* icon_57x57@2x.png in Resources */,
 				B9401CFF1A89D34C00C760B3 /* RefreshEvent.png in Resources */,
 				B9401CDF1A89D34C00C760B3 /* RootViewController.xib in Resources */,
 				B9401CF41A89D34C00C760B3 /* CustomTag.png in Resources */,
@@ -9831,7 +9800,6 @@
 				9350DC8D1AB0D3F900489EAA /* ImagePlaceholder@2x.png in Resources */,
 				97BDFAEB192EAF0600879644 /* icon.png in Resources */,
 				97AB8C881B30BE33004335D4 /* Photo-for-opening-screen.png in Resources */,
-				97DF348B1954DB66003BA2DF /* icon_57x57@2x.png in Resources */,
 				B9401CF11A89D34C00C760B3 /* Cat-3.jpg in Resources */,
 				B9401CF81A89D34C00C760B3 /* Lion-4.jpg in Resources */,
 				97ABE9F418E37ABD00780496 /* photo_for_opening_screen.png in Resources */,
@@ -9885,7 +9853,6 @@
 				B9401CD31A89D34C00C760B3 /* Monkey-1.jpg in Resources */,
 				97DF2F8A1954CC70003BA2DF /* icon_72x72.png in Resources */,
 				B9401CF31A89D34C00C760B3 /* Container.png in Resources */,
-				9792EDA41AE5A68200F75851 /* icon_57x57.png in Resources */,
 				B9401CD51A89D34C00C760B3 /* Monkey-3.jpg in Resources */,
 				B9401CFD1A89D34C00C760B3 /* Monkey-5.jpg in Resources */,
 				9792ED2C1AE5A5FD00F75851 /* LSU-Config.plist in Resources */,
@@ -9904,7 +9871,6 @@
 				9792EDBD1AE5A76B00F75851 /* UVA.xcassets in Resources */,
 				975429C518E6363D00219CAA /* photo_for_opening_screen.png in Resources */,
 				97DF35E31954E80C003BA2DF /* icon_57x57@2x.png in Resources */,
-				9792EDA61AE5A68200F75851 /* icon_72x72.png in Resources */,
 				B9401CFA1A89D34C00C760B3 /* Monkey-2.jpg in Resources */,
 				97ABEADD18E39B4900780496 /* UHM-Info.plist in Resources */,
 				9743A80618F5DB9C0025FA2E /* photo_for_opening_screen.png in Resources */,
@@ -9999,7 +9965,6 @@
 				9766E4041919943800A5C9A5 /* icon.png in Resources */,
 				B9401CF61A89D34C00C760B3 /* Lion-2.jpg in Resources */,
 				B9401CEB1A89D34C00C760B3 /* GTM-XXXX.plist in Resources */,
-				97DF34751954DB66003BA2DF /* icon_72x72.png in Resources */,
 				97542AA318E63D1B00219CAA /* photo_for_opening_screen.png in Resources */,
 				97AB8C921B30BE50004335D4 /* Photo-for-opening-screen.png in Resources */,
 				B9401CC51A89D34C00C760B3 /* CategoryViewController_iPad.xib in Resources */,
@@ -10015,7 +9980,6 @@
 				B9401CE91A89D34C00C760B3 /* CuteAnimals-Info.plist in Resources */,
 				97ABEAD918E39B4900780496 /* Photo-for-opening-screen.png in Resources */,
 				9749A9001957DDC5003F06D1 /* icon_57x57.png in Resources */,
-				97DF34731954DB66003BA2DF /* icon_57x57.png in Resources */,
 				97DF359B1954E60F003BA2DF /* FAU.xcassets in Resources */,
 				B9401CCE1A89D34C00C760B3 /* Cat-4.jpg in Resources */,
 				B9401D0C1A89D34C00C760B3 /* Readme.txt in Resources */,
@@ -11200,7 +11164,6 @@
 				9792ECEC1AE5A27600F75851 /* VideoIcon@2x.png in Resources */,
 				9792ECED1AE5A27600F75851 /* orange_back.png in Resources */,
 				9792ECEE1AE5A27600F75851 /* Localizable.strings in Resources */,
-				9792EDA91AE5A68200F75851 /* icon_57x57@2x.png in Resources */,
 				9792ECEF1AE5A27600F75851 /* ImagePlaceholder@2x.png in Resources */,
 				9792ECF31AE5A27600F75851 /* MenuIconPlaceholder@2x.png in Resources */,
 				9792ECF41AE5A27600F75851 /* visited.png in Resources */,
@@ -11217,13 +11180,11 @@
 				9792ECFE1AE5A27600F75851 /* ScanIcon.png in Resources */,
 				9792ECFF1AE5A27600F75851 /* zbar-back.png in Resources */,
 				9792ED001AE5A27600F75851 /* gray_back.png in Resources */,
-				9792EDA51AE5A68200F75851 /* icon_57x57.png in Resources */,
 				9792ED011AE5A27600F75851 /* playIcon@2x.png in Resources */,
 				9792ED021AE5A27600F75851 /* DirectionIcon@2x.png in Resources */,
 				9792ED041AE5A27600F75851 /* keyImage.png in Resources */,
 				9792EDAB1AE5A68200F75851 /* Photo-for-opening-screen.png in Resources */,
 				9792ED051AE5A27600F75851 /* tour_guide.png in Resources */,
-				9792EDA71AE5A68200F75851 /* icon_72x72.png in Resources */,
 				9792ED061AE5A27600F75851 /* zbar-help.html in Resources */,
 				9792ED071AE5A27600F75851 /* green.png in Resources */,
 				9792ED081AE5A27600F75851 /* VideoIcon.png in Resources */,
@@ -11440,7 +11401,6 @@
 				9350DDCC1AB0DA2000489EAA /* orange_back.png in Resources */,
 				97DF30171954D165003BA2DF /* Localizable.strings in Resources */,
 				9350DCA11AB0D3F900489EAA /* ImagePlaceholder@2x.png in Resources */,
-				97DF34741954DB66003BA2DF /* icon_57x57.png in Resources */,
 				97DF346A1954DB66003BA2DF /* GIT-Config.plist in Resources */,
 				97DF34B01954DB66003BA2DF /* Photo-for-opening-screen.png in Resources */,
 				9350DCDB1AB0D3F900489EAA /* MenuIconPlaceholder@2x.png in Resources */,
@@ -11459,7 +11419,6 @@
 				9350DD581AB0DA2000489EAA /* gray_back.png in Resources */,
 				9350DCF81AB0D3F900489EAA /* playIcon@2x.png in Resources */,
 				9350DC4A1AB0D3F900489EAA /* DirectionIcon@2x.png in Resources */,
-				97DF34761954DB66003BA2DF /* icon_72x72.png in Resources */,
 				9350DD751AB0DA2000489EAA /* keyImage.png in Resources */,
 				9350DE061AB0DA2000489EAA /* tour_guide.png in Resources */,
 				97DF30241954D165003BA2DF /* zbar-help.html in Resources */,
@@ -11467,7 +11426,6 @@
 				9350DC251AB0D09500489EAA /* VideoIcon.png in Resources */,
 				9350DD3B1AB0DA2000489EAA /* current.png in Resources */,
 				97DF30281954D165003BA2DF /* zbar-helpicons.png in Resources */,
-				97DF348C1954DB66003BA2DF /* icon_57x57@2x.png in Resources */,
 				9350DB171AB0ABC300489EAA /* Default.png in Resources */,
 				9350DC671AB0D3F900489EAA /* divider@2x.png in Resources */,
 				9350DC841AB0D3F900489EAA /* ImageIcon@2x.png in Resources */,
@@ -15177,8 +15135,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UW";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -15215,8 +15173,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UW";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -15253,8 +15211,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UW";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -15291,8 +15249,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UW";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17958,7 +17916,7 @@
 					"-licucore",
 					"-ObjC",
 				);
-				PRODUCT_NAME = "Visit Memphis";
+				PRODUCT_NAME = "Visit UofM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -17996,7 +17954,7 @@
 					"-licucore",
 					"-ObjC",
 				);
-				PRODUCT_NAME = "Visit Memphis";
+				PRODUCT_NAME = "Visit UofM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -18034,7 +17992,7 @@
 					"-licucore",
 					"-ObjC",
 				);
-				PRODUCT_NAME = "Visit Memphis";
+				PRODUCT_NAME = "Visit UofM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -18072,7 +18030,7 @@
 					"-licucore",
 					"-ObjC",
 				);
-				PRODUCT_NAME = "Visit Memphis";
+				PRODUCT_NAME = "Visit UofM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -18114,8 +18072,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit TAMU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -18152,8 +18110,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit TAMU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -18190,8 +18148,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit TAMU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -18228,8 +18186,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit TAMU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19044,8 +19002,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FAU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19082,8 +19040,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FAU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19120,8 +19078,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FAU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19158,8 +19116,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit FAU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19974,8 +19932,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UCO";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -20012,8 +19970,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UCO";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -20050,8 +20008,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UCO";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -20088,8 +20046,8 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "Visit UCO";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -20506,7 +20464,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		9792ED161AE5A27600F75851 /* Build configuration list for PBXNativeTarget "UM" */ = {
+		9792ED161AE5A27600F75851 /* Build configuration list for PBXNativeTarget "UofM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9792ED171AE5A27600F75851 /* Debug */,
