@@ -3492,13 +3492,11 @@
 		97AB8C8A1B30BE33004335D4 /* UTEP-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C861B30BE33004335D4 /* UTEP-Config.plist */; };
 		97AB8C8B1B30BE33004335D4 /* UTEP-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C861B30BE33004335D4 /* UTEP-Config.plist */; };
 		97AB8C8C1B30BE33004335D4 /* UTEP-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C871B30BE33004335D4 /* UTEP-Info.plist */; };
-		97AB8C8D1B30BE33004335D4 /* UTEP-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C871B30BE33004335D4 /* UTEP-Info.plist */; };
 		97AB8C921B30BE50004335D4 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C8F1B30BE50004335D4 /* Photo-for-opening-screen.png */; };
 		97AB8C931B30BE50004335D4 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C8F1B30BE50004335D4 /* Photo-for-opening-screen.png */; };
 		97AB8C941B30BE50004335D4 /* UNR-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C901B30BE50004335D4 /* UNR-Config.plist */; };
 		97AB8C951B30BE50004335D4 /* UNR-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C901B30BE50004335D4 /* UNR-Config.plist */; };
 		97AB8C961B30BE50004335D4 /* UNR-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C911B30BE50004335D4 /* UNR-Info.plist */; };
-		97AB8C971B30BE50004335D4 /* UNR-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97AB8C911B30BE50004335D4 /* UNR-Info.plist */; };
 		97ABE91A18E360F900780496 /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
 		97ABE91B18E360F900780496 /* CPSwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = C04960451525F60B00882322 /* CPSwipeView.m */; };
 		97ABE91C18E360F900780496 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA60B1524A080004DEE6A /* main.m */; };
@@ -9588,7 +9586,7 @@
 		22CFA5F21524A080004DEE6A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0630;
+				LastUpgradeCheck = 0640;
 				TargetAttributes = {
 					9717E83418CA4A2A0074C2F0 = {
 						DevelopmentTeam = QR9N5T8L75;
@@ -10070,7 +10068,6 @@
 				9701ABDA1B20FC3400B9B99B /* marker_icon_blue1.png in Resources */,
 				9701ABDB1B20FC3400B9B99B /* playIcon_pin.png in Resources */,
 				97AB8C8B1B30BE33004335D4 /* UTEP-Config.plist in Resources */,
-				97AB8C8D1B30BE33004335D4 /* UTEP-Info.plist in Resources */,
 				9701ABDC1B20FC3400B9B99B /* InfoPlist.strings in Resources */,
 				9701ABDD1B20FC3400B9B99B /* ScanIcon.png in Resources */,
 				9701ABDE1B20FC3400B9B99B /* zbar-back.png in Resources */,
@@ -10127,7 +10124,6 @@
 				9701AC6B1B20FC5800B9B99B /* tour_guide.png in Resources */,
 				9701AC6D1B20FC5800B9B99B /* zbar-help.html in Resources */,
 				9701AC6E1B20FC5800B9B99B /* green.png in Resources */,
-				97AB8C971B30BE50004335D4 /* UNR-Info.plist in Resources */,
 				9701AC6F1B20FC5800B9B99B /* VideoIcon.png in Resources */,
 				9701AC701B20FC5800B9B99B /* current.png in Resources */,
 				9701AC711B20FC5800B9B99B /* zbar-helpicons.png in Resources */,
