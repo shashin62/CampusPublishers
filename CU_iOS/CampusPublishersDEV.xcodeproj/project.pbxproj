@@ -1661,7 +1661,6 @@
 		975041A418C7E2AE002EE0E3 /* UMD.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 975041A318C7E2AE002EE0E3 /* UMD.xcassets */; };
 		975074E718E88796003F563C /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9780B60218C133CF009F19F7 /* Photo-for-opening-screen.png */; };
 		9751A2201875D8C400407B4B /* CU-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9751A1F01875D8C300407B4B /* CU-Config.plist */; };
-		9751A2211875D8C400407B4B /* CU-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9751A1F11875D8C300407B4B /* CU-Info.plist */; };
 		9751A2271875D8C400407B4B /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9751A1F81875D8C300407B4B /* icon.png */; };
 		9751A2281875D8C400407B4B /* icon~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 9751A1F91875D8C300407B4B /* icon~ipad.png */; };
 		9751A22C1875D8C400407B4B /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9751A1FD1875D8C300407B4B /* logo.png */; };
@@ -9586,7 +9585,7 @@
 		22CFA5F21524A080004DEE6A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0640;
+				LastUpgradeCheck = 0700;
 				TargetAttributes = {
 					9717E83418CA4A2A0074C2F0 = {
 						DevelopmentTeam = QR9N5T8L75;
@@ -10763,7 +10762,6 @@
 				9350DB811AB0D09500489EAA /* ImagePlaceholder.png in Resources */,
 				978311A61869EF22009B9212 /* Localizable.strings in Resources */,
 				978311A71869EF22009B9212 /* InfoPlist.strings in Resources */,
-				9751A2211875D8C400407B4B /* CU-Info.plist in Resources */,
 				978311A81869EF22009B9212 /* zbar-back.png in Resources */,
 				977568F1187B33440037B7AA /* icon-58@2x.png in Resources */,
 				9350DBBB1AB0D09500489EAA /* MenuIconPlaceholder.png in Resources */,
@@ -14190,6 +14188,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Uttam Shah (HY68U46N47)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Uttam Shah (HY68U46N47)";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -14280,6 +14279,7 @@
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				OTHER_LDFLAGS = "-licucore";
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = CampusPublishersDEV;
 				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
@@ -14313,6 +14313,7 @@
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				OTHER_LDFLAGS = "-licucore";
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = CampusPublishersDEV;
 				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
@@ -14355,6 +14356,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.utep;
 				PRODUCT_NAME = "Visit UTEP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14393,6 +14395,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.utep;
 				PRODUCT_NAME = "Visit UTEP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14431,6 +14434,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.utep;
 				PRODUCT_NAME = "Visit UTEP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14469,6 +14473,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.utep;
 				PRODUCT_NAME = "Visit UTEP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14510,6 +14515,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unr;
 				PRODUCT_NAME = "Visit UNR";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14548,6 +14554,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unr;
 				PRODUCT_NAME = "Visit UNR";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14586,6 +14593,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unr;
 				PRODUCT_NAME = "Visit UNR";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14624,6 +14632,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unr;
 				PRODUCT_NAME = "Visit UNR";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14665,6 +14674,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unl;
 				PRODUCT_NAME = "Visit UNL";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14703,6 +14713,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unl;
 				PRODUCT_NAME = "Visit UNL";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14741,6 +14752,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unl;
 				PRODUCT_NAME = "Visit UNL";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14779,6 +14791,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unl;
 				PRODUCT_NAME = "Visit UNL";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -14820,6 +14833,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UTSA";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -14858,6 +14872,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UTSA";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -14896,6 +14911,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UTSA";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -14934,6 +14950,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UTSA";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -14975,6 +14992,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.ua;
 				PRODUCT_NAME = "Visit UA";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15013,6 +15031,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.ua;
 				PRODUCT_NAME = "Visit UA";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15051,6 +15070,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.ua;
 				PRODUCT_NAME = "Visit UA";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15089,6 +15109,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.ua;
 				PRODUCT_NAME = "Visit UA";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15130,6 +15151,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uw;
 				PRODUCT_NAME = "Visit UW";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15168,6 +15190,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uw;
 				PRODUCT_NAME = "Visit UW";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15206,6 +15229,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uw;
 				PRODUCT_NAME = "Visit UW";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15244,6 +15268,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uw;
 				PRODUCT_NAME = "Visit UW";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15284,6 +15309,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.visitumd;
 				PRODUCT_NAME = "Visit UMD";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15321,6 +15347,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.visitumd;
 				PRODUCT_NAME = "Visit UMD";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15358,6 +15385,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.visitumd;
 				PRODUCT_NAME = "Visit UMD";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15395,6 +15423,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.visitumd;
 				PRODUCT_NAME = "Visit UMD";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15436,6 +15465,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uwm;
 				PRODUCT_NAME = "Visit UWM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15474,6 +15504,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uwm;
 				PRODUCT_NAME = "Visit UWM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15512,6 +15543,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uwm;
 				PRODUCT_NAME = "Visit UWM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15550,6 +15582,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uwm;
 				PRODUCT_NAME = "Visit UWM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15588,6 +15621,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.shsu;
 				PRODUCT_NAME = "Visit SHSU";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -15623,6 +15657,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.shsu;
 				PRODUCT_NAME = "Visit SHSU";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -15658,6 +15693,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.shsu;
 				PRODUCT_NAME = "Visit SHSU";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -15693,6 +15729,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.shsu;
 				PRODUCT_NAME = "Visit SHSU";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -15735,6 +15772,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.umich;
 				PRODUCT_NAME = "Visit UMICH";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15774,6 +15812,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.umich;
 				PRODUCT_NAME = "Visit UMICH";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15813,6 +15852,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.umich;
 				PRODUCT_NAME = "Visit UMICH";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15852,6 +15892,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.umich;
 				PRODUCT_NAME = "Visit UMICH";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15893,6 +15934,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.towson;
 				PRODUCT_NAME = "Visit Towson";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15931,6 +15973,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.towson;
 				PRODUCT_NAME = "Visit Towson";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -15969,6 +16012,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.towson;
 				PRODUCT_NAME = "Visit Towson";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16007,6 +16051,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.towson;
 				PRODUCT_NAME = "Visit Towson";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16048,6 +16093,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.iupui;
 				PRODUCT_NAME = "Visit IUPUI";
 				PROVISIONING_PROFILE = "1ce049e3-ccbe-43de-b98a-5ee713651677";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1ce049e3-ccbe-43de-b98a-5ee713651677";
@@ -16087,6 +16133,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.iupui;
 				PRODUCT_NAME = "Visit IUPUI";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16126,6 +16173,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.iupui;
 				PRODUCT_NAME = "Visit IUPUI";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16165,6 +16213,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.iupui;
 				PRODUCT_NAME = "Visit IUPUI";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16207,6 +16256,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unlv;
 				PRODUCT_NAME = "Visit UNLV";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16245,6 +16295,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unlv;
 				PRODUCT_NAME = "Visit UNLV";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16283,6 +16334,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unlv;
 				PRODUCT_NAME = "Visit UNLV";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16321,6 +16373,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unlv;
 				PRODUCT_NAME = "Visit UNLV";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16362,6 +16415,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unm;
 				PRODUCT_NAME = "Visit UNM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16400,6 +16454,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unm;
 				PRODUCT_NAME = "Visit UNM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16438,6 +16493,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unm;
 				PRODUCT_NAME = "Visit UNM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16476,6 +16532,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unm;
 				PRODUCT_NAME = "Visit UNM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16517,6 +16574,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.rutgers;
 				PRODUCT_NAME = "Visit Rutgers";
 				PROVISIONING_PROFILE = "1ce049e3-ccbe-43de-b98a-5ee713651677";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1ce049e3-ccbe-43de-b98a-5ee713651677";
@@ -16555,6 +16613,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.rutgers;
 				PRODUCT_NAME = "Visit Rutgers";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -16593,6 +16652,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.rutgers;
 				PRODUCT_NAME = "Visit Rutgers";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -16631,6 +16691,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.rutgers;
 				PRODUCT_NAME = "Visit Rutgers";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -16660,6 +16721,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "CU-Info.plist";
+				INFOPLIST_PREPROCESS = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16672,10 +16734,11 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				SDKROOT = iphoneos9.0;
+				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16699,6 +16762,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "CU-Info.plist";
+				INFOPLIST_PREPROCESS = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16711,10 +16775,11 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				SDKROOT = iphoneos9.0;
+				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16738,6 +16803,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "CU-Info.plist";
+				INFOPLIST_PREPROCESS = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16750,10 +16816,11 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				SDKROOT = iphoneos9.0;
+				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16777,6 +16844,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "CU-Info.plist";
+				INFOPLIST_PREPROCESS = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16789,10 +16857,11 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				SDKROOT = iphoneos9.0;
+				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16831,6 +16900,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fsu;
 				PRODUCT_NAME = "Visit FSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16869,6 +16939,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fsu;
 				PRODUCT_NAME = "Visit FSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16907,6 +16978,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fsu;
 				PRODUCT_NAME = "Visit FSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16945,6 +17017,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fsu;
 				PRODUCT_NAME = "Visit FSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -16986,6 +17059,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.lsu;
 				PRODUCT_NAME = "Visit LSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17024,6 +17098,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.lsu;
 				PRODUCT_NAME = "Visit LSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17062,6 +17137,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.lsu;
 				PRODUCT_NAME = "Visit LSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17100,6 +17176,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.lsu;
 				PRODUCT_NAME = "Visit LSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17141,6 +17218,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.gsu;
 				PRODUCT_NAME = "Visit GSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17179,6 +17257,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.gsu;
 				PRODUCT_NAME = "Visit GSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17217,6 +17296,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.gsu;
 				PRODUCT_NAME = "Visit GSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17255,6 +17335,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.gsu;
 				PRODUCT_NAME = "Visit GSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17296,6 +17377,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uva;
 				PRODUCT_NAME = "Visit UVa";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17334,6 +17416,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uva;
 				PRODUCT_NAME = "Visit UVa";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17372,6 +17455,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uva;
 				PRODUCT_NAME = "Visit UVa";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17410,6 +17494,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uva;
 				PRODUCT_NAME = "Visit UVa";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17451,6 +17536,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.psu;
 				PRODUCT_NAME = "Visit PSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17489,6 +17575,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.psu;
 				PRODUCT_NAME = "Visit PSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17527,6 +17614,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.psu;
 				PRODUCT_NAME = "Visit PSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17565,6 +17653,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.psu;
 				PRODUCT_NAME = "Visit PSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17606,6 +17695,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uncc;
 				PRODUCT_NAME = "Visit UNCC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17644,6 +17734,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uncc;
 				PRODUCT_NAME = "Visit UNCC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17682,6 +17773,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uncc;
 				PRODUCT_NAME = "Visit UNCC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17720,6 +17812,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uncc;
 				PRODUCT_NAME = "Visit UNCC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17761,6 +17854,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uca;
 				PRODUCT_NAME = "Visit UCA";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17799,6 +17893,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uca;
 				PRODUCT_NAME = "Visit UCA";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17837,6 +17932,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uca;
 				PRODUCT_NAME = "Visit UCA";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17875,6 +17971,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uca;
 				PRODUCT_NAME = "Visit UCA";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17916,6 +18013,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.um;
 				PRODUCT_NAME = "Visit UofM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17954,6 +18052,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.um;
 				PRODUCT_NAME = "Visit UofM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -17992,6 +18091,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.um;
 				PRODUCT_NAME = "Visit UofM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18030,6 +18130,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.um;
 				PRODUCT_NAME = "Visit UofM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18071,6 +18172,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.tamu;
 				PRODUCT_NAME = "Visit TAMU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18109,6 +18211,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.tamu;
 				PRODUCT_NAME = "Visit TAMU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18147,6 +18250,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.tamu;
 				PRODUCT_NAME = "Visit TAMU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18185,6 +18289,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.tamu;
 				PRODUCT_NAME = "Visit TAMU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18226,6 +18331,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18264,6 +18370,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18302,6 +18409,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18340,6 +18448,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18381,6 +18490,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.usf;
 				PRODUCT_NAME = "Visit USF";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -18419,6 +18529,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.usf;
 				PRODUCT_NAME = "Visit USF";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -18457,6 +18568,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.usf;
 				PRODUCT_NAME = "Visit USF";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -18495,6 +18607,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.usf;
 				PRODUCT_NAME = "Visit USF";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -18536,6 +18649,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.und;
 				PRODUCT_NAME = "Visit UND";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18574,6 +18688,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.und;
 				PRODUCT_NAME = "Visit UND";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18612,6 +18727,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.und;
 				PRODUCT_NAME = "Visit UND";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18650,6 +18766,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.und;
 				PRODUCT_NAME = "Visit UND";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18691,6 +18808,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.git;
 				PRODUCT_NAME = "Visit GT";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18729,6 +18847,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.git;
 				PRODUCT_NAME = "Visit GT";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18767,6 +18886,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.git;
 				PRODUCT_NAME = "Visit GT";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18805,6 +18925,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.git;
 				PRODUCT_NAME = "Visit GT";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18846,6 +18967,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.wsu;
 				PRODUCT_NAME = "Visit WSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18884,6 +19006,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.wsu;
 				PRODUCT_NAME = "Visit WSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18922,6 +19045,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.wsu;
 				PRODUCT_NAME = "Visit WSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -18960,6 +19084,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.wsu;
 				PRODUCT_NAME = "Visit WSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19001,6 +19126,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fau;
 				PRODUCT_NAME = "Visit FAU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19039,6 +19165,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fau;
 				PRODUCT_NAME = "Visit FAU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19077,6 +19204,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fau;
 				PRODUCT_NAME = "Visit FAU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19115,6 +19243,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fau;
 				PRODUCT_NAME = "Visit FAU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19156,6 +19285,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uwsp;
 				PRODUCT_NAME = "Visit UWSP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19194,6 +19324,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uwsp;
 				PRODUCT_NAME = "Visit UWSP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19232,6 +19363,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uwsp;
 				PRODUCT_NAME = "Visit UWSP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19270,6 +19402,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uwsp;
 				PRODUCT_NAME = "Visit UWSP";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19311,6 +19444,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unco;
 				PRODUCT_NAME = "Visit UNC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19349,6 +19483,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unco;
 				PRODUCT_NAME = "Visit UNC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19387,6 +19522,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unco;
 				PRODUCT_NAME = "Visit UNC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19425,6 +19561,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unco;
 				PRODUCT_NAME = "Visit UNC";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19466,6 +19603,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.wichita;
 				PRODUCT_NAME = "Visit Wichita";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19504,6 +19642,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.wichita;
 				PRODUCT_NAME = "Visit Wichita";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19542,6 +19681,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.wichita;
 				PRODUCT_NAME = "Visit Wichita";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19580,6 +19720,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.wichita;
 				PRODUCT_NAME = "Visit Wichita";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19621,6 +19762,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uark;
 				PRODUCT_NAME = "Visit UARK";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -19659,6 +19801,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uark;
 				PRODUCT_NAME = "Visit UARK";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -19697,6 +19840,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uark;
 				PRODUCT_NAME = "Visit UARK";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -19735,6 +19879,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uark;
 				PRODUCT_NAME = "Visit UARK";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
@@ -19776,6 +19921,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.mtsu;
 				PRODUCT_NAME = "Visit MTSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19814,6 +19960,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.mtsu;
 				PRODUCT_NAME = "Visit MTSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19852,6 +19999,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.mtsu;
 				PRODUCT_NAME = "Visit MTSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19890,6 +20038,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.mtsu;
 				PRODUCT_NAME = "Visit MTSU";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19931,6 +20080,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uco;
 				PRODUCT_NAME = "Visit UCO";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -19969,6 +20119,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uco;
 				PRODUCT_NAME = "Visit UCO";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -20007,6 +20158,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uco;
 				PRODUCT_NAME = "Visit UCO";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -20045,6 +20197,7 @@
 					"-licucore",
 					"-ObjC",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uco;
 				PRODUCT_NAME = "Visit UCO";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
@@ -20110,6 +20263,7 @@
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				OTHER_LDFLAGS = "-licucore";
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = CampusPublishersDEV;
 				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
@@ -20176,6 +20330,7 @@
 					"$(PROJECT_DIR)/GoogleAnalyticsServicesiOS_3.09",
 				);
 				OTHER_LDFLAGS = "-licucore";
+				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = CampusPublishersDEV;
 				PROVISIONING_PROFILE = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4557546c-b83d-4b1e-9a03-13c98de56d8a";
