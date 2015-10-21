@@ -2590,7 +2590,7 @@
         {
             if(buttonIndex==0)
             {
-                isDrivingMode=YES;
+                isDrivingMode=YES; //Replace with [self removeLoadingView] for UO?
             }
             else if(buttonIndex==1){
                 isDrivingMode=NO;
