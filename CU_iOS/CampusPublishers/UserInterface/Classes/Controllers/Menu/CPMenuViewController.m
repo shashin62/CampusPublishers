@@ -180,7 +180,7 @@
     CGRect frame = self.view.frame ;
     frame.origin.x = 0.0;
     frame.origin.y = 0.0;
-    frame.size.width = 320.0;
+    frame.size.width = self.view.frame.size.width;
     frame.size.height = self.view.frame.size.height;
     
     frame.size.height = [[CPUtility applicationDelegate] window].frame.size.height;

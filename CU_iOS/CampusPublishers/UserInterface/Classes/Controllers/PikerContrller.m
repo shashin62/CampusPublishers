@@ -71,8 +71,8 @@
     self.navigationItem.title=@"Key";
     
     tableView=[[UITableView alloc]initWithFrame:keyView.frame style:UITableViewStylePlain];
-   // tableView.frame=CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.height);
-    tableView.frame=CGRectMake(0, 0, 280, 320-44);
+    tableView.frame=CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.height);
+    //tableView.frame=CGRectMake(0, 0, 280, 320-44);
 
     tableView.separatorStyle=UITableViewCellSeparatorStyleSingleLine;
     
