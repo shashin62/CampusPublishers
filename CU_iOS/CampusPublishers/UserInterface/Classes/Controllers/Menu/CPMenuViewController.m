@@ -354,8 +354,8 @@
     //  [UIView beginAnimations:@"animateAdBannerOn"  context:NULL];
     //[UIView setAnimationDuration:0.0];
     //  GADBannerView *adBanner = [CPAddBannerView sharedAddBannerView].adBanner;
-    view.frame = CGRectMake(0.0, self.view.frame.size.height - (_footerView.frame.size.height+BANNER_HEIGHT), _footerView.frame.size.width, view.frame.size.height);
-    self.tableViewMenu.frame = CGRectMake(0.0, 0.0, 320.0, self.view.frame.size.height - (44.0+BANNER_HEIGHT));
+    view.frame = CGRectMake(0.0, self.view.frame.size.height - (_footerView.frame.size.height+BANNER_HEIGHT), [[UIScreen mainScreen] applicationFrame].size.width, view.frame.size.height);
+    self.tableViewMenu.frame = CGRectMake(0.0, 0.0, [[UIScreen mainScreen] applicationFrame].size.width, self.view.frame.size.height - (44.0+BANNER_HEIGHT));
     
     // [UIView commitAnimations];
     
@@ -363,8 +363,8 @@
 
 -(void)adView:(GADBannerView *)view didFailToReceiveAdWithError:(GADRequestError *)error{
     //GADBannerView *adBanner = [CPAddBannerView sharedAddBannerView].adBanner;
-    view.frame = CGRectMake(0.0, self.view.frame.size.height , _footerView.frame.size.width, _footerView.frame.size.height);
-    self.tableViewMenu.frame = CGRectMake(0.0, 0.0, 320.0, self.view.frame.size.height - 44);
+    view.frame = CGRectMake(0.0, self.view.frame.size.height , [[UIScreen mainScreen] applicationFrame].size.width, _footerView.frame.size.height);
+    self.tableViewMenu.frame = CGRectMake(0.0, 0.0, [[UIScreen mainScreen] applicationFrame].size.width, self.view.frame.size.height - 44);
     
 }
 -(void)adViewWillDismissScreen:(GADBannerView *)adView{
@@ -380,7 +380,7 @@
         return;
     }
     
-    self.tableViewMenu.frame=CGRectMake(0, 0, 320, self.view.frame.size.height);
+    self.tableViewMenu.frame=CGRectMake(0, 0, [[UIScreen mainScreen] applicationFrame].size.width, self.view.frame.size.height);
     
     
     [_tableViewMenu reloadData];
@@ -391,7 +391,7 @@
         
         CPConfiguration *configuration = (CPConfiguration*)dManager.configuration;
         _footerView.tintColor = configuration.color.footer;
-        _footerView.frame = CGRectMake(0.0, self.view.frame.size.height - 44.0, _footerView.frame.size.width, _footerView.frame.size.height);
+        _footerView.frame = CGRectMake(0.0, self.view.frame.size.height - 44.0, [[UIScreen mainScreen] applicationFrame].size.width, _footerView.frame.size.height);
         [self reloadAdd];
         
         

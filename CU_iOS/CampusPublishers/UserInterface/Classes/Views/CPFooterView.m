@@ -7,7 +7,6 @@
 //
 
 #import "CPFooterView.h"
-#import "CPUtils.h"
 
 @implementation CPFooterView
 
@@ -17,7 +16,7 @@
 + (id)footerViewWithToolBarType:(CPFooterItemType)type
 {
     
-    CPFooterView *footerView = [[CPFooterView alloc] initWithFrame:CGRectMake(0.0, 0.0, 320.0, 44.0)];
+    CPFooterView *footerView = [[CPFooterView alloc] initWithFrame:CGRectMake(0.0, 0.0, [[UIScreen mainScreen] applicationFrame].size.width, 44.0)];
     
     UIImageView *midImage = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"divider.png"]];
     midImage.contentMode = UIViewContentModeScaleToFill;
