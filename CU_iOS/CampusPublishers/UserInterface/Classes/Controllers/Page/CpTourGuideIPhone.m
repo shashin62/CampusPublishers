@@ -1618,7 +1618,7 @@
                 UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Directions"
                                                                 message:@"Select mode of travel"
                                                                delegate:self
-                                                      cancelButtonTitle:@"Driving"
+                                                      cancelButtonTitle:@"Cancel" //Was "Driving"
                                                       otherButtonTitles:@"Walking",nil];
                 alert.tag=22222;
                 [alert show];
@@ -2590,7 +2590,14 @@
         {
             if(buttonIndex==0)
             {
-                isDrivingMode=YES; //Replace with [self removeLoadingView] for UO?
+                //[backButtonDidPressed];
+                
+                //[self dismissViewControllerAnimated:YES completion:nil];
+                [[CPConnectionManager sharedConnectionManager] closeAllConnections];
+                CPAppDelegate *appDelegate=(CPAppDelegate*)[UIApplication sharedApplication].delegate;
+                 appDelegate.isRootViewController=NO;
+                
+                //Replace with [self removeLoadingView] for UO? Driving
             }
             else if(buttonIndex==1){
                 isDrivingMode=NO;
@@ -2625,7 +2632,10 @@
         {
             if(buttonIndex==0)
             {
-                isDrivingMode=YES;
+                //isDrivingMode=YES;
+                [[CPConnectionManager sharedConnectionManager] closeAllConnections];
+                CPAppDelegate *appDelegate=(CPAppDelegate*)[UIApplication sharedApplication].delegate;
+                appDelegate.isRootViewController=NO;
             }
             else if(buttonIndex==1){
                 isDrivingMode=NO;
