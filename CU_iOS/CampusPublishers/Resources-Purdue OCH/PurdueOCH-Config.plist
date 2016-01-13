@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>GAnalyticsID</key>
-	<string>UA-55112261-35</string>
+	<string>UA-55112261-36</string>
 	<key>UniversityID</key>
-	<integer>21</integer>
+	<integer>43</integer>
 	<key>AdMobID</key>
-	<string>ca-app-pub-7903757883844902/1036635387</string>
+	<string>ca-app-pub-7903757883844902/8253803783</string>
 	<key>isLiveMode</key>
 	<true/>
 </dict>
