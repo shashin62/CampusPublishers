@@ -775,7 +775,7 @@
 -(void)showBannarView{
     
     //Comment for them screenshots -Austin
-    
+    /*
     if (gADBannerView!=nil) {
         [gADBannerView removeFromSuperview];
     }
@@ -799,7 +799,7 @@
 //    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
     
-    
+    */
 }
 
 
