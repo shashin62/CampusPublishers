@@ -6,6 +6,15 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
+			<key>maps.google.com</key>
+			<dict>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSExceptionRequiresForwardSecrecy</key>
+				<false/>
+			</dict>
 			<key>app.campuspublishers.com</key>
 			<dict>
 				<key>NSIncludesSubdomains</key>

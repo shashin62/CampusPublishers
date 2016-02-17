@@ -42,6 +42,15 @@
 				<key>NSExceptionRequiresForwardSecrecy</key>
 				<false/>
 			</dict>
+            <key>maps.google.com</key>
+            <dict>
+                <key>NSIncludesSubdomains</key>
+                <true/>
+                <key>NSExceptionAllowsInsecureHTTPLoads</key>
+                <true/>
+                <key>NSExceptionRequiresForwardSecrecy</key>
+                <false/>
+            </dict>
 		</dict>
 	</dict>
 	<key>CFBundleDevelopmentRegion</key>
