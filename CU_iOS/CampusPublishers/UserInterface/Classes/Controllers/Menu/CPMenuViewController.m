@@ -317,7 +317,7 @@
 #pragma marks  - bannerview delegates
 -(void)showBannarView{
     //Comment out for screenshots -Austin
-    /*
+    
     gADBannerView = [CPAddBannerView sharedGADBannerView];
     if([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad){
         return;
@@ -339,7 +339,7 @@
     GADRequest *r = [[GADRequest alloc] init];
 //    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
-    */
+    
     
 }
 

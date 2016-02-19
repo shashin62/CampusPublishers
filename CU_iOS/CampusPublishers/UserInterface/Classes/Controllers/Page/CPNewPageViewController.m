@@ -386,7 +386,7 @@
 #pragma marks  - admob delegates
 -(void)showBannarView{
     //comment this out for screenshots -Austin
-    /*
+    
     gADBannerView = [CPAddBannerView sharedGADBannerView];
     gADBannerView.frame = CGRectMake(0.0, self.view.frame.size.height , _footerView.frame.size.width, _footerView.frame.size.height);
     
@@ -401,7 +401,7 @@
     GADRequest *r = [[GADRequest alloc] init];
 //    r.testDevices = [NSArray arrayWithObjects:GAD_SIMULATOR_ID, nil]; // testDevices -Austin
     [gADBannerView loadRequest:r];
-    */
+    
     
 }
 
