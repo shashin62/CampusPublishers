@@ -976,7 +976,6 @@
 		9701ABAB1B20FC3400B9B99B /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9701ABAC1B20FC3400B9B99B /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9701ABAD1B20FC3400B9B99B /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9701ABAF1B20FC3400B9B99B /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9701ABB01B20FC3400B9B99B /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9701ABB11B20FC3400B9B99B /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9701ABB21B20FC3400B9B99B /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1095,7 +1094,6 @@
 		9701AC321B20FC5800B9B99B /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9701AC331B20FC5800B9B99B /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9701AC341B20FC5800B9B99B /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9701AC361B20FC5800B9B99B /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9701AC371B20FC5800B9B99B /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9701AC381B20FC5800B9B99B /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9701AC391B20FC5800B9B99B /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1213,7 +1211,6 @@
 		9717E86718CA4A2A0074C2F0 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9717E86818CA4A2A0074C2F0 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9717E86918CA4A2A0074C2F0 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9717E86B18CA4A2A0074C2F0 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9717E86C18CA4A2A0074C2F0 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9717E86D18CA4A2A0074C2F0 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9717E86E18CA4A2A0074C2F0 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1306,7 +1303,6 @@
 		9734A92E1C03B8DB003F9269 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9734A92F1C03B8DB003F9269 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9734A9301C03B8DB003F9269 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9734A9321C03B8DB003F9269 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9734A9331C03B8DB003F9269 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9734A9341C03B8DB003F9269 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9734A9351C03B8DB003F9269 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1434,7 +1430,6 @@
 		97367B081948B5140024AA22 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97367B091948B5140024AA22 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97367B0A1948B5140024AA22 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97367B0C1948B5140024AA22 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97367B0D1948B5140024AA22 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97367B0E1948B5140024AA22 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97367B0F1948B5140024AA22 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1517,7 +1512,6 @@
 		97367B8A1948FC1E0024AA22 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97367B8B1948FC1E0024AA22 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97367B8C1948FC1E0024AA22 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97367B8E1948FC1E0024AA22 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97367B8F1948FC1E0024AA22 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97367B901948FC1E0024AA22 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97367B911948FC1E0024AA22 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1545,6 +1539,12 @@
 		97367BCD1948FC1E0024AA22 /* zbar-samples.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0D5F06174369150058D839 /* zbar-samples.png */; };
 		97367BD71948FD320024AA22 /* UA.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97367BD61948FD320024AA22 /* UA.xcassets */; };
 		97367BD81948FD320024AA22 /* UA.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97367BD61948FD320024AA22 /* UA.xcassets */; };
+		973703171C7C1EA30004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
+		973703181C7C20980004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
+		973703191C7CE36E0004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
+		9737031A1C7CE4550004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
+		9737031B1C7CE5650004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
+		9737031C1C7CE63D0004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
 		9743A72C18F5D7460025FA2E /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
 		9743A72D18F5D7460025FA2E /* CPSwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = C04960451525F60B00882322 /* CPSwipeView.m */; };
 		9743A72E18F5D7460025FA2E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA60B1524A080004DEE6A /* main.m */; };
@@ -1594,7 +1594,6 @@
 		9743A75D18F5D7460025FA2E /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9743A75E18F5D7460025FA2E /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9743A75F18F5D7460025FA2E /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9743A76118F5D7460025FA2E /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9743A76218F5D7460025FA2E /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9743A76318F5D7460025FA2E /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9743A76418F5D7460025FA2E /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1751,7 +1750,6 @@
 		975040CF18C7D5EA002EE0E3 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		975040D018C7D5EA002EE0E3 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		975040D118C7D5EA002EE0E3 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		975040D318C7D5EA002EE0E3 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		975040D418C7D5EA002EE0E3 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		975040D518C7D5EA002EE0E3 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		975040D618C7D5EA002EE0E3 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1850,7 +1848,6 @@
 		9754259018E5649100219CAA /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9754259118E5649100219CAA /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9754259218E5649100219CAA /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9754259418E5649100219CAA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9754259518E5649100219CAA /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9754259618E5649100219CAA /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9754259718E5649100219CAA /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -1932,7 +1929,6 @@
 		9754267218E56AB000219CAA /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9754267318E56AB000219CAA /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9754267418E56AB000219CAA /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9754267618E56AB000219CAA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9754267718E56AB000219CAA /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9754267818E56AB000219CAA /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9754267918E56AB000219CAA /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2014,7 +2010,6 @@
 		9754275418E626E100219CAA /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9754275518E626E100219CAA /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9754275618E626E100219CAA /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9754275818E626E100219CAA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9754275918E626E100219CAA /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9754275A18E626E100219CAA /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9754275B18E626E100219CAA /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2095,7 +2090,6 @@
 		9754283618E62D8300219CAA /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9754283718E62D8300219CAA /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9754283818E62D8300219CAA /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9754283A18E62D8300219CAA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9754283B18E62D8300219CAA /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9754283C18E62D8300219CAA /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9754283D18E62D8300219CAA /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2176,7 +2170,6 @@
 		9754291818E6338E00219CAA /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9754291918E6338E00219CAA /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9754291A18E6338E00219CAA /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9754291C18E6338E00219CAA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9754291D18E6338E00219CAA /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9754291E18E6338E00219CAA /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9754291F18E6338E00219CAA /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2258,7 +2251,6 @@
 		975429FA18E6399800219CAA /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		975429FB18E6399800219CAA /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		975429FC18E6399800219CAA /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		975429FE18E6399800219CAA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		975429FF18E6399800219CAA /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97542A0018E6399800219CAA /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97542A0118E6399800219CAA /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2346,7 +2338,6 @@
 		976BBC7F18DAA6FA00929FF6 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		976BBC8018DAA6FA00929FF6 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		976BBC8118DAA6FA00929FF6 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		976BBC8318DAA6FA00929FF6 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		976BBC8418DAA6FA00929FF6 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		976BBC8518DAA6FA00929FF6 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		976BBC8618DAA6FA00929FF6 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2465,7 +2456,6 @@
 		9780B55E18C12E7F009F19F7 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9780B55F18C12E7F009F19F7 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9780B56018C12E7F009F19F7 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9780B56218C12E7F009F19F7 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9780B56318C12E7F009F19F7 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9780B56418C12E7F009F19F7 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9780B56518C12E7F009F19F7 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2546,7 +2536,6 @@
 		9783118C1869EF22009B9212 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		9783118D1869EF22009B9212 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9783118E1869EF22009B9212 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		978311901869EF22009B9212 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		978311911869EF22009B9212 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		978311921869EF22009B9212 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		978311931869EF22009B9212 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2623,7 +2612,6 @@
 		97876D5F18E4970400614B59 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97876D6018E4970400614B59 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97876D6118E4970400614B59 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97876D6318E4970400614B59 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97876D6418E4970400614B59 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97876D6518E4970400614B59 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97876D6618E4970400614B59 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2710,7 +2698,6 @@
 		9792E9981AE5A1D600F75851 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9792E9991AE5A1D600F75851 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9792E99A1AE5A1D600F75851 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9792E99C1AE5A1D600F75851 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9792E99D1AE5A1D600F75851 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9792E99E1AE5A1D600F75851 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9792E99F1AE5A1D600F75851 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2829,7 +2816,6 @@
 		9792EA221AE5A1F300F75851 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9792EA231AE5A1F300F75851 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9792EA241AE5A1F300F75851 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9792EA261AE5A1F300F75851 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9792EA271AE5A1F300F75851 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9792EA281AE5A1F300F75851 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9792EA291AE5A1F300F75851 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -2948,7 +2934,6 @@
 		9792EAAA1AE5A1F600F75851 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9792EAAB1AE5A1F600F75851 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9792EAAC1AE5A1F600F75851 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9792EAAE1AE5A1F600F75851 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9792EAAF1AE5A1F600F75851 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9792EAB01AE5A1F600F75851 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9792EAB11AE5A1F600F75851 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -3067,7 +3052,6 @@
 		9792EB321AE5A1F900F75851 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9792EB331AE5A1F900F75851 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9792EB341AE5A1F900F75851 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9792EB361AE5A1F900F75851 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9792EB371AE5A1F900F75851 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9792EB381AE5A1F900F75851 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9792EB391AE5A1F900F75851 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -3186,7 +3170,6 @@
 		9792EBBA1AE5A1FC00F75851 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9792EBBB1AE5A1FC00F75851 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9792EBBC1AE5A1FC00F75851 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9792EBBE1AE5A1FC00F75851 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9792EBBF1AE5A1FC00F75851 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9792EBC01AE5A1FC00F75851 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9792EBC11AE5A1FC00F75851 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -3305,7 +3288,6 @@
 		9792EC421AE5A20100F75851 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9792EC431AE5A20100F75851 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9792EC441AE5A20100F75851 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9792EC461AE5A20100F75851 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9792EC471AE5A20100F75851 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9792EC481AE5A20100F75851 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9792EC491AE5A20100F75851 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -3424,7 +3406,6 @@
 		9792ECCA1AE5A27600F75851 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		9792ECCB1AE5A27600F75851 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		9792ECCC1AE5A27600F75851 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		9792ECCE1AE5A27600F75851 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		9792ECCF1AE5A27600F75851 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		9792ECD01AE5A27600F75851 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		9792ECD11AE5A27600F75851 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -3673,7 +3654,6 @@
 		97A84B301C3EF79300B94CAC /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401D1F1A89E02800C760B3 /* LoadingView.m */; };
 		97A84B311C3EF79300B94CAC /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97A84B321C3EF79300B94CAC /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97A84B341C3EF79300B94CAC /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97A84B351C3EF79300B94CAC /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97A84B361C3EF79300B94CAC /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97A84B371C3EF79300B94CAC /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -3804,7 +3784,6 @@
 		97ABE94B18E360F900780496 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97ABE94C18E360F900780496 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97ABE94D18E360F900780496 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97ABE94F18E360F900780496 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97ABE95018E360F900780496 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97ABE95118E360F900780496 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97ABE95218E360F900780496 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -3887,7 +3866,6 @@
 		97ABEA3018E3969E00780496 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97ABEA3118E3969E00780496 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97ABEA3218E3969E00780496 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97ABEA3418E3969E00780496 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97ABEA3518E3969E00780496 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97ABEA3618E3969E00780496 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97ABEA3718E3969E00780496 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -3969,7 +3947,6 @@
 		97ABEB1218E3A67000780496 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97ABEB1318E3A67000780496 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97ABEB1418E3A67000780496 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97ABEB1618E3A67000780496 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97ABEB1718E3A67000780496 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97ABEB1818E3A67000780496 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97ABEB1918E3A67000780496 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4149,7 +4126,6 @@
 		97BDFA72192E740900879644 /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97BDFA73192E740900879644 /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97BDFA74192E740900879644 /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97BDFA76192E740900879644 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97BDFA77192E740900879644 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97BDFA78192E740900879644 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97BDFA79192E740900879644 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4256,7 +4232,6 @@
 		97DF2FFD1954D165003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF2FFE1954D165003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF2FFF1954D165003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF30011954D165003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF30021954D165003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF30031954D165003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF30041954D165003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4331,7 +4306,6 @@
 		97DF307C1954D1DB003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF307D1954D1DB003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF307E1954D1DB003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF30801954D1DB003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF30811954D1DB003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF30821954D1DB003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF30831954D1DB003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4406,7 +4380,6 @@
 		97DF30FB1954D1E1003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF30FC1954D1E1003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF30FD1954D1E1003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF30FF1954D1E1003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF31001954D1E1003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF31011954D1E1003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF31021954D1E1003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4480,7 +4453,6 @@
 		97DF317A1954D1F2003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF317B1954D1F2003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF317C1954D1F2003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF317E1954D1F2003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF317F1954D1F2003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF31801954D1F2003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF31811954D1F2003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4555,7 +4527,6 @@
 		97DF31F91954D1FD003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF31FA1954D1FD003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF31FB1954D1FD003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF31FD1954D1FD003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF31FE1954D1FD003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF31FF1954D1FD003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF32001954D1FD003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4630,7 +4601,6 @@
 		97DF32781954D213003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF32791954D213003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF327A1954D213003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF327C1954D213003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF327D1954D213003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF327E1954D213003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF327F1954D213003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4705,7 +4675,6 @@
 		97DF32F71954D222003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF32F81954D222003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF32F91954D222003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF32FB1954D222003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF32FC1954D222003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF32FD1954D222003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF32FE1954D222003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4780,7 +4749,6 @@
 		97DF33761954D230003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF33771954D230003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF33781954D230003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF337A1954D230003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF337B1954D230003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF337C1954D230003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF337D1954D230003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4855,7 +4823,6 @@
 		97DF33F51954D23B003BA2DF /* DescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D680B4E616A95FB30026D620 /* DescriptionViewController.m */; };
 		97DF33F61954D23B003BA2DF /* CustomImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D69B26CD16BE9070008B006B /* CustomImageView.m */; };
 		97DF33F71954D23B003BA2DF /* CPNewPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D62C202616C2A13A0016059D /* CPNewPageViewController.m */; };
-		97DF33F91954D23B003BA2DF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		97DF33FA1954D23B003BA2DF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */; };
 		97DF33FB1954D23B003BA2DF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
 		97DF33FC1954D23B003BA2DF /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0C14135155921310023E4FE /* iAd.framework */; };
@@ -4942,7 +4909,6 @@
 		B9401C3E1A89CE1E00C760B3 /* EventKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979FD49419DF5D170070EB3F /* EventKit.framework */; };
 		B9401C3F1A89CE2400C760B3 /* EventKitUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979FD49619DF5D390070EB3F /* EventKitUI.framework */; };
 		B9401C401A89CE2D00C760B3 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DED91766035400CC0BA1 /* MessageUI.framework */; };
-		B9401C411A89CE3600C760B3 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */; };
 		B9401C441A89D27200C760B3 /* CPAddBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C431A89D27200C760B3 /* CPAddBannerView.m */; };
 		B9401CC21A89D34C00C760B3 /* Changelog.txt in Resources */ = {isa = PBXBuildFile; fileRef = B9401C471A89D34B00C760B3 /* Changelog.txt */; };
 		B9401CC31A89D34C00C760B3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C4B1A89D34B00C760B3 /* AppDelegate.m */; };
@@ -5348,6 +5314,7 @@
 		97367B541948B5550024AA22 /* UTSA.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UTSA.xcassets; sourceTree = "<group>"; };
 		97367BD51948FC1E0024AA22 /* Visit UA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UA.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		97367BD61948FD320024AA22 /* UA.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UA.xcassets; sourceTree = "<group>"; };
+		973703161C7C1EA30004F5DB /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		9743A7A318F5D7460025FA2E /* Visit UW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9743A7A518F5D7900025FA2E /* UW.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UW.xcassets; sourceTree = "<group>"; };
 		9743A7C918F5DB9C0025FA2E /* photo_for_opening_screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_for_opening_screen.png; sourceTree = "<group>"; };
@@ -5751,7 +5718,6 @@
 		BB0D5F06174369150058D839 /* zbar-samples.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zbar-samples.png"; sourceTree = "<group>"; };
 		BBD2DED91766035400CC0BA1 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
-		BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		C017C03F1562353900912889 /* libiconv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.dylib; path = CampusPublishers/libiconv.dylib; sourceTree = "<group>"; };
 		C049601A1525E8C900882322 /* CPFooterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPFooterView.h; sourceTree = "<group>"; };
 		C049601B1525E8C900882322 /* CPFooterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPFooterView.m; sourceTree = "<group>"; };
@@ -5851,7 +5817,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9401C411A89CE3600C760B3 /* StoreKit.framework in Frameworks */,
 				B9401C401A89CE2D00C760B3 /* MessageUI.framework in Frameworks */,
 				B9401C3F1A89CE2400C760B3 /* EventKitUI.framework in Frameworks */,
 				B9401C3E1A89CE1E00C760B3 /* EventKit.framework in Frameworks */,
@@ -5887,7 +5852,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9701ABAF1B20FC3400B9B99B /* StoreKit.framework in Frameworks */,
 				9701ABB01B20FC3400B9B99B /* AdSupport.framework in Frameworks */,
 				9701ABB11B20FC3400B9B99B /* MessageUI.framework in Frameworks */,
 				9701ABB21B20FC3400B9B99B /* iAd.framework in Frameworks */,
@@ -5923,7 +5887,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9701AC361B20FC5800B9B99B /* StoreKit.framework in Frameworks */,
 				9701AC371B20FC5800B9B99B /* AdSupport.framework in Frameworks */,
 				9701AC381B20FC5800B9B99B /* MessageUI.framework in Frameworks */,
 				9701AC391B20FC5800B9B99B /* iAd.framework in Frameworks */,
@@ -5959,7 +5922,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9717E86B18CA4A2A0074C2F0 /* StoreKit.framework in Frameworks */,
 				9717E86C18CA4A2A0074C2F0 /* AdSupport.framework in Frameworks */,
 				9717E86D18CA4A2A0074C2F0 /* MessageUI.framework in Frameworks */,
 				9717E86E18CA4A2A0074C2F0 /* iAd.framework in Frameworks */,
@@ -5995,7 +5957,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9734A9321C03B8DB003F9269 /* StoreKit.framework in Frameworks */,
 				9734A9331C03B8DB003F9269 /* AdSupport.framework in Frameworks */,
 				9734A9341C03B8DB003F9269 /* MessageUI.framework in Frameworks */,
 				9734A9351C03B8DB003F9269 /* iAd.framework in Frameworks */,
@@ -6031,7 +5992,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97367B0C1948B5140024AA22 /* StoreKit.framework in Frameworks */,
 				97367B0D1948B5140024AA22 /* AdSupport.framework in Frameworks */,
 				97367B0E1948B5140024AA22 /* MessageUI.framework in Frameworks */,
 				97367B0F1948B5140024AA22 /* iAd.framework in Frameworks */,
@@ -6072,7 +6032,6 @@
 				976DEE1719E4712B00451E65 /* EventKitUI.framework in Frameworks */,
 				976DEE1819E4712B00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE1919E4712B00451E65 /* libz.dylib in Frameworks */,
-				97367B8E1948FC1E0024AA22 /* StoreKit.framework in Frameworks */,
 				B9F1384E1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97367B8F1948FC1E0024AA22 /* AdSupport.framework in Frameworks */,
 				97367B901948FC1E0024AA22 /* MessageUI.framework in Frameworks */,
@@ -6108,7 +6067,6 @@
 				976DEE0819E46FCD00451E65 /* EventKitUI.framework in Frameworks */,
 				976DEE0919E46FCD00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0A19E46FCD00451E65 /* libz.dylib in Frameworks */,
-				9743A76118F5D7460025FA2E /* StoreKit.framework in Frameworks */,
 				B9F1384B1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9743A76218F5D7460025FA2E /* AdSupport.framework in Frameworks */,
 				9743A76318F5D7460025FA2E /* MessageUI.framework in Frameworks */,
@@ -6147,7 +6105,6 @@
 				97D200FA19F6D56E00C59762 /* libsqlite3.0.dylib in Frameworks */,
 				B9F1383E1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97D200F819F6D06F00C59762 /* libzbar.a in Frameworks */,
-				975040D318C7D5EA002EE0E3 /* StoreKit.framework in Frameworks */,
 				B950FB1F1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				975040D418C7D5EA002EE0E3 /* AdSupport.framework in Frameworks */,
 				975040D518C7D5EA002EE0E3 /* MessageUI.framework in Frameworks */,
@@ -6180,7 +6137,6 @@
 				976DEDFD19E46DD900451E65 /* EventKit.framework in Frameworks */,
 				976DEDFE19E46DD900451E65 /* EventKitUI.framework in Frameworks */,
 				976DEDFF19E46DD900451E65 /* libsqlite3.0.dylib in Frameworks */,
-				9754259418E5649100219CAA /* StoreKit.framework in Frameworks */,
 				B9F138451AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9754259518E5649100219CAA /* AdSupport.framework in Frameworks */,
 				9754259618E5649100219CAA /* MessageUI.framework in Frameworks */,
@@ -6211,7 +6167,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9754267618E56AB000219CAA /* StoreKit.framework in Frameworks */,
 				9754267718E56AB000219CAA /* AdSupport.framework in Frameworks */,
 				9754267818E56AB000219CAA /* MessageUI.framework in Frameworks */,
 				9754267918E56AB000219CAA /* iAd.framework in Frameworks */,
@@ -6256,7 +6211,6 @@
 				B9F138471AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				979FD48F19DF59450070EB3F /* libzbar.a in Frameworks */,
 				B950FB281A8C910C00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
-				9754275818E626E100219CAA /* StoreKit.framework in Frameworks */,
 				9754275918E626E100219CAA /* AdSupport.framework in Frameworks */,
 				9754275A18E626E100219CAA /* MessageUI.framework in Frameworks */,
 				9754275B18E626E100219CAA /* iAd.framework in Frameworks */,
@@ -6283,6 +6237,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9737031A1C7CE4550004F5DB /* StoreKit.framework in Frameworks */,
 				979FD47D19DF56410070EB3F /* CoreData.framework in Frameworks */,
 				97B9B9E11A08285B002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9B9E21A08285B002222DA /* EventKit.framework in Frameworks */,
@@ -6290,7 +6245,6 @@
 				97B9B9E41A08285B002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9E51A08285B002222DA /* libz.dylib in Frameworks */,
 				B9F138481AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
-				9754283A18E62D8300219CAA /* StoreKit.framework in Frameworks */,
 				9754283B18E62D8300219CAA /* AdSupport.framework in Frameworks */,
 				B950FB291A8C910D00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9754283C18E62D8300219CAA /* MessageUI.framework in Frameworks */,
@@ -6319,6 +6273,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9737031B1C7CE5650004F5DB /* StoreKit.framework in Frameworks */,
 				979FD47E19DF56420070EB3F /* CoreData.framework in Frameworks */,
 				97B9B9DD1A07E468002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9B9DE1A07E468002222DA /* EventKit.framework in Frameworks */,
@@ -6326,7 +6281,6 @@
 				97B9B9E01A07E468002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9DC1A07E408002222DA /* libz.dylib in Frameworks */,
 				B9F138491AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
-				9754291C18E6338E00219CAA /* StoreKit.framework in Frameworks */,
 				9754291D18E6338E00219CAA /* AdSupport.framework in Frameworks */,
 				B950FB2A1A8C910E00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9754291E18E6338E00219CAA /* MessageUI.framework in Frameworks */,
@@ -6360,7 +6314,6 @@
 				976DEE0D19E4705400451E65 /* EventKitUI.framework in Frameworks */,
 				976DEE0E19E4705400451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0F19E4705400451E65 /* libz.dylib in Frameworks */,
-				975429FE18E6399800219CAA /* StoreKit.framework in Frameworks */,
 				B9F1384A1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				975429FF18E6399800219CAA /* AdSupport.framework in Frameworks */,
 				97542A0018E6399800219CAA /* MessageUI.framework in Frameworks */,
@@ -6391,7 +6344,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				976BBC8318DAA6FA00929FF6 /* StoreKit.framework in Frameworks */,
+				973703171C7C1EA30004F5DB /* StoreKit.framework in Frameworks */,
 				976BBC8418DAA6FA00929FF6 /* AdSupport.framework in Frameworks */,
 				976BBC8518DAA6FA00929FF6 /* MessageUI.framework in Frameworks */,
 				976BBC8618DAA6FA00929FF6 /* iAd.framework in Frameworks */,
@@ -6432,7 +6385,6 @@
 				97B9BA061A08296B002222DA /* EventKit.framework in Frameworks */,
 				9780B57518C12E7F009F19F7 /* libzbar.a in Frameworks */,
 				971B510A19AD417200E2E54E /* CoreData.framework in Frameworks */,
-				9780B56218C12E7F009F19F7 /* StoreKit.framework in Frameworks */,
 				B9F1383D1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9780B56318C12E7F009F19F7 /* AdSupport.framework in Frameworks */,
 				B950FB1E1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
@@ -6463,7 +6415,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				978311901869EF22009B9212 /* StoreKit.framework in Frameworks */,
 				978311911869EF22009B9212 /* AdSupport.framework in Frameworks */,
 				978311921869EF22009B9212 /* MessageUI.framework in Frameworks */,
 				978311931869EF22009B9212 /* iAd.framework in Frameworks */,
@@ -6499,6 +6450,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				973703191C7CE36E0004F5DB /* StoreKit.framework in Frameworks */,
 				979FD47919DF563B0070EB3F /* CoreData.framework in Frameworks */,
 				97B9B9E61A0828E4002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9B9E71A0828E4002222DA /* EventKit.framework in Frameworks */,
@@ -6506,7 +6458,6 @@
 				97B9B9E91A0828E4002222DA /* libsqlite3.0.dylib in Frameworks */,
 				97B9B9EA1A0828E4002222DA /* libz.dylib in Frameworks */,
 				B9F138441AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
-				97876D6318E4970400614B59 /* StoreKit.framework in Frameworks */,
 				97876D6418E4970400614B59 /* AdSupport.framework in Frameworks */,
 				B950FB251A8C910B00F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				97876D6518E4970400614B59 /* MessageUI.framework in Frameworks */,
@@ -6535,7 +6486,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9792E99C1AE5A1D600F75851 /* StoreKit.framework in Frameworks */,
 				9792E99D1AE5A1D600F75851 /* AdSupport.framework in Frameworks */,
 				9792E99E1AE5A1D600F75851 /* MessageUI.framework in Frameworks */,
 				9792E99F1AE5A1D600F75851 /* iAd.framework in Frameworks */,
@@ -6571,7 +6521,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9792EA261AE5A1F300F75851 /* StoreKit.framework in Frameworks */,
 				9792EA271AE5A1F300F75851 /* AdSupport.framework in Frameworks */,
 				9792EA281AE5A1F300F75851 /* MessageUI.framework in Frameworks */,
 				9792EA291AE5A1F300F75851 /* iAd.framework in Frameworks */,
@@ -6607,7 +6556,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9792EAAE1AE5A1F600F75851 /* StoreKit.framework in Frameworks */,
 				9792EAAF1AE5A1F600F75851 /* AdSupport.framework in Frameworks */,
 				9792EAB01AE5A1F600F75851 /* MessageUI.framework in Frameworks */,
 				9792EAB11AE5A1F600F75851 /* iAd.framework in Frameworks */,
@@ -6643,7 +6591,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9792EB361AE5A1F900F75851 /* StoreKit.framework in Frameworks */,
 				9792EB371AE5A1F900F75851 /* AdSupport.framework in Frameworks */,
 				9792EB381AE5A1F900F75851 /* MessageUI.framework in Frameworks */,
 				9792EB391AE5A1F900F75851 /* iAd.framework in Frameworks */,
@@ -6679,7 +6626,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9792EBBE1AE5A1FC00F75851 /* StoreKit.framework in Frameworks */,
 				9792EBBF1AE5A1FC00F75851 /* AdSupport.framework in Frameworks */,
 				9792EBC01AE5A1FC00F75851 /* MessageUI.framework in Frameworks */,
 				9792EBC11AE5A1FC00F75851 /* iAd.framework in Frameworks */,
@@ -6715,7 +6661,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9792EC461AE5A20100F75851 /* StoreKit.framework in Frameworks */,
 				9792EC471AE5A20100F75851 /* AdSupport.framework in Frameworks */,
 				9792EC481AE5A20100F75851 /* MessageUI.framework in Frameworks */,
 				9792EC491AE5A20100F75851 /* iAd.framework in Frameworks */,
@@ -6751,7 +6696,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9792ECCE1AE5A27600F75851 /* StoreKit.framework in Frameworks */,
 				9792ECCF1AE5A27600F75851 /* AdSupport.framework in Frameworks */,
 				9792ECD01AE5A27600F75851 /* MessageUI.framework in Frameworks */,
 				9792ECD11AE5A27600F75851 /* iAd.framework in Frameworks */,
@@ -6787,7 +6731,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97A84B341C3EF79300B94CAC /* StoreKit.framework in Frameworks */,
 				97A84B351C3EF79300B94CAC /* AdSupport.framework in Frameworks */,
 				97A84B361C3EF79300B94CAC /* MessageUI.framework in Frameworks */,
 				97A84B371C3EF79300B94CAC /* iAd.framework in Frameworks */,
@@ -6823,7 +6766,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97ABE94F18E360F900780496 /* StoreKit.framework in Frameworks */,
 				97ABE95018E360F900780496 /* AdSupport.framework in Frameworks */,
 				97ABE95118E360F900780496 /* MessageUI.framework in Frameworks */,
 				97ABE95218E360F900780496 /* iAd.framework in Frameworks */,
@@ -6859,7 +6801,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97ABEA3418E3969E00780496 /* StoreKit.framework in Frameworks */,
+				973703181C7C20980004F5DB /* StoreKit.framework in Frameworks */,
 				97ABEA3518E3969E00780496 /* AdSupport.framework in Frameworks */,
 				97ABEA3618E3969E00780496 /* MessageUI.framework in Frameworks */,
 				97ABEA3718E3969E00780496 /* iAd.framework in Frameworks */,
@@ -6895,7 +6837,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97ABEB1618E3A67000780496 /* StoreKit.framework in Frameworks */,
 				97ABEB1718E3A67000780496 /* AdSupport.framework in Frameworks */,
 				97ABEB1818E3A67000780496 /* MessageUI.framework in Frameworks */,
 				97ABEB1918E3A67000780496 /* iAd.framework in Frameworks */,
@@ -6931,7 +6872,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97BDFA76192E740900879644 /* StoreKit.framework in Frameworks */,
+				9737031C1C7CE63D0004F5DB /* StoreKit.framework in Frameworks */,
 				97BDFA77192E740900879644 /* AdSupport.framework in Frameworks */,
 				97BDFA78192E740900879644 /* MessageUI.framework in Frameworks */,
 				97BDFA79192E740900879644 /* iAd.framework in Frameworks */,
@@ -6967,7 +6908,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97DF30011954D165003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF30021954D165003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF30031954D165003BA2DF /* MessageUI.framework in Frameworks */,
 				97DF30041954D165003BA2DF /* iAd.framework in Frameworks */,
@@ -7003,7 +6943,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97DF30801954D1DB003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF30811954D1DB003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF30821954D1DB003BA2DF /* MessageUI.framework in Frameworks */,
 				97DF30831954D1DB003BA2DF /* iAd.framework in Frameworks */,
@@ -7039,7 +6978,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97DF30FF1954D1E1003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF31001954D1E1003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF31011954D1E1003BA2DF /* MessageUI.framework in Frameworks */,
 				97DF31021954D1E1003BA2DF /* iAd.framework in Frameworks */,
@@ -7075,7 +7013,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97DF317E1954D1F2003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF317F1954D1F2003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF31801954D1F2003BA2DF /* MessageUI.framework in Frameworks */,
 				97DF31811954D1F2003BA2DF /* iAd.framework in Frameworks */,
@@ -7111,7 +7048,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97DF31FD1954D1FD003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF31FE1954D1FD003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF31FF1954D1FD003BA2DF /* MessageUI.framework in Frameworks */,
 				97DF32001954D1FD003BA2DF /* iAd.framework in Frameworks */,
@@ -7152,7 +7088,6 @@
 				976DEE0319E46EAF00451E65 /* EventKitUI.framework in Frameworks */,
 				976DEE0419E46EAF00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE0519E46EAF00451E65 /* libz.dylib in Frameworks */,
-				97DF327C1954D213003BA2DF /* StoreKit.framework in Frameworks */,
 				B9F138541AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF327D1954D213003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF327E1954D213003BA2DF /* MessageUI.framework in Frameworks */,
@@ -7188,7 +7123,6 @@
 				976DEE1219E470DD00451E65 /* EventKitUI.framework in Frameworks */,
 				976DEE1319E470DD00451E65 /* libsqlite3.0.dylib in Frameworks */,
 				976DEE1419E470DD00451E65 /* libz.dylib in Frameworks */,
-				97DF32FB1954D222003BA2DF /* StoreKit.framework in Frameworks */,
 				B9F138551AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				97DF32FC1954D222003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF32FD1954D222003BA2DF /* MessageUI.framework in Frameworks */,
@@ -7219,7 +7153,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97DF337A1954D230003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF337B1954D230003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF337C1954D230003BA2DF /* MessageUI.framework in Frameworks */,
 				97DF337D1954D230003BA2DF /* iAd.framework in Frameworks */,
@@ -7255,7 +7188,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97DF33F91954D23B003BA2DF /* StoreKit.framework in Frameworks */,
 				97DF33FA1954D23B003BA2DF /* AdSupport.framework in Frameworks */,
 				97DF33FB1954D23B003BA2DF /* MessageUI.framework in Frameworks */,
 				97DF33FC1954D23B003BA2DF /* iAd.framework in Frameworks */,
@@ -7403,6 +7335,7 @@
 		22CFA5FE1524A080004DEE6A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				973703161C7C1EA30004F5DB /* StoreKit.framework */,
 				B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */,
 				B9401C451A89D34B00C760B3 /* GoogleAnalyticsServicesiOS_3.09 */,
 				979FD49619DF5D390070EB3F /* EventKitUI.framework */,
@@ -7412,7 +7345,6 @@
 				9784F71C19B8FE94004CAE99 /* libz.dylib */,
 				971B510919AD417200E2E54E /* CoreData.framework */,
 				C017C03F1562353900912889 /* libiconv.dylib */,
-				BBD2DEDD1766036500CC0BA1 /* StoreKit.framework */,
 				BBD2DEDB1766035C00CC0BA1 /* AdSupport.framework */,
 				BBD2DED91766035400CC0BA1 /* MessageUI.framework */,
 				C0A700F71562237500613516 /* CoreVideo.framework */,
@@ -10011,6 +9943,11 @@
 				TargetAttributes = {
 					9717E83418CA4A2A0074C2F0 = {
 						DevelopmentTeam = QR9N5T8L75;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
 					};
 					97367AD51948B5140024AA22 = {
 						DevelopmentTeam = QR9N5T8L75;
@@ -10041,6 +9978,11 @@
 					};
 					976BBC4C18DAA6FA00929FF6 = {
 						DevelopmentTeam = QR9N5T8L75;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
 					};
 					9780B52B18C12E7F009F19F7 = {
 						DevelopmentTeam = QR9N5T8L75;
@@ -15310,6 +15252,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15336,8 +15279,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unl;
 				PRODUCT_NAME = "Visit UNL";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -15352,6 +15295,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15375,8 +15319,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unl;
 				PRODUCT_NAME = "Visit UNL";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -15391,6 +15335,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15414,8 +15359,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unl;
 				PRODUCT_NAME = "Visit UNL";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -15430,6 +15375,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15453,8 +15399,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unl;
 				PRODUCT_NAME = "Visit UNL";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -15632,6 +15578,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"${SRCROOT}",
 					"$(PROJECT_DIR)",
@@ -15674,6 +15621,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"${SRCROOT}",
 					"$(PROJECT_DIR)",
@@ -15713,6 +15661,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"${SRCROOT}",
 					"$(PROJECT_DIR)",
@@ -15752,6 +15701,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"${SRCROOT}",
 					"$(PROJECT_DIR)",
@@ -15791,6 +15741,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15833,6 +15784,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15872,6 +15824,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15911,6 +15864,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15950,6 +15904,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -15992,6 +15947,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16031,6 +15987,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16070,6 +16027,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16109,6 +16067,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16134,8 +16093,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.visitumd;
 				PRODUCT_NAME = "Visit UMD";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "$(inherited)";
 				WRAPPER_EXTENSION = app;
@@ -16150,6 +16109,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16172,8 +16132,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.visitumd;
 				PRODUCT_NAME = "Visit UMD";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "$(inherited)";
 				WRAPPER_EXTENSION = app;
@@ -16188,6 +16148,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16210,8 +16171,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.visitumd;
 				PRODUCT_NAME = "Visit UMD";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "$(inherited)";
 				WRAPPER_EXTENSION = app;
@@ -16226,6 +16187,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16248,8 +16210,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.visitumd;
 				PRODUCT_NAME = "Visit UMD";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "$(inherited)";
 				WRAPPER_EXTENSION = app;
@@ -16264,6 +16226,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16306,6 +16269,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16345,6 +16309,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16384,6 +16349,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16423,6 +16389,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
@@ -16462,6 +16429,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
@@ -16498,6 +16466,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
@@ -16534,6 +16503,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
@@ -16570,6 +16540,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16613,6 +16584,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16653,6 +16625,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16693,6 +16666,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16733,6 +16707,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16759,8 +16734,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.towson;
 				PRODUCT_NAME = "Visit Towson";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16775,6 +16750,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16798,8 +16774,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.towson;
 				PRODUCT_NAME = "Visit Towson";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16814,6 +16790,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16837,8 +16814,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.towson;
 				PRODUCT_NAME = "Visit Towson";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16853,6 +16830,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16876,8 +16854,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.towson;
 				PRODUCT_NAME = "Visit Towson";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16890,8 +16868,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon IUPUI";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage IUPUI";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Uttam Shah (HY68U46N47)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Uttam Shah (HY68U46N47)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16918,8 +16897,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.iupui;
 				PRODUCT_NAME = "Visit IUPUI";
-				PROVISIONING_PROFILE = "1ce049e3-ccbe-43de-b98a-5ee713651677";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1ce049e3-ccbe-43de-b98a-5ee713651677";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -16935,6 +16914,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16958,8 +16938,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.iupui;
 				PRODUCT_NAME = "Visit IUPUI";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -16975,6 +16955,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -16998,8 +16979,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.iupui;
 				PRODUCT_NAME = "Visit IUPUI";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -17015,6 +16996,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17038,8 +17020,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.iupui;
 				PRODUCT_NAME = "Visit IUPUI";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "${SRCROOT}";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -17055,6 +17037,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17097,6 +17080,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17136,6 +17120,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17175,6 +17160,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17214,6 +17200,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17240,8 +17227,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unm;
 				PRODUCT_NAME = "Visit UNM";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17256,6 +17243,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17279,8 +17267,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unm;
 				PRODUCT_NAME = "Visit UNM";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17295,6 +17283,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17318,8 +17307,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unm;
 				PRODUCT_NAME = "Visit UNM";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17334,6 +17323,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17357,8 +17347,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.unm;
 				PRODUCT_NAME = "Visit UNM";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17371,8 +17361,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon Rutgers";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage Rutgers";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Uttam Shah (HY68U46N47)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Uttam Shah (HY68U46N47)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17399,8 +17390,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.rutgers;
 				PRODUCT_NAME = "Visit Rutgers";
-				PROVISIONING_PROFILE = "1ce049e3-ccbe-43de-b98a-5ee713651677";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1ce049e3-ccbe-43de-b98a-5ee713651677";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17415,6 +17406,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17438,8 +17430,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.rutgers;
 				PRODUCT_NAME = "Visit Rutgers";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17454,6 +17446,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17477,8 +17470,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.rutgers;
 				PRODUCT_NAME = "Visit Rutgers";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17493,6 +17486,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17516,8 +17510,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.rutgers;
 				PRODUCT_NAME = "Visit Rutgers";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17532,6 +17526,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17559,8 +17554,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -17576,6 +17571,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17600,8 +17596,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -17617,6 +17613,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17641,8 +17638,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -17658,6 +17655,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17682,8 +17680,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -17699,6 +17697,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17725,8 +17724,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fsu;
 				PRODUCT_NAME = "Visit FSU";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17741,6 +17740,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17764,8 +17764,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fsu;
 				PRODUCT_NAME = "Visit FSU";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17780,6 +17780,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17803,8 +17804,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fsu;
 				PRODUCT_NAME = "Visit FSU";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17819,6 +17820,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17842,8 +17844,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.fsu;
 				PRODUCT_NAME = "Visit FSU";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17858,6 +17860,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17900,6 +17903,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17939,6 +17943,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -17978,6 +17983,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18017,6 +18023,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18059,6 +18066,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18098,6 +18106,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18137,6 +18146,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18176,6 +18186,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18218,6 +18229,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18257,6 +18269,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18296,6 +18309,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18335,6 +18349,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18377,6 +18392,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18416,6 +18432,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18455,6 +18472,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18494,6 +18512,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18536,6 +18555,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18575,6 +18595,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18614,6 +18635,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18653,6 +18675,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18695,6 +18718,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18734,6 +18758,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18773,6 +18798,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18812,6 +18838,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18854,6 +18881,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18893,6 +18921,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -18932,6 +18961,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19295,8 +19325,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon UHM";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage UHM";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19323,8 +19354,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19337,8 +19368,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon UHM";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage UHM";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19362,8 +19394,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19376,8 +19408,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon UHM";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage UHM";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19401,8 +19434,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19415,8 +19448,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon UHM";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage UHM";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19440,8 +19474,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19456,6 +19490,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19498,6 +19533,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19537,6 +19573,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19576,6 +19613,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19615,6 +19653,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19641,8 +19680,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.und;
 				PRODUCT_NAME = "Visit UND";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19657,6 +19696,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19680,8 +19720,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.und;
 				PRODUCT_NAME = "Visit UND";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19696,6 +19736,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19719,8 +19760,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.und;
 				PRODUCT_NAME = "Visit UND";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19735,6 +19776,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19758,8 +19800,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.und;
 				PRODUCT_NAME = "Visit UND";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19774,6 +19816,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19816,6 +19859,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19855,6 +19899,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19894,6 +19939,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19933,6 +19979,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -19975,6 +20022,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20014,6 +20062,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20053,6 +20102,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20092,6 +20142,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20134,6 +20185,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20173,6 +20225,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20212,6 +20265,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20251,6 +20305,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20293,6 +20348,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20332,6 +20388,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20371,6 +20428,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20410,6 +20468,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20452,6 +20511,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20491,6 +20551,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20530,6 +20591,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20569,6 +20631,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20611,6 +20674,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20650,6 +20714,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20689,6 +20754,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20728,6 +20794,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20770,6 +20837,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20809,6 +20877,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20848,6 +20917,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20887,6 +20957,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20929,6 +21000,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -20968,6 +21040,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -21007,6 +21080,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
