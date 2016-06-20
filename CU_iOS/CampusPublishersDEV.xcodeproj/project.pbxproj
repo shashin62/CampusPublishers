@@ -1622,7 +1622,6 @@
 		9735AF7E1D0FACC30018E8E9 /* OSU.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF7D1D0FACC30018E8E9 /* OSU.xcassets */; };
 		9735AF7F1D0FACCA0018E8E9 /* CSULB.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF7B1D0FACB00018E8E9 /* CSULB.xcassets */; };
 		9735AF801D0FACCF0018E8E9 /* OSU.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF7D1D0FACC30018E8E9 /* OSU.xcassets */; };
-		9735AF871D0FAFB40018E8E9 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
 		9735AF921D0FB08B0018E8E9 /* CSULB-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF8F1D0FB08B0018E8E9 /* CSULB-Config.plist */; };
 		9735AF931D0FB08B0018E8E9 /* CSULB-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF8F1D0FB08B0018E8E9 /* CSULB-Config.plist */; };
 		9735AF941D0FB08B0018E8E9 /* CSULB-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF901D0FB08B0018E8E9 /* CSULB-Info.plist */; };
@@ -1793,12 +1792,6 @@
 		97367BCD1948FC1E0024AA22 /* zbar-samples.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0D5F06174369150058D839 /* zbar-samples.png */; };
 		97367BD71948FD320024AA22 /* UA.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97367BD61948FD320024AA22 /* UA.xcassets */; };
 		97367BD81948FD320024AA22 /* UA.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97367BD61948FD320024AA22 /* UA.xcassets */; };
-		973703171C7C1EA30004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
-		973703181C7C20980004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
-		973703191C7CE36E0004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
-		9737031A1C7CE4550004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
-		9737031B1C7CE5650004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
-		9737031C1C7CE63D0004F5DB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 973703161C7C1EA30004F5DB /* StoreKit.framework */; };
 		9743A72C18F5D7460025FA2E /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
 		9743A72D18F5D7460025FA2E /* CPSwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = C04960451525F60B00882322 /* CPSwipeView.m */; };
 		9743A72E18F5D7460025FA2E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA60B1524A080004DEE6A /* main.m */; };
@@ -2898,6 +2891,8 @@
 		97876DD018E4CEE300614B59 /* FSU-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97876DAC18E4CEE300614B59 /* FSU-Info.plist */; };
 		97876E0C18E4CEE300614B59 /* photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */; };
 		97876E0D18E4CEE300614B59 /* photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */; };
+		979052911D0FC83E0011CE78 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052901D0FC83E0011CE78 /* StoreKit.framework */; };
+		979052941D10B2970011CE78 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052901D0FC83E0011CE78 /* StoreKit.framework */; };
 		9792E9651AE5A1D600F75851 /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
 		9792E9661AE5A1D600F75851 /* CPSwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = C04960451525F60B00882322 /* CPSwipeView.m */; };
 		9792E9671AE5A1D600F75851 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA60B1524A080004DEE6A /* main.m */; };
@@ -5578,7 +5573,6 @@
 		97367B541948B5550024AA22 /* UTSA.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UTSA.xcassets; sourceTree = "<group>"; };
 		97367BD51948FC1E0024AA22 /* Visit UA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UA.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		97367BD61948FD320024AA22 /* UA.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UA.xcassets; sourceTree = "<group>"; };
-		973703161C7C1EA30004F5DB /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		9743A7A318F5D7460025FA2E /* Visit UW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9743A7A518F5D7900025FA2E /* UW.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UW.xcassets; sourceTree = "<group>"; };
 		9743A7C918F5DB9C0025FA2E /* photo_for_opening_screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_for_opening_screen.png; sourceTree = "<group>"; };
@@ -5707,6 +5701,7 @@
 		97876DAB18E4CEE300614B59 /* FSU-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FSU-Config.plist"; sourceTree = "<group>"; };
 		97876DAC18E4CEE300614B59 /* FSU-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FSU-Info.plist"; sourceTree = "<group>"; };
 		97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo-for-opening-screen.png"; sourceTree = "<group>"; };
+		979052901D0FC83E0011CE78 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		9792E9E91AE5A1D600F75851 /* Visit LSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit LSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EA731AE5A1F300F75851 /* Visit GSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit GSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EAFB1AE5A1F600F75851 /* Visit UVa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UVa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -6256,6 +6251,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				979052941D10B2970011CE78 /* StoreKit.framework in Frameworks */,
 				9735AEAA1D07620C0018E8E9 /* AdSupport.framework in Frameworks */,
 				9735AEAB1D07620C0018E8E9 /* MessageUI.framework in Frameworks */,
 				9735AEAC1D07620C0018E8E9 /* iAd.framework in Frameworks */,
@@ -6291,7 +6287,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9735AF871D0FAFB40018E8E9 /* StoreKit.framework in Frameworks */,
+				979052911D0FC83E0011CE78 /* StoreKit.framework in Frameworks */,
 				9735AF301D07621C0018E8E9 /* AdSupport.framework in Frameworks */,
 				9735AF311D07621C0018E8E9 /* MessageUI.framework in Frameworks */,
 				9735AF321D07621C0018E8E9 /* iAd.framework in Frameworks */,
@@ -6572,7 +6568,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9737031A1C7CE4550004F5DB /* StoreKit.framework in Frameworks */,
 				979FD47D19DF56410070EB3F /* CoreData.framework in Frameworks */,
 				97B9B9E11A08285B002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9B9E21A08285B002222DA /* EventKit.framework in Frameworks */,
@@ -6608,7 +6603,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9737031B1C7CE5650004F5DB /* StoreKit.framework in Frameworks */,
 				979FD47E19DF56420070EB3F /* CoreData.framework in Frameworks */,
 				97B9B9DD1A07E468002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9B9DE1A07E468002222DA /* EventKit.framework in Frameworks */,
@@ -6679,7 +6673,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				973703171C7C1EA30004F5DB /* StoreKit.framework in Frameworks */,
 				976BBC8418DAA6FA00929FF6 /* AdSupport.framework in Frameworks */,
 				976BBC8518DAA6FA00929FF6 /* MessageUI.framework in Frameworks */,
 				976BBC8618DAA6FA00929FF6 /* iAd.framework in Frameworks */,
@@ -6785,7 +6778,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				973703191C7CE36E0004F5DB /* StoreKit.framework in Frameworks */,
 				979FD47919DF563B0070EB3F /* CoreData.framework in Frameworks */,
 				97B9B9E61A0828E4002222DA /* CoreTelephony.framework in Frameworks */,
 				97B9B9E71A0828E4002222DA /* EventKit.framework in Frameworks */,
@@ -7136,7 +7128,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				973703181C7C20980004F5DB /* StoreKit.framework in Frameworks */,
 				97ABEA3518E3969E00780496 /* AdSupport.framework in Frameworks */,
 				97ABEA3618E3969E00780496 /* MessageUI.framework in Frameworks */,
 				97ABEA3718E3969E00780496 /* iAd.framework in Frameworks */,
@@ -7207,7 +7198,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9737031C1C7CE63D0004F5DB /* StoreKit.framework in Frameworks */,
 				97BDFA77192E740900879644 /* AdSupport.framework in Frameworks */,
 				97BDFA78192E740900879644 /* MessageUI.framework in Frameworks */,
 				97BDFA79192E740900879644 /* iAd.framework in Frameworks */,
@@ -7674,7 +7664,7 @@
 		22CFA5FE1524A080004DEE6A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				973703161C7C1EA30004F5DB /* StoreKit.framework */,
+				979052901D0FC83E0011CE78 /* StoreKit.framework */,
 				B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */,
 				B9401C451A89D34B00C760B3 /* GoogleAnalyticsServicesiOS_3.09 */,
 				979FD49619DF5D390070EB3F /* EventKitUI.framework */,
@@ -10337,6 +10327,14 @@
 				LastUpgradeCheck = 0710;
 				TargetAttributes = {
 					9717E83418CA4A2A0074C2F0 = {
+						DevelopmentTeam = QR9N5T8L75;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
+					};
+					9735AEF71D07621C0018E8E9 = {
 						DevelopmentTeam = QR9N5T8L75;
 						SystemCapabilities = {
 							com.apple.InAppPurchase = {
@@ -16198,8 +16196,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon OSU";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage OSU";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16227,8 +16225,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.osu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16241,8 +16239,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon OSU";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage OSU";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16267,8 +16265,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.osu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16281,8 +16279,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon OSU";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage OSU";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16307,8 +16305,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.osu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16321,8 +16319,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon OSU";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage OSU";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16347,8 +16345,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.osu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16361,8 +16359,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon CSULB";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage CSULB";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16390,8 +16388,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.csulb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16404,8 +16402,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon CSULB";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage CSULB";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16430,8 +16428,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.csulb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16444,8 +16442,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon CSULB";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage CSULB";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16470,8 +16468,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.csulb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -16484,8 +16482,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon CSULB";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage CSULB";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Redrock Publishing Co. (QR9N5T8L75)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -16510,8 +16508,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.csulb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
