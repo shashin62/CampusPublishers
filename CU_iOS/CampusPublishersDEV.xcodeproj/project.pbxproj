@@ -2891,8 +2891,7 @@
 		97876DD018E4CEE300614B59 /* FSU-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97876DAC18E4CEE300614B59 /* FSU-Info.plist */; };
 		97876E0C18E4CEE300614B59 /* photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */; };
 		97876E0D18E4CEE300614B59 /* photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */; };
-		979052911D0FC83E0011CE78 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052901D0FC83E0011CE78 /* StoreKit.framework */; };
-		979052941D10B2970011CE78 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052901D0FC83E0011CE78 /* StoreKit.framework */; };
+		979052961D1896FD0011CE78 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052951D1896FC0011CE78 /* StoreKit.framework */; };
 		9792E9651AE5A1D600F75851 /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
 		9792E9661AE5A1D600F75851 /* CPSwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = C04960451525F60B00882322 /* CPSwipeView.m */; };
 		9792E9671AE5A1D600F75851 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA60B1524A080004DEE6A /* main.m */; };
@@ -5701,7 +5700,7 @@
 		97876DAB18E4CEE300614B59 /* FSU-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FSU-Config.plist"; sourceTree = "<group>"; };
 		97876DAC18E4CEE300614B59 /* FSU-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FSU-Info.plist"; sourceTree = "<group>"; };
 		97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo-for-opening-screen.png"; sourceTree = "<group>"; };
-		979052901D0FC83E0011CE78 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		979052951D1896FC0011CE78 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		9792E9E91AE5A1D600F75851 /* Visit LSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit LSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EA731AE5A1F300F75851 /* Visit GSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit GSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EAFB1AE5A1F600F75851 /* Visit UVa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UVa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -6251,7 +6250,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				979052941D10B2970011CE78 /* StoreKit.framework in Frameworks */,
+				979052961D1896FD0011CE78 /* StoreKit.framework in Frameworks */,
 				9735AEAA1D07620C0018E8E9 /* AdSupport.framework in Frameworks */,
 				9735AEAB1D07620C0018E8E9 /* MessageUI.framework in Frameworks */,
 				9735AEAC1D07620C0018E8E9 /* iAd.framework in Frameworks */,
@@ -6287,7 +6286,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				979052911D0FC83E0011CE78 /* StoreKit.framework in Frameworks */,
 				9735AF301D07621C0018E8E9 /* AdSupport.framework in Frameworks */,
 				9735AF311D07621C0018E8E9 /* MessageUI.framework in Frameworks */,
 				9735AF321D07621C0018E8E9 /* iAd.framework in Frameworks */,
@@ -7664,7 +7662,7 @@
 		22CFA5FE1524A080004DEE6A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				979052901D0FC83E0011CE78 /* StoreKit.framework */,
+				979052951D1896FC0011CE78 /* StoreKit.framework */,
 				B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */,
 				B9401C451A89D34B00C760B3 /* GoogleAnalyticsServicesiOS_3.09 */,
 				979FD49619DF5D390070EB3F /* EventKitUI.framework */,
@@ -10327,6 +10325,14 @@
 				LastUpgradeCheck = 0710;
 				TargetAttributes = {
 					9717E83418CA4A2A0074C2F0 = {
+						DevelopmentTeam = QR9N5T8L75;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
+					};
+					9735AE711D07620C0018E8E9 = {
 						DevelopmentTeam = QR9N5T8L75;
 						SystemCapabilities = {
 							com.apple.InAppPurchase = {
