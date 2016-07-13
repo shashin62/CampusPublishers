@@ -922,6 +922,7 @@
 		9350DE291AB0DA2000489EAA /* visited.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD261AB0DA2000489EAA /* visited.png */; };
 		9350DE2A1AB0DA2000489EAA /* visited.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD261AB0DA2000489EAA /* visited.png */; };
 		9350DE2B1AB0DA2000489EAA /* visited.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD261AB0DA2000489EAA /* visited.png */; };
+		970046881D36C0A600C07FE7 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052951D1896FC0011CE78 /* StoreKit.framework */; };
 		9701AB781B20FC3400B9B99B /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
 		9701AB791B20FC3400B9B99B /* CPSwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = C04960451525F60B00882322 /* CPSwipeView.m */; };
 		9701AB7A1B20FC3400B9B99B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA60B1524A080004DEE6A /* main.m */; };
@@ -1243,6 +1244,7 @@
 		9717E92C18CA7B580074C2F0 /* UNL-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9717E8ED18CA7B580074C2F0 /* UNL-Info.plist */; };
 		9717E93018CA7BB40074C2F0 /* UNL.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9717E92E18CA7BB40074C2F0 /* UNL.xcassets */; };
 		971B510A19AD417200E2E54E /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 971B510919AD417200E2E54E /* CoreData.framework */; };
+		97204B6E1D2EB15A007CB013 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052951D1896FC0011CE78 /* StoreKit.framework */; };
 		972A293819368A1B00CD8350 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 972A293619368A1B00CD8350 /* icon.png */; };
 		972A293919368A1B00CD8350 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 972A293619368A1B00CD8350 /* icon.png */; };
 		972A293A19368A1B00CD8350 /* icon~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 972A293719368A1B00CD8350 /* icon~ipad.png */; };
@@ -5702,7 +5704,7 @@
 		97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo-for-opening-screen.png"; sourceTree = "<group>"; };
 		979052951D1896FC0011CE78 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		9792E9E91AE5A1D600F75851 /* Visit LSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit LSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9792EA731AE5A1F300F75851 /* Visit GSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit GSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9792EA731AE5A1F300F75851 /* Visit Georgia State University.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit Georgia State University.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EAFB1AE5A1F600F75851 /* Visit UVa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UVa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EB831AE5A1F900F75851 /* Visit PSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit PSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EC0B1AE5A1FC00F75851 /* Visit UNCC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UNCC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -6496,6 +6498,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97204B6E1D2EB15A007CB013 /* StoreKit.framework in Frameworks */,
 				9754267718E56AB000219CAA /* AdSupport.framework in Frameworks */,
 				9754267818E56AB000219CAA /* MessageUI.framework in Frameworks */,
 				9754267918E56AB000219CAA /* iAd.framework in Frameworks */,
@@ -6846,6 +6849,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				970046881D36C0A600C07FE7 /* StoreKit.framework in Frameworks */,
 				9792EA271AE5A1F300F75851 /* AdSupport.framework in Frameworks */,
 				9792EA281AE5A1F300F75851 /* MessageUI.framework in Frameworks */,
 				9792EA291AE5A1F300F75851 /* iAd.framework in Frameworks */,
@@ -7643,7 +7647,7 @@
 				97DF33C01954D230003BA2DF /* Visit MTSU.app */,
 				97DF343F1954D23B003BA2DF /* Visit UCO.app */,
 				9792E9E91AE5A1D600F75851 /* Visit LSU.app */,
-				9792EA731AE5A1F300F75851 /* Visit GSU.app */,
+				9792EA731AE5A1F300F75851 /* Visit Georgia State University.app */,
 				9792EAFB1AE5A1F600F75851 /* Visit UVa.app */,
 				9792EB831AE5A1F900F75851 /* Visit PSU.app */,
 				9792EC0B1AE5A1FC00F75851 /* Visit UNCC.app */,
@@ -9990,7 +9994,7 @@
 			);
 			name = GSU;
 			productName = CampusPublishers;
-			productReference = 9792EA731AE5A1F300F75851 /* Visit GSU.app */;
+			productReference = 9792EA731AE5A1F300F75851 /* Visit Georgia State University.app */;
 			productType = "com.apple.product-type.application";
 		};
 		9792EA751AE5A1F600F75851 /* UVa */ = {
@@ -17365,8 +17369,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.shsu;
 				PRODUCT_NAME = "Visit SHSU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17402,8 +17406,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.shsu;
 				PRODUCT_NAME = "Visit SHSU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17439,8 +17443,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.shsu;
 				PRODUCT_NAME = "Visit SHSU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -17476,8 +17480,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.shsu;
 				PRODUCT_NAME = "Visit SHSU";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EE00E009-CD66-4675-9854-42BA1E579D05";
+				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -19001,7 +19005,7 @@
 					"-ObjC",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.gsu;
-				PRODUCT_NAME = "Visit GSU";
+				PRODUCT_NAME = "Visit Georgia State University";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -19041,7 +19045,7 @@
 					"-ObjC",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.gsu;
-				PRODUCT_NAME = "Visit GSU";
+				PRODUCT_NAME = "Visit Georgia State University";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -19081,7 +19085,7 @@
 					"-ObjC",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.gsu;
-				PRODUCT_NAME = "Visit GSU";
+				PRODUCT_NAME = "Visit Georgia State University";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -19121,7 +19125,7 @@
 					"-ObjC",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.gsu;
-				PRODUCT_NAME = "Visit GSU";
+				PRODUCT_NAME = "Visit Georgia State University";
 				PROVISIONING_PROFILE = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "84afa5d3-35b2-4be7-9877-a346cf7573a0";
 				TARGETED_DEVICE_FAMILY = "1,2";
