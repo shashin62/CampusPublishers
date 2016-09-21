@@ -922,7 +922,6 @@
 		9350DE291AB0DA2000489EAA /* visited.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD261AB0DA2000489EAA /* visited.png */; };
 		9350DE2A1AB0DA2000489EAA /* visited.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD261AB0DA2000489EAA /* visited.png */; };
 		9350DE2B1AB0DA2000489EAA /* visited.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD261AB0DA2000489EAA /* visited.png */; };
-		970046881D36C0A600C07FE7 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052951D1896FC0011CE78 /* StoreKit.framework */; };
 		9701AB781B20FC3400B9B99B /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
 		9701AB791B20FC3400B9B99B /* CPSwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = C04960451525F60B00882322 /* CPSwipeView.m */; };
 		9701AB7A1B20FC3400B9B99B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA60B1524A080004DEE6A /* main.m */; };
@@ -1244,7 +1243,6 @@
 		9717E92C18CA7B580074C2F0 /* UNL-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9717E8ED18CA7B580074C2F0 /* UNL-Info.plist */; };
 		9717E93018CA7BB40074C2F0 /* UNL.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9717E92E18CA7BB40074C2F0 /* UNL.xcassets */; };
 		971B510A19AD417200E2E54E /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 971B510919AD417200E2E54E /* CoreData.framework */; };
-		97204B6E1D2EB15A007CB013 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052951D1896FC0011CE78 /* StoreKit.framework */; };
 		972A293819368A1B00CD8350 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 972A293619368A1B00CD8350 /* icon.png */; };
 		972A293919368A1B00CD8350 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 972A293619368A1B00CD8350 /* icon.png */; };
 		972A293A19368A1B00CD8350 /* icon~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 972A293719368A1B00CD8350 /* icon~ipad.png */; };
@@ -1477,7 +1475,6 @@
 		9735AED01D07620C0018E8E9 /* ImageIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DB221AB0D09500489EAA /* ImageIcon.png */; };
 		9735AED11D07620C0018E8E9 /* DirectionIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DB201AB0D09500489EAA /* DirectionIcon.png */; };
 		9735AED21D07620C0018E8E9 /* marker_icon_blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD211AB0DA2000489EAA /* marker_icon_blue.png */; };
-		9735AED31D07620C0018E8E9 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97A84B871C45A1C700B94CAC /* Photo-for-opening-screen.png */; };
 		9735AED41D07620C0018E8E9 /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD241AB0DA2000489EAA /* red.png */; };
 		9735AED51D07620C0018E8E9 /* marker_icon_blue1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DD221AB0DA2000489EAA /* marker_icon_blue1.png */; };
 		9735AED61D07620C0018E8E9 /* ImagePlaceholder.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DB231AB0D09500489EAA /* ImagePlaceholder.png */; };
@@ -1627,13 +1624,11 @@
 		9735AF921D0FB08B0018E8E9 /* CSULB-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF8F1D0FB08B0018E8E9 /* CSULB-Config.plist */; };
 		9735AF931D0FB08B0018E8E9 /* CSULB-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF8F1D0FB08B0018E8E9 /* CSULB-Config.plist */; };
 		9735AF941D0FB08B0018E8E9 /* CSULB-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF901D0FB08B0018E8E9 /* CSULB-Info.plist */; };
-		9735AF951D0FB08B0018E8E9 /* CSULB-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF901D0FB08B0018E8E9 /* CSULB-Info.plist */; };
 		9735AF961D0FB08B0018E8E9 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF911D0FB08B0018E8E9 /* Photo-for-opening-screen.png */; };
 		9735AF971D0FB08B0018E8E9 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF911D0FB08B0018E8E9 /* Photo-for-opening-screen.png */; };
 		9735AF9C1D0FB0A40018E8E9 /* ORS-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF991D0FB0A40018E8E9 /* ORS-Config.plist */; };
 		9735AF9D1D0FB0A40018E8E9 /* ORS-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF991D0FB0A40018E8E9 /* ORS-Config.plist */; };
 		9735AF9E1D0FB0A40018E8E9 /* ORS-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF9A1D0FB0A40018E8E9 /* ORS-Info.plist */; };
-		9735AF9F1D0FB0A40018E8E9 /* ORS-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF9A1D0FB0A40018E8E9 /* ORS-Info.plist */; };
 		9735AFA01D0FB0A40018E8E9 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF9B1D0FB0A40018E8E9 /* Photo-for-opening-screen.png */; };
 		9735AFA11D0FB0A40018E8E9 /* Photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 9735AF9B1D0FB0A40018E8E9 /* Photo-for-opening-screen.png */; };
 		97367AD71948B5140024AA22 /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
@@ -2532,6 +2527,8 @@
 		97542AA518E63D1B00219CAA /* UNLV-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97542A6718E63D1B00219CAA /* UNLV-Config.plist */; };
 		97542AA618E63D1B00219CAA /* UNLV-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97542A6718E63D1B00219CAA /* UNLV-Config.plist */; };
 		97542AA718E63D1B00219CAA /* UNLV-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97542A6818E63D1B00219CAA /* UNLV-Info.plist */; };
+		97560D041D8B3FEC00785016 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97560D031D8B3FEC00785016 /* StoreKit.framework */; };
+		97560D051D8B41A700785016 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97560D031D8B3FEC00785016 /* StoreKit.framework */; };
 		975F25201919967200EE1163 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 975F251F1919967200EE1163 /* icon@2x.png */; };
 		975F25211919967200EE1163 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 975F251F1919967200EE1163 /* icon@2x.png */; };
 		9766E4041919943800A5C9A5 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9766E4021919943800A5C9A5 /* icon.png */; };
@@ -2893,7 +2890,6 @@
 		97876DD018E4CEE300614B59 /* FSU-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97876DAC18E4CEE300614B59 /* FSU-Info.plist */; };
 		97876E0C18E4CEE300614B59 /* photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */; };
 		97876E0D18E4CEE300614B59 /* photo-for-opening-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */; };
-		979052961D1896FD0011CE78 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 979052951D1896FC0011CE78 /* StoreKit.framework */; };
 		9792E9651AE5A1D600F75851 /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
 		9792E9661AE5A1D600F75851 /* CPSwipeView.m in Sources */ = {isa = PBXBuildFile; fileRef = C04960451525F60B00882322 /* CPSwipeView.m */; };
 		9792E9671AE5A1D600F75851 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22CFA60B1524A080004DEE6A /* main.m */; };
@@ -5665,6 +5661,7 @@
 		97542A6618E63D1B00219CAA /* photo_for_opening_screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_for_opening_screen.png; sourceTree = "<group>"; };
 		97542A6718E63D1B00219CAA /* UNLV-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UNLV-Config.plist"; sourceTree = "<group>"; };
 		97542A6818E63D1B00219CAA /* UNLV-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UNLV-Info.plist"; sourceTree = "<group>"; };
+		97560D031D8B3FEC00785016 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		975F251F1919967200EE1163 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 		9766E4021919943800A5C9A5 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		9766E4031919943800A5C9A5 /* icon~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon~ipad.png"; sourceTree = "<group>"; };
@@ -5702,7 +5699,6 @@
 		97876DAB18E4CEE300614B59 /* FSU-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FSU-Config.plist"; sourceTree = "<group>"; };
 		97876DAC18E4CEE300614B59 /* FSU-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FSU-Info.plist"; sourceTree = "<group>"; };
 		97876DCD18E4CEE300614B59 /* photo-for-opening-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo-for-opening-screen.png"; sourceTree = "<group>"; };
-		979052951D1896FC0011CE78 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		9792E9E91AE5A1D600F75851 /* Visit LSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit LSU.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EA731AE5A1F300F75851 /* Visit Georgia State University.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit Georgia State University.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9792EAFB1AE5A1F600F75851 /* Visit UVa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UVa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -6252,7 +6248,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				979052961D1896FD0011CE78 /* StoreKit.framework in Frameworks */,
 				9735AEAA1D07620C0018E8E9 /* AdSupport.framework in Frameworks */,
 				9735AEAB1D07620C0018E8E9 /* MessageUI.framework in Frameworks */,
 				9735AEAC1D07620C0018E8E9 /* iAd.framework in Frameworks */,
@@ -6498,7 +6493,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				97204B6E1D2EB15A007CB013 /* StoreKit.framework in Frameworks */,
 				9754267718E56AB000219CAA /* AdSupport.framework in Frameworks */,
 				9754267818E56AB000219CAA /* MessageUI.framework in Frameworks */,
 				9754267918E56AB000219CAA /* iAd.framework in Frameworks */,
@@ -6744,6 +6738,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97560D051D8B41A700785016 /* StoreKit.framework in Frameworks */,
 				978311911869EF22009B9212 /* AdSupport.framework in Frameworks */,
 				978311921869EF22009B9212 /* MessageUI.framework in Frameworks */,
 				978311931869EF22009B9212 /* iAd.framework in Frameworks */,
@@ -6849,7 +6844,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				970046881D36C0A600C07FE7 /* StoreKit.framework in Frameworks */,
 				9792EA271AE5A1F300F75851 /* AdSupport.framework in Frameworks */,
 				9792EA281AE5A1F300F75851 /* MessageUI.framework in Frameworks */,
 				9792EA291AE5A1F300F75851 /* iAd.framework in Frameworks */,
@@ -7130,6 +7124,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97560D041D8B3FEC00785016 /* StoreKit.framework in Frameworks */,
 				97ABEA3518E3969E00780496 /* AdSupport.framework in Frameworks */,
 				97ABEA3618E3969E00780496 /* MessageUI.framework in Frameworks */,
 				97ABEA3718E3969E00780496 /* iAd.framework in Frameworks */,
@@ -7666,7 +7661,7 @@
 		22CFA5FE1524A080004DEE6A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				979052951D1896FC0011CE78 /* StoreKit.framework */,
+				97560D031D8B3FEC00785016 /* StoreKit.framework */,
 				B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */,
 				B9401C451A89D34B00C760B3 /* GoogleAnalyticsServicesiOS_3.09 */,
 				979FD49619DF5D390070EB3F /* EventKitUI.framework */,
@@ -10326,7 +10321,7 @@
 		22CFA5F21524A080004DEE6A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0710;
+				LastUpgradeCheck = 0800;
 				TargetAttributes = {
 					9717E83418CA4A2A0074C2F0 = {
 						DevelopmentTeam = QR9N5T8L75;
@@ -10401,6 +10396,11 @@
 					};
 					97ABE9FD18E3969E00780496 = {
 						DevelopmentTeam = QR9N5T8L75;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
 					};
 					97ABEADF18E3A67000780496 = {
 						DevelopmentTeam = QR9N5T8L75;
@@ -11041,7 +11041,6 @@
 				9735AED01D07620C0018E8E9 /* ImageIcon.png in Resources */,
 				9735AED11D07620C0018E8E9 /* DirectionIcon.png in Resources */,
 				9735AED21D07620C0018E8E9 /* marker_icon_blue.png in Resources */,
-				9735AED31D07620C0018E8E9 /* Photo-for-opening-screen.png in Resources */,
 				9735AED41D07620C0018E8E9 /* red.png in Resources */,
 				9735AED51D07620C0018E8E9 /* marker_icon_blue1.png in Resources */,
 				9735AF801D0FACCF0018E8E9 /* OSU.xcassets in Resources */,
@@ -11059,7 +11058,6 @@
 				9735AF9D1D0FB0A40018E8E9 /* ORS-Config.plist in Resources */,
 				9735AEE11D07620C0018E8E9 /* Default.png in Resources */,
 				9735AEE21D07620C0018E8E9 /* current.png in Resources */,
-				9735AF9F1D0FB0A40018E8E9 /* ORS-Info.plist in Resources */,
 				9735AEE31D07620C0018E8E9 /* zbar-help.html in Resources */,
 				9735AEE41D07620C0018E8E9 /* zbar-helpicons.png in Resources */,
 				9735AEE61D07620C0018E8E9 /* MenuIconPlaceholder.png in Resources */,
@@ -11086,7 +11084,6 @@
 				9735AF521D07621C0018E8E9 /* zbar-back.png in Resources */,
 				9735AF531D07621C0018E8E9 /* MenuIconPlaceholder@2x.png in Resources */,
 				9735AF541D07621C0018E8E9 /* visited.png in Resources */,
-				9735AF951D0FB08B0018E8E9 /* CSULB-Info.plist in Resources */,
 				9735AF551D07621C0018E8E9 /* ImagePlaceholderTwo.png in Resources */,
 				9735AF561D07621C0018E8E9 /* ImageIcon.png in Resources */,
 				9735AF571D07621C0018E8E9 /* DirectionIcon.png in Resources */,
@@ -15409,13 +15406,24 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Uttam Shah (HY68U46N47)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Uttam Shah (HY68U46N47)";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -15424,15 +15432,19 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"${SRCROOT}",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "";
 				ONLY_ACTIVE_ARCH = YES;
 				PROVISIONING_PROFILE = "1ce049e3-ccbe-43de-b98a-5ee713651677";
@@ -15448,22 +15460,37 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				COPY_PHASE_STRIP = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"${SRCROOT}",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
@@ -15495,7 +15522,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-CU/CU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
@@ -15529,7 +15556,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_CAMPUS;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-CU/CU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
@@ -15569,7 +15596,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTEP/UTEP-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -15609,7 +15636,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTEP/UTEP-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -15649,7 +15676,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTEP/UTEP-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -15689,7 +15716,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTEP/UTEP-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -15895,7 +15922,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNL/UNL-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -15935,7 +15962,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNL/UNL-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -15975,7 +16002,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNL/UNL-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16015,7 +16042,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNL/UNL-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16547,7 +16574,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTSA/UTSA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16587,7 +16614,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTSA/UTSA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16627,7 +16654,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTSA/UTSA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16667,7 +16694,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UTSA/UTSA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16710,7 +16737,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UA/UA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16750,7 +16777,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UA/UA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16790,7 +16817,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UA/UA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16830,7 +16857,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UA/UA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16873,7 +16900,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UW/UW-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16913,7 +16940,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UW/UW-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16953,7 +16980,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UW/UW-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -16993,7 +17020,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UW/UW-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17036,7 +17063,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UMD/UMD-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17075,7 +17102,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UMD/UMD-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17114,7 +17141,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UMD/UMD-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17153,7 +17180,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UMD/UMD-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17195,7 +17222,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UWM/UWM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17235,7 +17262,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UWM/UWM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17275,7 +17302,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UWM/UWM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17315,7 +17342,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UWM/UWM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17355,7 +17382,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-SHSU/SHSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17392,7 +17419,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-SHSU/SHSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17429,7 +17456,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-SHSU/SHSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17466,7 +17493,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-SHSU/SHSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17509,7 +17536,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UMICH/UMICH-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17550,7 +17577,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UMICH/UMICH-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17591,7 +17618,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UMICH/UMICH-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17632,7 +17659,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UMICH/UMICH-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17676,7 +17703,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Towson/Towson-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17716,7 +17743,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Towson/Towson-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17756,7 +17783,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Towson/Towson-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17796,7 +17823,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Towson/Towson-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17839,7 +17866,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-IUPUI/IUPUI-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17880,7 +17907,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-IUPUI/IUPUI-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17921,7 +17948,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-IUPUI/IUPUI-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -17962,7 +17989,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-IUPUI/IUPUI-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18006,7 +18033,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNLV/UNLV-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18046,7 +18073,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNLV/UNLV-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18086,7 +18113,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNLV/UNLV-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18126,7 +18153,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNLV/UNLV-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18169,7 +18196,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNM/UNM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18209,7 +18236,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNM/UNM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18249,7 +18276,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNM/UNM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18289,7 +18316,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNM/UNM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18332,7 +18359,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Rutgers/Rutgers-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18372,7 +18399,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Rutgers/Rutgers-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18412,7 +18439,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Rutgers/Rutgers-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18452,7 +18479,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Rutgers/Rutgers-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18481,7 +18508,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage CU";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = QR9N5T8L75;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -18496,7 +18524,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-CU/CU-Info.plist";
 				INFOPLIST_PREPROCESS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18510,8 +18538,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
-				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE = "070738cd-1960-4083-ba4b-30e8acc50301";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE_SPECIFIER = "Redrock General Distribution 3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -18526,7 +18555,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage CU";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = QR9N5T8L75;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -18538,7 +18568,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-CU/CU-Info.plist";
 				INFOPLIST_PREPROCESS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18552,8 +18582,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
-				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE = "070738cd-1960-4083-ba4b-30e8acc50301";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE_SPECIFIER = "Redrock General Distribution 3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -18568,7 +18599,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage CU";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = QR9N5T8L75;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -18580,7 +18612,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-CU/CU-Info.plist";
 				INFOPLIST_PREPROCESS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18594,8 +18626,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
-				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE = "070738cd-1960-4083-ba4b-30e8acc50301";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE_SPECIFIER = "Redrock General Distribution 3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -18610,7 +18643,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage CU";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = QR9N5T8L75;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -18622,7 +18656,7 @@
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-CU/CU-Info.plist";
 				INFOPLIST_PREPROCESS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18636,8 +18670,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.cu;
 				PRODUCT_NAME = "Visit CU";
-				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE = "070738cd-1960-4083-ba4b-30e8acc50301";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE_SPECIFIER = "Redrock General Distribution 3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -18666,7 +18701,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-FSU/FSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18706,7 +18741,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-FSU/FSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18746,7 +18781,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-FSU/FSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18786,7 +18821,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-FSU/FSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18829,7 +18864,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-LSU/LSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18869,7 +18904,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-LSU/LSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18909,7 +18944,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-LSU/LSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18949,7 +18984,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-LSU/LSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -18992,7 +19027,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-GSU/GSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19032,7 +19067,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-GSU/GSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19072,7 +19107,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-GSU/GSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19112,7 +19147,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-GSU/GSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19155,7 +19190,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UVA/UVA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19195,7 +19230,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UVA/UVA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19235,7 +19270,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UVA/UVA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19275,7 +19310,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UVA/UVA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19318,7 +19353,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-PSU/PSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19358,7 +19393,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-PSU/PSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19398,7 +19433,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-PSU/PSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19438,7 +19473,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-PSU/PSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19481,7 +19516,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNCC/UNCC-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19521,7 +19556,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNCC/UNCC-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19561,7 +19596,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNCC/UNCC-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19601,7 +19636,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNCC/UNCC-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19644,7 +19679,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UCA/UCA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19684,7 +19719,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UCA/UCA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19724,7 +19759,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UCA/UCA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19764,7 +19799,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UCA/UCA-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19807,7 +19842,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UM/UM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19847,7 +19882,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UM/UM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19887,7 +19922,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UM/UM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -19927,7 +19962,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UM/UM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20282,7 +20317,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage UHM";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = QR9N5T8L75;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20296,7 +20332,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UHM/UHM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20310,8 +20346,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
-				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE = "070738cd-1960-4083-ba4b-30e8acc50301";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE_SPECIFIER = "Redrock General Distribution 3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -20325,7 +20362,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage UHM";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = QR9N5T8L75;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20336,7 +20374,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UHM/UHM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20350,8 +20388,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
-				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE = "070738cd-1960-4083-ba4b-30e8acc50301";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE_SPECIFIER = "Redrock General Distribution 3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -20365,7 +20404,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage UHM";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = QR9N5T8L75;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20376,7 +20416,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UHM/UHM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20390,8 +20430,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
-				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE = "070738cd-1960-4083-ba4b-30e8acc50301";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE_SPECIFIER = "Redrock General Distribution 3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -20405,7 +20446,8 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage UHM";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = QR9N5T8L75;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20416,7 +20458,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UHM/UHM-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20430,8 +20472,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.campuspublishers.uhm;
 				PRODUCT_NAME = "Visit UHM";
-				PROVISIONING_PROFILE = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE = "070738cd-1960-4083-ba4b-30e8acc50301";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "239b0f80-213d-4ec1-9853-d5a19d803ab3";
+				PROVISIONING_PROFILE_SPECIFIER = "Redrock General Distribution 3";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s arm64";
 				WRAPPER_EXTENSION = app;
@@ -20459,7 +20502,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-USF/USF-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20499,7 +20542,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-USF/USF-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20539,7 +20582,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-USF/USF-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20579,7 +20622,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-USF/USF-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20622,7 +20665,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UND/UND-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20662,7 +20705,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UND/UND-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20702,7 +20745,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UND/UND-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20742,7 +20785,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UND/UND-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20785,7 +20828,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-GIT/GIT-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20825,7 +20868,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-GIT/GIT-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20865,7 +20908,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-GIT/GIT-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20905,7 +20948,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-GIT/GIT-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20948,7 +20991,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-WSU/WSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -20988,7 +21031,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-WSU/WSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21028,7 +21071,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-WSU/WSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21068,7 +21111,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-WSU/WSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21111,7 +21154,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-FAU/FAU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21151,7 +21194,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-FAU/FAU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21191,7 +21234,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-FAU/FAU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21231,7 +21274,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-FAU/FAU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21274,7 +21317,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UWSP/UWSP-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21314,7 +21357,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UWSP/UWSP-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21354,7 +21397,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UWSP/UWSP-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21394,7 +21437,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UWSP/UWSP-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21437,7 +21480,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNCO/UNCO-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21477,7 +21520,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNCO/UNCO-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21517,7 +21560,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNCO/UNCO-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21557,7 +21600,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UNCO/UNCO-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21600,7 +21643,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Wichita/Wichita-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21640,7 +21683,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Wichita/Wichita-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21680,7 +21723,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Wichita/Wichita-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21720,7 +21763,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-Wichita/Wichita-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21763,7 +21806,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UARK/UARK-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21803,7 +21846,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UARK/UARK-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21843,7 +21886,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UARK/UARK-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21883,7 +21926,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-UARK/UARK-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21926,7 +21969,7 @@
 				);
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-MTSU/MTSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -21966,7 +22009,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-MTSU/MTSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -22006,7 +22049,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-MTSU/MTSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -22046,7 +22089,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-MTSU/MTSU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK\"",
@@ -22235,22 +22278,37 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				COPY_PHASE_STRIP = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"${SRCROOT}",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
@@ -22279,7 +22337,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_CAMPUS;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-CU/CU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",
@@ -22302,22 +22360,37 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Goldpost Technologies Inc (VK6Z4345N2)";
 				COPY_PHASE_STRIP = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"${SRCROOT}",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
@@ -22346,7 +22419,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_CAMPUS;
 				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-CU/CU-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/CampusPublishers/UserInterface/Classes/Views/ZBarSDK",

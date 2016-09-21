@@ -106,7 +106,14 @@
     }
     
     self.view.userInteractionEnabled = YES;
-    [_tblView reloadData];
+    //[_tblView reloadData]; Display reload bug fix -Austin
+    /*
+     Okay, so I've just commented out this line because it's more trouble than it's worth. 
+     This is meant to be called when an iPad changes its orientation but in fact it's called
+     on every page for every orientation. This is a waste, and is causing issues on iOS10. 
+     Also nobody uses this app in iPad so the edge cases where I might normally care can and 
+     should be ignored.
+     */
 }
 
 - (void)prepareUIContent
