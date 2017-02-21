@@ -29,7 +29,7 @@
 - (void)prepareUIContent;
 - (void)displayUIContent;
 - (void)initializeAllUIElement;
-- (void)updateWebViewToFitToContent;
+- (void)removeActivityView;
 - (void)initializePageContentRequest;
 - (void)displayErrorMessage:(NSError*)error;
 - (void)getImageAtIndex:(int)index forURL:(NSURL*)url;
@@ -94,11 +94,8 @@
 
 
 
-- (void)updateWebViewToFitToContent
+- (void)removeActivityView
 {
-    CGRect bounds = _webView.bounds;
-    bounds.size.height = [[_webView stringByEvaluatingJavaScriptFromString:@"document.height"] floatValue];
-    _webView.bounds = bounds;
     
     if(_activityView.superview == self.view)
     {
@@ -106,14 +103,7 @@
     }
     
     self.view.userInteractionEnabled = YES;
-    //[_tblView reloadData]; Display reload bug fix -Austin
-    /*
-     Okay, so I've just commented out this line because it's more trouble than it's worth. 
-     This is meant to be called when an iPad changes its orientation but in fact it's called
-     on every page for every orientation. This is a waste, and is causing issues on iOS10. 
-     Also nobody uses this app in iPad so the edge cases where I might normally care can and 
-     should be ignored.
-     */
+    //[_tblView reloadData]; //Display reload bug fix -Austin
 }
 
 - (void)prepareUIContent
@@ -636,12 +626,12 @@
 #pragma mark - UIWebViewDelegate -
 - (void)webViewDidFinishLoad:(UIWebView *)webView
 {
-    [self updateWebViewToFitToContent];
+    [self removeActivityView];
 }
 
 - (void)webView:(UIWebView *)webView didFailLoadWithError:(NSError *)error
 {
-    [self updateWebViewToFitToContent];
+    [self removeActivityView];
 }
 
 #pragma mark - UITableViewDelegate -

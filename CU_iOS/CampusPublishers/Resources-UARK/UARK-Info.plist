@@ -4,11 +4,6 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
-	<key>NSAppTransportSecurity</key>
-	<dict>
-		<key>NSAllowsArbitraryLoads</key>
-		<true/>
-	</dict>
 	<key>CFBundleDisplayName</key>
 	<string>Visit UofA</string>
 	<key>CFBundleExecutable</key>
@@ -51,10 +46,23 @@
 	<string></string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Requirement of the AdMob platform used for targeted advertising. </string>
+	<key>NSCameraUsageDescription</key>
+	<string>Uses camera to allow for scanning of university campus QR codes. </string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Uses some photo library tools to display images. </string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
 	<key>UIStatusBarHidden</key>
 	<true/>
 	<key>UIStatusBarHidden~ipad</key>

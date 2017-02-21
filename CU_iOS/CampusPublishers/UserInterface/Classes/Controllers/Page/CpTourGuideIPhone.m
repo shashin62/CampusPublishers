@@ -1618,7 +1618,7 @@
                 UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Directions"
                                                                 message:@"Select mode of travel"
                                                                delegate:self
-                                                      cancelButtonTitle:@"Cancel" //Was "Driving"
+                                                      cancelButtonTitle:@"Driving" //Was "Driving"
                                                       otherButtonTitles:@"Walking",nil];
                 alert.tag=22222;
                 [alert show];

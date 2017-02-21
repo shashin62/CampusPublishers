@@ -74,5 +74,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Requirement of the AdMob platform used for targeted advertising. </string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Uses some photo library tools to display images. </string>
+    <key>NSCameraUsageDescription</key>
+    <string>Uses camera to allow for scanning of university campus QR codes. </string>
 </dict>
 </plist>

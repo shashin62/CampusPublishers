@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Requirement of the AdMob platform used for targeted advertising. </string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Uses some photo library tools to display images. </string>
+    <key>NSCameraUsageDescription</key>
+    <string>Uses camera to allow for scanning of university campus QR codes. </string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>

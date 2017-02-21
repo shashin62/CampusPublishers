@@ -26,21 +26,27 @@
 	<string></string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>UIRequiredDeviceCapabilities</key>
-	<array>
-		<string>armv7</string>
-	</array>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Requirement of the AdMob platform used for targeted advertising. </string>
+	<key>NSCameraUsageDescription</key>
+	<string>Uses camera to allow for scanning of university campus QR codes. </string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Uses some photo library tools to display images. </string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
 	<key>UIRequiresFullScreen</key>
 	<true/>
 	<key>UIStatusBarHidden</key>
 	<true/>
 	<key>UIStatusBarHidden~ipad</key>
-	<false/>
+	<true/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
