@@ -27,24 +27,30 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2.4</string>
+	<string>2.2.7</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>2.2.4</string>
+	<string>2.2.7</string>
 	<key>LSApplicationCategoryType</key>
 	<string></string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>UIRequiredDeviceCapabilities</key>
-	<array>
-		<string>armv7</string>
-	</array>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Requirement of the AdMob platform used for targeted advertising. </string>
+	<key>NSCameraUsageDescription</key>
+	<string>Uses camera to allow for scanning of university campus QR codes. </string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Uses some photo library tools to display images. </string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
 	<key>UIRequiresFullScreen</key>
 	<true/>
 	<key>UIStatusBarHidden</key>
@@ -62,11 +68,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-    <key>NSCalendarsUsageDescription</key>
-    <string>Requirement of the AdMob platform used for targeted advertising. </string>
-    <key>NSPhotoLibraryUsageDescription</key>
-    <string>Uses some photo library tools to display images. </string>
-    <key>NSCameraUsageDescription</key>
-    <string>Uses camera to allow for scanning of university campus QR codes. </string>
 </dict>
 </plist>
