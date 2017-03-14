@@ -6323,15 +6323,10 @@
 		9780B60218C133CF009F19F7 /* Photo-for-opening-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Photo-for-opening-screen.png"; sourceTree = "<group>"; };
 		9780B60318C133CF009F19F7 /* Rutgers-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Rutgers-Config.plist"; sourceTree = "<group>"; };
 		97825C391DDBC63800BF05B9 /* KST.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KST.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		97825C3A1DDBC63900BF05B9 /* CSULB copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "CSULB copy-Info.plist"; path = "/Users/august/Documents/Workspace/cp_mobile/CampusPublishers/CU_iOS/CSULB copy-Info.plist"; sourceTree = "<absolute>"; };
 		97825CBF1DDBC63D00BF05B9 /* SLU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SLU.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		97825CC01DDBC63E00BF05B9 /* CSULB copy copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "CSULB copy copy-Info.plist"; path = "/Users/august/Documents/Workspace/cp_mobile/CampusPublishers/CU_iOS/CSULB copy copy-Info.plist"; sourceTree = "<absolute>"; };
 		97825D431DDBC64100BF05B9 /* NCAT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NCAT.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		97825D441DDBC64200BF05B9 /* CSULB copy copy copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "CSULB copy copy copy-Info.plist"; path = "/Users/august/Documents/Workspace/cp_mobile/CampusPublishers/CU_iOS/CSULB copy copy copy-Info.plist"; sourceTree = "<absolute>"; };
 		97825DC71DDBC64700BF05B9 /* MWSU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MWSU.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		97825DC81DDBC64800BF05B9 /* CSULB copy copy copy copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "CSULB copy copy copy copy-Info.plist"; path = "/Users/august/Documents/Workspace/cp_mobile/CampusPublishers/CU_iOS/CSULB copy copy copy copy-Info.plist"; sourceTree = "<absolute>"; };
 		97825E4B1DDBC82B00BF05B9 /* UALR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UALR.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		97825E4C1DDBC82C00BF05B9 /* MWSU copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "MWSU copy-Info.plist"; path = "/Users/august/Documents/Workspace/cp_mobile/CampusPublishers/CU_iOS/MWSU copy-Info.plist"; sourceTree = "<absolute>"; };
 		97825E4D1DDD137700BF05B9 /* KST.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = KST.xcassets; sourceTree = "<group>"; };
 		97825E501DDD138B00BF05B9 /* SLU.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = SLU.xcassets; sourceTree = "<group>"; };
 		97825E531DDD139C00BF05B9 /* NCAT.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = NCAT.xcassets; sourceTree = "<group>"; };
@@ -8441,11 +8436,6 @@
 				22CFA6051524A080004DEE6A /* CampusPublishers */,
 				22CFA5FE1524A080004DEE6A /* Frameworks */,
 				22CFA5FC1524A080004DEE6A /* Products */,
-				97825C3A1DDBC63900BF05B9 /* CSULB copy-Info.plist */,
-				97825CC01DDBC63E00BF05B9 /* CSULB copy copy-Info.plist */,
-				97825D441DDBC64200BF05B9 /* CSULB copy copy copy-Info.plist */,
-				97825DC81DDBC64800BF05B9 /* CSULB copy copy copy copy-Info.plist */,
-				97825E4C1DDBC82C00BF05B9 /* MWSU copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
