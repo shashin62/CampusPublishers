@@ -1160,6 +1160,7 @@
 		9701AC7A1B20FC5800B9B99B /* playIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9350DB271AB0D09500489EAA /* playIcon.png */; };
 		9701AC831B21004400B9B99B /* UNR.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9701AC821B21004400B9B99B /* UNR.xcassets */; };
 		9701AC841B21004400B9B99B /* UNR.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9701AC821B21004400B9B99B /* UNR.xcassets */; };
+		970867CD1E77B87800FED0E5 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 970867CC1E77B87800FED0E5 /* GoogleMobileAds.framework */; };
 		971233A519C8D3780097670E /* CPAnalytics.m in Sources */ = {isa = PBXBuildFile; fileRef = 971233A419C8D3780097670E /* CPAnalytics.m */; };
 		971233A619C8D5AD0097670E /* CPAnalytics.m in Sources */ = {isa = PBXBuildFile; fileRef = 971233A419C8D3780097670E /* CPAnalytics.m */; };
 		9717E83618CA4A2A0074C2F0 /* CPUniversity.m in Sources */ = {isa = PBXBuildFile; fileRef = C0C8C4421536DA770064F97E /* CPUniversity.m */; };
@@ -6004,7 +6005,6 @@
 		B9AB4FB71A8C97F500F01DCB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9401C4B1A89D34B00C760B3 /* AppDelegate.m */; };
 		B9F1383B1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
 		B9F1383C1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
-		B9F1383D1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
 		B9F1383E1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
 		B9F1383F1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
 		B9F138401AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */; };
@@ -6165,6 +6165,7 @@
 		9701AC801B20FC5800B9B99B /* Visit UNR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UNR.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9701AC821B21004400B9B99B /* UNR.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = UNR.xcassets; sourceTree = "<group>"; };
 		9705177018CE7B3E004AB94A /* Rutgers-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Rutgers-Info.plist"; sourceTree = "<group>"; };
+		970867CC1E77B87800FED0E5 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMobileAds.framework; path = "../../../../../Downloads/GoogleMobileAdsSdkiOS-7.18.0/GoogleMobileAds.framework"; sourceTree = "<group>"; };
 		971233A319C8D2DF0097670E /* CPAnalytics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPAnalytics.h; sourceTree = "<group>"; };
 		971233A419C8D3780097670E /* CPAnalytics.m */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; fileEncoding = 4; path = CPAnalytics.m; sourceTree = "<group>"; };
 		9717E8C818CA4A2A0074C2F0 /* Visit UNL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Visit UNL.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -7355,12 +7356,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				970867CD1E77B87800FED0E5 /* GoogleMobileAds.framework in Frameworks */,
 				97B9B9EB1A08294F002222DA /* EventKitUI.framework in Frameworks */,
 				B950FAE91A8C90A200F6C0DF /* libAdIdAccess.a in Frameworks */,
 				97B9BA061A08296B002222DA /* EventKit.framework in Frameworks */,
 				9780B57518C12E7F009F19F7 /* libzbar.a in Frameworks */,
 				971B510A19AD417200E2E54E /* CoreData.framework in Frameworks */,
-				B9F1383D1AD93A8E001AAC21 /* GoogleMobileAds.framework in Frameworks */,
 				9780B56318C12E7F009F19F7 /* AdSupport.framework in Frameworks */,
 				B950FB1E1A8C910800F6C0DF /* libGoogleAnalyticsServices.a in Frameworks */,
 				9780B56418C12E7F009F19F7 /* MessageUI.framework in Frameworks */,
@@ -8496,6 +8497,7 @@
 		22CFA5FE1524A080004DEE6A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				970867CC1E77B87800FED0E5 /* GoogleMobileAds.framework */,
 				B9F1383A1AD93A8E001AAC21 /* GoogleMobileAds.framework */,
 				B9401C451A89D34B00C760B3 /* GoogleAnalyticsServicesiOS_3.09 */,
 				979FD49619DF5D390070EB3F /* EventKitUI.framework */,
@@ -20401,7 +20403,7 @@
 					"DEBUG=1",
 				);
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "CSULB copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-KST/KST-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20445,7 +20447,7 @@
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "CSULB copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-KST/KST-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20489,7 +20491,7 @@
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "CSULB copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-KST/KST-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20533,7 +20535,7 @@
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "CSULB copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-KST/KST-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20938,7 +20940,7 @@
 					"DEBUG=1",
 				);
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "CSULB copy copy copy copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-MWSU/MWSU-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -20982,7 +20984,7 @@
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "CSULB copy copy copy copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-MWSU/MWSU-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -21026,7 +21028,7 @@
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "CSULB copy copy copy copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-MWSU/MWSU-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -21070,7 +21072,7 @@
 				GCC_PREFIX_HEADER = "CampusPublishers/CampusPublishersDEV-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = TARGET_UMD;
 				GCC_THUMB_SUPPORT = NO;
-				INFOPLIST_FILE = "CSULB copy copy copy copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CampusPublishers/Resources-MWSU/MWSU-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
